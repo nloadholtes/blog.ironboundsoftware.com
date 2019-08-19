@@ -1,1 +1,6 @@
+name: Possibility and Probability
+description: Trying out markdown for everything
+
+permalink: /:year/:month/:title
+baseurl: 
 theme: jekyll-theme-hacker

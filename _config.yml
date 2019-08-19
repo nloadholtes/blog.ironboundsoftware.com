@@ -3,4 +3,10 @@ description: Trying out markdown for everything
 
 permalink: /:year/:month/:title
 baseurl: 
+
+markdown: kramdown
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+  hard_wrap: true
+  
 theme: jekyll-theme-hacker

@@ -1,0 +1,7 @@
+---
+layout:     post
+title:      "Google, Adwords, Algorithms"
+date:       2005-09-24 00:45:11
+categories: blogging
+---
+A few days ago I wrote wondering about how people [make money](http://ironboundsoftware.com/blog/2005/09/17/making-money-by-blogging/) using Google Ads and blogging. Mr. Cringely has a really interesting article this week ([Google Goes Las Vegas](http://www.pbs.org/cringely/pulpit/pulpit20050922.html)) talking about how Google's Adwords algorithms seem to work. Its a pretty interesting read. I can't help but wonder though if the experiment he describes in the article is solid, the web is pretty dynamic and Google seems to really understand that better than a lot of companies out there. I can't help but wonder if he was seeing some kind of reaction to his advertising the same merchandise (it sounds like he just copied his website and put it under a different name). For example, to protect a merchant: When Google sees that someone has copied their pages and tries to buy ads (in order to drive traffic to the copied site), maybe Google charges more for the same amount of traffic. That way the original merchant site still has the advantage (of getting his traffic at a lower price) but the competitor has to pay more just to keep up (as sort of a punishment for just copying someone else's site). This is just a guess on my part, and I'm sure there's a million variables going on that we know nothing about. 

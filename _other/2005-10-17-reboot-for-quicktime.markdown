@@ -1,0 +1,7 @@
+---
+layout:     post
+title:      "Reboot for Quicktime?"
+date:       2005-10-17 01:08:09
+categories: apple
+---
+It took me a long time to [switch over](http://ironboundsoftware.com/blog/2005/05/30/begun-the-mac-war-has/) to using the Mac, but overall I'm glad I did. Everything runs so much smoother and looks (visually) much nicer than just about anything out there. I was talking to someone yesterday about why I resisted switching for so long. It boiled down to two things: The OS (pre OS X) and the cost of the hardware. With OS X and the Mac mini, both of those concerns disappeared. But there is one thing that I keep seeing that is bothering me. Every time I run the "Software Update" and there's an update for QuickTime, it informs me to install that update will require a reboot. Huh? Since when does a video player have such a low level of integration into the core OS that upgrading it will require a reboot? To me that is kind of unsettling. I'm from a Unix/Linux background and I highly value uptime. Rebooting to upgrade a video player (or codec or what ever) seems like it should be pretty much out of the kernel space. Maybe I'm reading too much into it, and QuickTime really has nothing to do with the OS. i.e. they want you to reboot the system just be sure the proper libs are loaded, etc. But still, it seems like the system (OS X and QuickTime) could be designed/written so that applications like QuickTime could be upgraded on the fly without taking the system down....

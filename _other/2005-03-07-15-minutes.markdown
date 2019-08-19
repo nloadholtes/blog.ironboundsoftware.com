@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "15 minutes"
+date:       2005-03-07 04:53:35
+categories: gtd
+---
+    
+On [Slashdot](http://slsahdot.org) the comments on the articles tend to get pretty religious and pretty tangential very fast. I usually take them with a grain of salt. However I read a comment the other day that really caught my eye.  
+  
+    
+I don't even remember what article it was written in/about, but a poster made a comment that every day or every week you (the coder) should dedicate at least 15 to 30 minutes to your own personal project. Now, he wasn't talking about doing this at work or even all in one sitting. It was ment as a "don't stop workingon you project or else they will get stale" comment.  
+  
+    
+Several other posters responded positively to this, saying that basically any forward progress was good progress.  
+  
+    
+I have to agree with this line of thought. In fact it has even inspired me to start back to working on my little python RPG engine. So this week I've spent a little bit of time creating a python Tkinter app to help me build the script for the game engine. That's one area where I really needed to do some work. So instead of plowing through the code and getting stuck/discouraged, I took a different approach (working on a necessary tool) with the hope that moving forward in the direction will give me the kick in the ass I need to get going again.  
+  
+    
+Now if only I can do the same thing with the math class I'm taking...  
+

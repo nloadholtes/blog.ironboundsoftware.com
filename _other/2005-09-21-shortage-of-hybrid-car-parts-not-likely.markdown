@@ -1,0 +1,7 @@
+---
+layout:     post
+title:      "Shortage of hybrid car parts? Not likely"
+date:       2005-09-21 20:24:58
+categories: blogging
+---
+I saw this article yesterday and it made me groan: [ Ford exec: Japanese hogging hybrid parts ](http://www.cnn.com/2005/AUTOS/09/20/bc.autos.summit.ford.hybrids.reut/index.html) First of all: How long do any supply shortages really last? Weeks? Months? In the past it seems that when ever there was a shortage of something (LCD screens for Palm Pilots and cell phones, memory ships, etc.) another company would step in and try to fill the void. So whenever I hear a company complaining about a supply shortage I figure that this is their way of trying to publicly move things along (i.e. put pressure on the suppliers). Secondly I'm wondering how much of a profit margin Ford is making (or expecting to make) on its hybrid cars versus what Toyota and Honda are making. Something tells me that numbers (being a percentage of the price of the car) isn't the same. As a Hybrid owner (Civic Hybrid) it pains me to see things like this in the news. For many reasons such as lower emissions and fuel savings we need to move to more efficient cars, yet articles like this that try to paint a negative view just delay our transition. Another article I read this morning ([read here](http://www.msnbc.msn.com/id/8959811/)) seems to trying to convince people to not buy a hybrid because it doesn't save any more gas. It makes me want to scream. 

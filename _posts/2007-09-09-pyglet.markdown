@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Pyglet"
+date:       2007-09-09 13:06:47
+categories: funny-and-fun
+---
+Recently I heard about [pyglet](http://www.pyglet.org/) which bills itself as " _a cross-platform windowing and multimedia library for Python_ ". This is more-or-less what [pygame](http://pygame.org/news.html) offers, but with one exception: pyglet doesn't depend on SDL, its written in pure python. 
+
+> As a side note, if you try to install pyglet on a Mac, there is a small catch. I'm running 10.4 Tiger which uses Python 2.4. Pyglet.org does offer a dmg file to install itself, but it doesn't work. The reason for this is that Pyglet does need ctypes, and ctypes did  not become a standard part of python until 2.5. So, to get pyglet to work on your Mac, you'll need to get (and build) ctypes, or install Python 2.5. I installed ctypes and found it to be pretty painless.
+
+Its still in an alpha state, but I thought it sounded interesting so I decided to take a look at it. Compared to pygame, it seems to be a little more streamlined. I've never really push pygame to the limits, so I can't really compare the two as fully as I would like. One thing that I did like were the demo apps and the examples in the documentation. They were concise, yet demo'ed useful things that I would want to do in an app. I started reading the documentation after lunch the other day and within a few minutes I found myself modifying the code as I read through the docs. Within 5 minutes I decided that I would try a sprint: Could I implement a quick and dirty game of [pong](http://en.wikipedia.org/wiki/Pong) within an hour using pyglet? Well, the answer is Yes! [
+
+![picture-1.png](http://www.ironboundsoftware.com/blog/wp-content/uploads/2007/09/picture-1.thumbnail.png)
+
+](http://www.ironboundsoftware.com/blog/wp-content/uploads/2007/09/picture-1.png "picture-1.png") After playing around for an hour I had everything except the computer's paddle in place working. A few days later when I had some time I spent and additional 15-30 minutes (while watching the game on TV) and knocked out the "AI" for the computer player. This isn't award-winning code or game play (the bounding box collision test is pretty crappy), but it did show me that I could get something done quickly using this framework. So, check out pyglet. Here's the code to my [craptacular version of pong](http://ironboundsoftware.googlecode.com/svn/trunk/misc/src/pyglet/). (There are 3 files, two images for the paddles and the ball, and the source file [pyglet_pong.py](http://ironboundsoftware.googlecode.com/svn/trunk/misc/src/pyglet/pyglet_pong.py))

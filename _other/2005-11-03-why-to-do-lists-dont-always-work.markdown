@@ -1,0 +1,7 @@
+---
+layout:     post
+title:      "Why To Do lists don’t always work"
+date:       2005-11-03 07:02:53
+categories: blogging
+---
+In my earlier post about [School and GTD,](http://ironboundsoftware.com/blog/2005/11/01/gtd-and-school/) I mentioned that the To Do lists just weren't working for me as well as they do when I use them for work and other projects. Thinking about it some more has lead me to the conclusion that In order to have an effective To Do list, you need to have some level of knowledge about what you are trying to do. Now that sounds like a really obvious statement, but I don't think that it is. Think about it this way: If you were asked to make a list of all of the tasks that you need to do in order to launch a rocket into space, how long would your list be? If you are a person who works with rockets a lot, you list might be very long and very detailed. If you are someone who doesn't work with rockets often your list will probably be pretty short and very general. Guess whose To Do list will be more likely to lead to a successful rocket launch... While in school, you are typically learning about a topic that you don't know a lot about. Attempting to make a To Do list that captures the steps necessary to learn something can be difficult if you don't know or understand everything you are dealing with. That has been my problem, my To Do lists have been too simple for the task I was trying to accomplish.

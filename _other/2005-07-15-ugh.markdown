@@ -1,0 +1,7 @@
+---
+layout:     post
+title:      "Ugh."
+date:       2005-07-15 01:47:00
+categories: thinking
+---
+The new Harry Potter book was "accidently" sold to some people in Canada. The Canadian courts stepped in and asked people to return the books and to not discuss anything in the book. Richard Stallman (RMS) posted on his website a tirade about how the Canadians are not respecting human rights, and how he wants to publish an anonymous tips about the plot of the book. How high an mighty can one get? The stores that sold the books broke a contract that they signed into (saying that they would not sell the book before its release date) then they broke that contract (by selling the book early). Asking people to not discuss the book seems very reasonable to me (remember, asking is not the same as jailing people to keep them from talking!) *sigh* This is one of the reasons I use XEmacs and not emacs.

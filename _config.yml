@@ -10,3 +10,6 @@ kramdown:
   hard_wrap: true
   
 theme: jekyll-theme-hacker
+
+plugins:
+  - jekyll-sitemap

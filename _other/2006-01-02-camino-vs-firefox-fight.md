@@ -1,0 +1,7 @@
+---
+layout:     post
+title:      "Camino vs Firefox: FIGHT!"
+date:       2006-01-02 00:13:15
+categories: apple
+---
+This post is about browsers on the Mac, you've been warned! I've been using [Camino](http://www.caminobrowser.org/) for quite a while now. I just upgraded to the 1.0b2 build and didn't really see any changes, but its been running pretty good for me. On a whim I decided to try out [Firefox](http://www.mozilla.com/firefox/) (1.5) for the Mac and see what shape it was in. I'm pretty surprised, it still has some of the problems that made me switch to Camino in the first place (most noticeably the lack of fav icons in the bookmark list, and the buttons on web pages are ugly looking), but it has one major advantage over Camino: It seems to use a lot less memory. Over the course of a day, Camino builds up a huge (over a gig) of virtual memory. In a side by side test of Firefox and Camino I'm seeing that Firefox uses about half the virtual memory, and that its "real" memory grows and shrinks nicely. Camino usually grows and grows. What's the point you ask? Well, for me I'm noticing that Firefox seems faster and more responsive. I'm guessing this is due to less swapping, but I'll need to use it more to be sure. Plus with less memory usage, it allows other programs (Eclipse at the moment) to work smoother... And as a super-extra-special bonus, [GMail](http://mail.google.com) recognizes Firefox and that allows much nicer editing/spell checking.

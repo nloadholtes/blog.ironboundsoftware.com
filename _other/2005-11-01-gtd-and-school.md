@@ -1,0 +1,7 @@
+---
+layout:     post
+title:      "GTD and School"
+date:       2005-11-01 18:22:32
+categories: blogging
+---
+When I first started reading about the "Getting Things Done" Methodology, I immediately saw three places where I thought I could apply it. Work, School, and my personal projects are three areas of my life where organization and productivity are desperately needed. And applying the GTD methods (most notably the To Do lists) has helped me tremendously in the Work and Projects area. I've been more productive, and better organized which has led to a great feeling of satisfaction. School however, has been another story. For some reason I have failed utterly at applying the GTD methods to my school work. To Do lists and calendars, while helpful, have not produced the same level of results that they have fro Work and Projects. I've been thinking about why this is. Work and Projects share a couple of traits that school does not. Both are open ended time-wise, so if a task slips on my To Do list, it isn't too big of a deal. Also, my Work and Projects tend to involve tools, concepts, and material that I'm already familiar with, while school is constantly introducing new material. The GTD system doesn't seem to handle those traits very well. This semester has been stressful, and no amount of being prepared has been paying off like it usually does. I know that the GTD system was created with business people in mind, and wouldn't school and business be similar in a lot of ways? I sure thought they would be.

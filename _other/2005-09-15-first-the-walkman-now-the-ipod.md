@@ -1,7 +1,0 @@
----
-layout:     post
-title:      "First the walkman, now the iPod"
-date:       2005-09-15 05:08:12
-categories: music
----
-[Wired ](http://www.wired.com/news/technology/0,1282,68844,00.html) has an article about how there seems to be a rise in the number of people suffering from hearing loss these days. The article points to the use of [iPods](http://apple.com/ipod), cell phones, and other modern noise makers as the source of this spike. It seems that having those little ear buds in your ears (especially in a loud environment where you have to raise the volume to hear something) for hours on end can be bad for your ears. Which isn't really a surprise. I mean, its almost common sense. But it is easy to have the volume too loud without noticing it. When I leave the [gym](http://crunch.com) and I'm still listening to the the iPod I notice in a few minutes it seems to be turned up too loud (trying to drown out the noise and soundtrack at the gym). But none of this is really a surprise, I remember years and years ago (yes, sadly I'm now old enough to say that) when the walkman first came out a lot of doctors were saying it is/will cause hearing damage. Fast forward a few years to when the discman came out and they were saying the same ting. Now the iPods are hear and the news hasn't changed. I wonder if any one will _hear_ the warnings this time. Get it? **Hear** the warning? About deafness? Ok, it was a pretty lame joke... 

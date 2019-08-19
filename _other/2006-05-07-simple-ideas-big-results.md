@@ -1,7 +1,0 @@
----
-layout:     post
-title:      "Simple ideas, big results"
-date:       2006-05-07 19:53:18
-categories: math
----
-Recently I have discover [Jeff Jonas' blog](http://jeffjonas.typepad.com/jeff_jonas/). Jeff is a really interesting person and if you are interested in Social Network Analysis or Data Mining, then his page should be on your reading list. His idea for a simple and anonymous watch list checking is one of those forehead-slapping, "why didn't I think of that" ideas that I just love to read about. Basically the idea is that if sensitive fields in a database (name, birthdate, etc.) are encrypted in a one-way hash, then the database can be distributed without fear of a massive invasion of privacy (because all of the data in it is encrypted). If you need to check to see if someone is in this database, you simply apply the same one-way hash to their information, and then see if the hashed data is in the database. If it is, then it gets reported back to the original database holder who then is responsible for keeping the data. [Einstein](http://www.brainyquote.com/quotes/quotes/a/alberteins103652.html), [Dijkstra](http://www.brainyquote.com/quotes/quotes/e/edsgerdijk204332.html), and everyone else who ever talked about elegance and simplicity were 100% right. And this idea is simple and elegant. Check out this entry about how the network that connects the facts should be interpreted: [Jeff Jonas: Sometimes a Big Picture is Worth a 1,000 False Positives](http://jeffjonas.typepad.com/jeff_jonas/2006/05/sometimes_a_big.html)

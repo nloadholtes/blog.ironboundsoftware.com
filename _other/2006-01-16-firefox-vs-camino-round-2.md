@@ -1,7 +1,0 @@
----
-layout:     post
-title:      "Firefox vs. Camino: Round 2"
-date:       2006-01-16 15:41:04
-categories: os-x
----
-Perhaps I was a bit hasty in my posting the other day when I claimed that [Firefox](http://www.mozilla.com/firefox/) was [using less memory](http://ironboundsoftware.com/blog/2006/01/02/camino-vs-firefox-fight/) than [Camino](http://www.caminobrowser.org/). After a day or two Firefox's memory usage had climbed up quite a bit. So I'm going to amend my statement and say that they both seem to use a lot of memory over time. If nothing else, Camino scored another point with me when Firefox crashed on me the other day. Plus using Firefox on the Mac isn't as satisfying as I thought it would be. The [Adblock plugin](http://adblock.mozdev.org/) doesn't work quite the same as it does in Windows, and that was a major disappointment. I'm sick of the flash based ads that are running everywhere that spike my CPU to 100% and make the whole system grind to a crawl. I was really hoping that Adblock would help with that, but I found it difficult to get it to mark a site as "needing to be blocked". Another point for me was that Camino uses the native OS X buttons, where as Firefox uses the plain HTML web buttons. On the bright side, Firefox does seem to handle flash better than Camino. The CPU only goes up to about 75% on the bad ads. *sigh* What's the lesson in this? For me its to make sure the next desktop computer I get has a minimum of 1GB of memory. Trying to skim by on 512MB in my Mac Mini was a bad idea.

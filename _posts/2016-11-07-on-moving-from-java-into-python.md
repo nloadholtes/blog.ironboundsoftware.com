@@ -3,6 +3,8 @@ layout:     post
 title:      "On moving from Java into Python"
 date:       2016-11-07 10:20:43
 categories: python
+tags:  
+permalink: /2016/11/07/on-moving-from-java-into-python/
 ---
 Before coming to Python, I did a lot of work in Java. Java is pretty good language and [![From Java into Python](https://ironboundsoftware.com/blog/wp-content/uploads/2016/11/imageedit_12_9004307411.gif)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/11/imageedit_12_9004307411.gif)environment, but it is different than Python. Beyond the language syntax there's a ton little differences to be aware of. Sometimes when we move from Java into Python it shows by some of the things that we do. Here's some things I've learned over the years, (or things that I've stubbed my toes on recently).
 

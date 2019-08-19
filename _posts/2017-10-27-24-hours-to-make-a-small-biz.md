@@ -3,6 +3,8 @@ layout:     post
 title:      "24 hours to make a small biz"
 date:       2017-10-27 09:36:23
 categories: entrepreneur
+tags:  
+permalink: /2017/10/27/24-hours-make-small-biz/
 ---
 The other day at work I saw something on twitter and I said to myself “Hey, I bet I could build something like that, I’ve got all the parts just laying around...” As I was thinking that I realized I have some time off available to me so on a whim I decided to take a day off and hack on the idea and make it come to life! A hack day!  This post is my work diary. Throughout the day I took a break to record my progress and thoughts through the process. Hopefully this will inspire someone else out there to take some action and make something new in the world! 
 

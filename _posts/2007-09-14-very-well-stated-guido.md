@@ -3,6 +3,8 @@ layout:     post
 title:      "Very well stated Guido!"
 date:       2007-09-14 16:55:07
 categories: programming
+tags:  
+permalink: /2007/09/14/very-well-stated-guido/
 ---
 Thanks to [Reddit](http://reddit.com) today, I saw [this posting](http://mail.python.org/pipermail/baypiggies/2007-September/002504.html) from Guido Van Rossum about the recent flap about the [GIL in Python](http://www.artima.com/weblogs/viewpost.jsp?thread=214235): 
 

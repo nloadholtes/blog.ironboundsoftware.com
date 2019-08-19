@@ -3,6 +3,8 @@ layout:     post
 title:      "Working with branches and a requirements.txt"
 date:       2016-04-18 09:26:00
 categories: python
+tags:  
+permalink: /2016/04/18/working-with-pip-branch/
 ---
 Recently I had an interesting situation: We had some new code, lets call it project A, that had not been merged into master, but it needed to used by another project (project B) to see if a certain bug had been fixed. These projects are both python based, so they are using the normal tools. (pip and setup.py, etc.) Project B pip installs Project A, and in the requirements.txt it is listed like a normal git repository dependency. But, we want test a different branch of Project A. Simply promoting the branch to master is not ideal; if there is a problem with the branch potentially all projects that depend on Project A could be affected. And lets be honest, what are the odds they will be "positively" affected? In my experience, its zero. 
 

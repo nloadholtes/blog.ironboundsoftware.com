@@ -3,6 +3,8 @@ layout:     post
 title:      "A widget is born!"
 date:       2005-08-04 01:32:00
 categories: os-x
+tags:  
+permalink: /2005/08/04/a-widget-is-born/
 ---
 I'm proud to announce that I have created a [widget](http://wdb.apple.com/downloads/dashboard/) for the [OS X](http://wdb.apple.com/macosx/) Dashboard!   
   

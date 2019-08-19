@@ -3,6 +3,8 @@ layout:     post
 title:      "4 signs it is time to take a break to avoid burnout"
 date:       2016-10-24 11:39:21
 categories: thinking
+tags:  
+permalink: /2016/10/24/4-signs-time-take-break-avoid-burnout/
 ---
 Burnout. One day you look up and you realize you don't feel like doing anything. Tasks are piling up, everyone seems to be on your case, and you can't get it in gear to get even the smallest thing done. It happens to everyone, and affects each person a little bit differently. In my experience there's a few common warning signs.
 

@@ -3,6 +3,8 @@ layout:     post
 title:      "Deploying with Gitlab's Continuous Integration"
 date:       2016-09-19 11:31:52
 categories: software-development
+tags:  
+permalink: /2016/09/19/deploying-with-gitlab-continuous-integration/
 ---
 Have you seen the [Gitlab Continuous Integration feature](https://about.gitlab.com/handbook/sales/idea-to-production/)? It is pretty sweet. All you have to do is include a special yaml file and then when you check in new code it will build/test it for you. As awesome as that is, can it also deploy your code? The answer is YES! 
 

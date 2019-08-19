@@ -3,6 +3,8 @@ layout:     post
 title:      "How to identify what to measure "
 date:       2010-07-13 07:45:23
 categories: getting-things-done
+tags:  
+permalink: /2010/07/13/how-to-identify-what-to-measure/
 ---
 [My last post about metrics](http://www.ironboundsoftware.com/blog/2010/07/12/metrics-the-kick-in-the-ass-that-is-the-key-to-productivity/) really got me thinking. Most GTD programs don't really talk about improvements from a dead stop, they are more concerned about changing your process. But altering how you implement your process can have a huge impact. Here is a suggestion on how to identify what to measure: 
 

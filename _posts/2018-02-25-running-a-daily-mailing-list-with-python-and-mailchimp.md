@@ -3,6 +3,8 @@ layout:     post
 title:      "Running a daily mailing list with Python and MailChimp"
 date:       2018-02-25 16:02:03
 categories: python
+tags:  
+permalink: /2018/02/25/daily-email-list-python-mailchimp/
 ---
 So I'm a really big fan of Stoic philosophy. I really like the way it prepares us for troubles in life, and I thought it would be really cool to have a daily email to go out and give you a shot of Stoic inspiration for the day. And since I liked it, why not start a mailing list and share this others? The first step was to go to [MailChimp](https://mailchimp.com) and setup a mailing list. Getting people on to your mailing list is a huge topic and I won't really go into detail here but if you're interested to learn more tweet me at [@nloadholtes](https://twitter.com/nloadholtes) and let me know and I'll whip up a post for you.  _([Here's the list if you want to join it](https://heroicinspiration.com/daily-stoic-inspiration))_ The next thing that was needed was to organize these quotes into a way that was usable. I'm using an a Google spreadsheet because it's just really easy to put stuff there. Simpler to maintain than a database, this choice turned out to be a pretty good move! There are python libraries that can easily manipulate these spreadsheets. 
 

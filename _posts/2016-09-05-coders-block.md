@@ -3,6 +3,8 @@ layout:     post
 title:      "Coder's block"
 date:       2016-09-05 12:11:00
 categories: programming
+tags:  
+permalink: /2016/09/05/coders-block/
 ---
 Writer's block is a problem that writers have when they simply don't know what words to put on the page. Developer's have this same problem, I like to call it coder's block. Where does it come from, and how do we get rid of it? Let's dive in. 
 

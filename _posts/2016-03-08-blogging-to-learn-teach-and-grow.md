@@ -3,6 +3,8 @@ layout:     post
 title:      "Blogging to learn, teach, and grow"
 date:       2016-03-08 08:41:01
 categories: blogging
+tags:  
+permalink: /2016/03/08
 ---
 [caption id="attachment_588" align="alignright" width="202"][![Blogging](https://ironboundsoftware.com/blog/wp-content/uploads/2016/03/5046425738_39370b4fde_m.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/03/5046425738_39370b4fde_m.jpg) Photo credit: [Mike Licht, NotionsCapital.com](https://www.flickr.com/photos/notionscapital/5046425738/) via [Foter.com](http://foter.com/) / [CC BY](http://creativecommons.org/licenses/by/2.0/)[/caption] I started the blog so long ago (2004!) that I've kinda forgotten why I got started. In the beginning it was the novelty of blogging and sharing ideas. Then it turned into a place for me to document some of the technical things I was learning and discovering. I had visions of it becoming something like a window into my mind as I did programming and entrepreneurial activities... but as the last few years show there wasn't much going on. 
 

@@ -3,6 +3,8 @@ layout:     post
 title:      "Becoming a better programmer"
 date:       2016-11-21 11:28:26
 categories: programming
+tags:  
+permalink: /2016/11/21/becoming-a-better-programmer/
 ---
 [caption id="attachment_919" align="alignright" width="420"][![Becoming a better programmer one step at a time](https://ironboundsoftware.com/blog/wp-content/uploads/2016/11/out_the_back-420x276.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/11/out_the_back.jpg) Navy SEALs jump from the ramp of a C-17 Globemaster III over Fort Picket Maneuver Training Center, Va. (Air Force photo by Staff Sgt. Brian Ferguson)[/caption] In the Navy SEALs they have a saying: [Everyday you have to earn your trident](http://www.military.com/video/forces/seal-teams/seals-earn-their-trident-every-day/2534637733001). The trident is the symbol that sailors earn as they complete the training that makes them part of the elite SEALs. It is possible to lose one's trident however. To prevent a behavior that might cause this, the SEALs remind themselves that everyday they have to "earn (the right to wear) their trident". As I spend more time in the programming world I have come to realize there is great wisdom in this approach. A good friend of mine once told me that "Experience and skills are expiring assets." In other words, if you don't use them, you loose them. Just because your job title has the word "Senior" in it, you don't automatically get a pass. You need to earn that title every day. So as a programmer, how can you earn your place? How can you improve who you were yesterday? What does it take to make sure you are becoming a better programmer? Here's what I've been doing.
 

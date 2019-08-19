@@ -3,6 +3,8 @@ layout:     post
 title:      "Moving from Django to Flask"
 date:       2016-06-13 11:11:11
 categories: django
+tags:  
+permalink: /2016/06/13/moving-django-to-flask/
 ---
 Recently I was working on a project that involved breaking up a Django app into smaller services. As we looked at the new services it occurred to me that we might be able to use Flask instead of Django. It was pretty straight forward to move things to Flask, but there were a couple of little gotchas that I thought I would share on moving from Django to Flask. 
 

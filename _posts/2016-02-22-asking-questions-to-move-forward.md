@@ -3,6 +3,8 @@ layout:     post
 title:      "Asking questions to move forward"
 date:       2016-02-22 09:59:56
 categories: software-development
+tags:  
+permalink: /2016/02/22/asking-questions-to-move-forward/
 ---
 # Asking questions?
 

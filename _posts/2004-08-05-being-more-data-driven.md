@@ -3,6 +3,8 @@ layout:     post
 title:      "Being more data driven"
 date:       2004-08-05 21:25:48
 categories: programming
+tags:  
+permalink: /2004/08/05/being-more-data-driven/
 ---
     
 I got a copy of [Game Programming with Python](http://www.amazon.com/exec/obidos/tg/detail/-/1584502584/ref=cm_plog_yoo_dp/104-4362877-4928718?%5Fencoding=UTF8&v=glance) the other day. I have to say I'm liking the book so far. Over the years I've bought many a "Game Programming" book. Most of them spend the first half to third of the book explaining basic programming (in what ever language the book is targeted at). This book is different, it assumes the reader has a basic knowledge of Python and OO.   

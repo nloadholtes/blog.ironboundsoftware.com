@@ -3,6 +3,8 @@ layout:     post
 title:      "Using scanf in Sparc Assembly language"
 date:       2004-05-07 20:55:56
 categories: programming
+tags:  
+permalink: /2004/05/07/using-scanf-in-sparc-assembly-language/
 ---
   
  Recently I was in a class covering the Sparc architecture and assembly language. The book we were using was not the best, and as a result there was a lot of scrambling to [Google](http://www.google.com) in the hopes of finding answers. However, even Google wasn't able to help that much.   

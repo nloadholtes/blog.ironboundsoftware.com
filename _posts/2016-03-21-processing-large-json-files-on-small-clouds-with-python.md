@@ -3,6 +3,8 @@ layout:     post
 title:      "Processing large JSON files on small clouds with python"
 date:       2016-03-21 11:40:49
 categories: programming
+tags:  
+permalink: /2016/03/21/large-json-small-clouds-with-python/
 ---
 [caption id="attachment_599" align="alignright" width="222"][![Clouds as a metaphor for JSON](https://ironboundsoftware.com/blog/wp-content/uploads/2016/03/5506788169_77cc7ccb2a_b-744x484.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/03/5506788169_77cc7ccb2a_b.jpg) Clouds are pretty. If only our JSON looked looked like this.[/caption] I am a huge fan of cloud computing. Its easy to get new machines up and running and it also forces you to think more about distributed computing earlier in your projects. Also, it is great that you don't have to go into a noisy cold data center to change out a broken hard drive. 
 

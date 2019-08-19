@@ -3,6 +3,8 @@ layout:     post
 title:      "Mongo and Flask Performance Tuning: quick and easy"
 date:       2015-09-02 05:30:13
 categories: flask
+tags:  
+permalink: /2015/09/02/mongo-and-flask-performance-tuning-quick-and-easy/
 ---
 At [Vunify](http://www.vunify.com) (which is basically the TV Guide of the future) we are a python shop using [Flask](https://flask.readthedocs.org/en/latest/) and [Mongo](https://www.mongodb.org/) to run our site. Recently as we were finishing up rolling out a new UI (aren't those always fun to do?) our CEO noted that the main page was taking a while to load for logged in users. That page has a lot going on in terms of graphical elements on the screen and with its logic on the backend. Finding the cause of the slowdowns wouldn't be a simple as doing a diff of the new version with the old. 
 

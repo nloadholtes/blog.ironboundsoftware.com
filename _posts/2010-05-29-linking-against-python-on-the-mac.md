@@ -3,6 +3,8 @@ layout:     post
 title:      "Linking against Python on the Mac"
 date:       2010-05-29 07:00:12
 categories: os-x
+tags:  
+permalink: /2010/05/29/linking-against-python-on-the-mac/
 ---
 Today while working with [swig](http://swig.org) I kept running into problems trying to get python to read the generated output files. The error I finally wound up with was: 
 

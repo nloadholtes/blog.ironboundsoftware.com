@@ -3,6 +3,8 @@ layout:     post
 title:      "python __debug__"
 date:       2017-01-09 09:31:36
 categories: python
+tags:  
+permalink: /2017/01/09/python-__debug__/
 ---
 The other day I stumbled upon Python __debug__ and I thought I would share some interesting things I learned about it. 
 

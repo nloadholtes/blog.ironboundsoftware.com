@@ -3,6 +3,8 @@ layout:     post
 title:      "Programmer, grow thy skills! Be a hacker!"
 date:       2016-03-01 09:40:05
 categories: software-development
+tags:  
+permalink: /2016/03/01/programmer-grow-thy-skills-be-a-hacker/
 ---
 In software development there is one thing that will always be true: You need to learn more. New technologies are popping up all the time, and old technologies fade into the background. Nothing ever seems to really go away, but if you want to stay relevant (and employed as a programmer) you need to keep on learning new things. 
 

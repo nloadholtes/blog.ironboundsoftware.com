@@ -3,6 +3,8 @@ layout:     post
 title:      "4 articles on Python Debugging"
 date:       2018-01-11 10:09:15
 categories: python
+tags:  
+permalink: /2018/01/11/4-articles-on-python-debugging/
 ---
 I still remember my first programming job. It was at the start of the dot-com boom, and I thought I was king of the world. Turns out I was really, really wrong. :)  That first month was so mind expanding. I was working with season developers who had worked on so many different things. My co-workers included former game developers for the Commodore 64, telephone switch experts, and speech recognition patent holders. I was a very small fish in this big pond. Everyone at the company was so helpful, and they all were willing to take the time to teach me some of their hard earned knowledge. I still remember the first code review I sat in on, I was amazed that these people could look at a bunch of functions they had never seen yet figure out where there were bugs. I am so grateful for this. That experience has really stuck with me, and to this day I work hard to pay it forward. I love helping other developers by sharing my experiences and hard earned wisdom. To help share some knowledge I've been writing up articles about debugging, and Python in specific. _A little bit of irony: At my current day job I've been doing more and more node.js stuff. But I've been finding that a lot of the core principals carry over no matter what language you are using._ Here are the ones that I hope are the most useful: 
 

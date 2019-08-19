@@ -3,6 +3,8 @@ layout:     post
 title:      "You should do experiments"
 date:       2016-01-05 05:12:50
 categories: statistics
+tags:  
+permalink: /2016/01/05/you-should-do-experiments/
 ---
 Over the last few years I've learned that it is one thing to have a good idea, and it is something completely different to have an idea that someone will pay you for. Sadly the overlap between these two can be pretty small. But, there is a way to enlarge the overlap: find out what your customers really want and then give it to them. The best way to do this is with controlled experiments. 
 

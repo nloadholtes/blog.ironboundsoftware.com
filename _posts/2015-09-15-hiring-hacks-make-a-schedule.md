@@ -3,6 +3,8 @@ layout:     post
 title:      "Hiring Hacks: Make a schedule"
 date:       2015-09-15 07:29:58
 categories: getting-things-done
+tags:  
+permalink: /2015/09/15/hiring-hacks-make-a-schedule/
 ---
 # "Goals without deadlines are just dreams"
 

@@ -3,6 +3,8 @@ layout:     post
 title:      "Effective Logging"
 date:       2006-01-12 21:54:36
 categories: blogging
+tags:  
+permalink: /2006/01/12/effective-logging/
 ---
 I've been debugging a lot of different code lately, and it has helped me remember the importance of logging in an application. Especially when you application is going to be used in the real world. You can plan, and code, and try to account for every situation that might happens, but eventually something you didn't plan on will hit, and if you have logging, you can use those message to trace down the cause of your problems. However, it isn't enough just to be able to say "Yeah, my app has logging". You have to make sure you have logging in the right places, and that it is reporting the right information. Without those two conditions being met your logging can be next to worthless. The worst thing that can happen is for your logs to be ignored because they don't give useful information. These are my suggestions for making sure your application has effective logging. 
 

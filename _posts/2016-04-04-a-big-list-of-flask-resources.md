@@ -3,6 +3,8 @@ layout:     post
 title:      "A big list of Flask resources"
 date:       2016-04-04 09:43:08
 categories: flask
+tags:  
+permalink: /2016/04/04/a-big-list-of-flask-resources/
 ---
 [caption id="" align="alignnone" width="3000"]![Flask web framework logo, flask resources](http://flask.pocoo.org/static/logo/flask.png) The Flask web framework, the best python web framework[/caption] Over the last year I have spent a lot of time with [Flask which is a python web framework](http://flask.pocoo.org/). It is commonly referred to as a micro-framework because it tends to be lightweight and make use of plugins (as opposed to having everything built in like Django). These plugins are what makes Flask great, there is a great variety of common programming tasks that can be accomplished using these plugins. This helps you the programmer because now you don't have to reinvent the wheel. Without these flask resources you would wind up recreating a lot of code. So here are the Flask plugins and tools that I have found really helpful while  developing websites for my clients. 
 

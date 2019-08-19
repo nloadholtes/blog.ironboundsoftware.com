@@ -3,6 +3,8 @@ layout:     post
 title:      "Mosh, tmux, and twitter: Keeping up on the go"
 date:       2015-08-17 05:35:48
 categories: organization
+tags:  
+permalink: /2015/08/17/mosh-tmux-and-twitter-keeping-up-on-the-go/
 ---
 I'm a big fan of twitter and I wanted to share some tips to help everyone get the most out of it. Here's some of the hacks I'm doing that make using twitter faster and more effective for me. Here's the  **TL;DR** version for the impatient: 
 

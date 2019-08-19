@@ -3,6 +3,8 @@ layout:     post
 title:      "Remote Matcher journal #1"
 date:       2019-08-17 11:14:59
 categories: business
+tags:  
+permalink: /2019/08/17/remote-matcher-journal-1/
 ---
 This is something new I'm trying: a journal recapping the work I'm doing on [Remote Matcher](https://remotematcher.com) which is my current side project. My goal with this is to do some public accountability so I'll keep moving forward on this project. _(Real talk: I'm passionate about the idea behind the project, but I seem to have some kind of mental block about getting work done on it. These blog posts are meant to apply pressure to me to report my progress publicly and move the project forward)_ Over the next couple of updates I'll include a section on the "who/what/why" of this project. This update is all about just noting where the project is. 
 

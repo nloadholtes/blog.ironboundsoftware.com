@@ -3,6 +3,8 @@ layout:     post
 title:      "Curses and Python"
 date:       2004-06-08 02:59:55
 categories: python
+tags:  
+permalink: /2004/06/08/curses-and-python/
 ---
 I've always heard curses was a pain to program, but I've got to say so far I'm digging it. I'm using the python curses, so maybe that is part of the reason why it is going so easily. (Doesn't python make everything easier?) 
 

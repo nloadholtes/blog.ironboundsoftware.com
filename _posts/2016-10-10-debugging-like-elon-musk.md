@@ -3,6 +3,8 @@ layout:     post
 title:      "Debugging like Elon Musk"
 date:       2016-10-10 10:25:05
 categories: productivity
+tags:  
+permalink: /2016/10/10/debugging-like-elon-musk/
 ---
 Every time I think I'm doing pretty good with my projects, I take look over and see what Elon Musk is doing. Then I instantly feel like I'm wasting my life. That guy does such huge things and he does them so quickly it is mind boggling. What is his secret? Can I be like that? The answers is yes, if you use "First Principles" reasoning. I have found that when you apply first principles to debugging software that you will get to better solutions. So what is first principles? Here's Elon explaining the how and what of it: [embed]https://www.youtube.com/watch?v=NV3sBlRgzTI[/embed] So here's the take away: 
 

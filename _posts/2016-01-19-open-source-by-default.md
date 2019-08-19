@@ -3,6 +3,8 @@ layout:     post
 title:      "Open Source by default"
 date:       2016-01-19 09:07:56
 categories: programming
+tags:  
+permalink: /2016/01/19/open-source-by-default/
 ---
 As a developer, you probably use a fair amount of open source tools. You might not even realize that you are doing it, because open source is everywhere. This is an awesome thing, and I think you should help contribute to it! Most people will say things like "Oh, I don't have anything to contribute" and I would answer them by asking if they've ever customized their IDE or text editor. When they say yes, I offer that they could post their settings. I then point them to [my dotfile repo](https://bitbucket.org/nloadholtes/dotfiles) as an example of someone doing this. Now this is a very simple and probably not terribly useful example of open source. BUT! It is a first step. And every major thing starts with a single small step. Most developers will then start to think about other helper scripts they have written. If there's no proprietary information in them and they are really useful, then doesn't it make sense to put them out there as open source? 
 

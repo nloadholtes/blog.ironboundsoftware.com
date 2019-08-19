@@ -3,6 +3,8 @@ layout:     post
 title:      "Have a plan when traveling"
 date:       2019-06-24 09:51:58
 categories: organization
+tags:  
+permalink: /2019/06/24/have-a-plan-when-traveling/
 ---
 _This is as much a note to myself as anything. Hopefully someone else will see this and get some value from it._ In theory, I love plans. In practice, I don't do them nearly enough. Recently this was illustrated to me while on a business trip. Normally I'm very "go-with-the-flow", but recently I've discovered that when I compared my past trips to people who took the same trip my experience was quite different from theirs. A quick analysis revealed that my relaxed approach to my trip resulted in a lot of "lost" time and opportunities. I wasn't being intentional with my efforts so as a result I had a very so-so time. Or worse, didn't see anything exciting and new. So now when I have a trip I've learned to make a rough itinerary of when/where I need to be, and then look to see if there's anything interesting I could do in the time between events. Example Scenario: You are going to fly to a new town for 3 days of training. The training takes place 4 blocks from your hotel, and from 9am to 4:30pm. This leaves a lot of time in the afternoon/evening that could be wasted if it is not planned. Also on the last day your flight leaves really late in the day. So what should you do? Here's how I've started approaching this: 
 

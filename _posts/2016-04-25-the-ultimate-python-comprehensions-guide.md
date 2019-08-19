@@ -3,6 +3,8 @@ layout:     post
 title:      "The ultimate python comprehensions guide"
 date:       2016-04-25 11:09:42
 categories: programming
+tags:  
+permalink: /2016/04/25/ultimate-python-comprehensions-guide/
 ---
 I came across this[ AMAZING guide on comprehensions in python](https://gist.github.com/bearfrieze/a746c6f12d8bada03589) the other day. Seriously, you should go check it out because it is great. It is Star Wars themed which makes it that much more awesome. [caption id="attachment_647" align="alignleft" width="420"][![comprehensions are like card tricks](https://ironboundsoftware.com/blog/wp-content/uploads/2016/04/Display_Card_Flourish-420x349.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/04/Display_Card_Flourish.jpg) By ShahanB - who took the photo in 2012, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23480947[/caption] Comprehensions are one of my favorite things about python. They are so useful for making lists (and other things) in a very small amount of code. There is so much you can do with them, especially when combined with some of the other "power tools" that python as, especially the functools. Having said that there are some downsides that should be taken into consideration. For example, there's always the temptation to use our newest shiniest tools where ever we can. And with comprehensions that can lead to one of the biggest problems: nested comprehensions. 
 

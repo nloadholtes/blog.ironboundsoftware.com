@@ -3,6 +3,8 @@ layout:     post
 title:      "Developer Mastermind"
 date:       2016-06-20 11:03:29
 categories: uncategorized
+tags:  
+permalink: /2016/06/20/developer-mastermind/
 ---
 Recently I have been describing myself as "A developer interested in entrepreneurship". And lately I've been hearing a lot about masterminds. Inspired by a few podcasts, I threw together an MVP to see if I could find other like minded people who would be interested in a developer mastermind. Lets dive into this fun little experiment! 
 

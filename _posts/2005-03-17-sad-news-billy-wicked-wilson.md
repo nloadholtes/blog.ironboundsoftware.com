@@ -3,6 +3,8 @@ layout:     post
 title:      "Sad news - Billy “Wicked” Wilson"
 date:       2005-03-17 06:37:27
 categories: games
+tags:  
+permalink: /2005/03/17/sad-news-billy-wicked-wilson/
 ---
     
 A few weeks ago I wondered that Billy Wilson was up to. I used to read VoodooExtreme every day way back when and he always cracked me up. His pimp-talk was classic and always gave me some new phrase to use. I still use the phrase "nyquil-vodka smoothie" from time to time.  

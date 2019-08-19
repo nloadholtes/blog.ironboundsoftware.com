@@ -3,6 +3,8 @@ layout:     post
 title:      "Finding a development job you will love"
 date:       2016-08-01 09:35:24
 categories: programming
+tags:  
+permalink: /2016/08/01/finding-development-job-you-will-love/
 ---
 [![Finding a development job you will love](https://ironboundsoftware.com/blog/wp-content/uploads/2016/07/cover-744x496.png)](http://amzn.to/2gpK5rx)Recently a friend asked about where to find some employees for a company she is working at. Some others had suggested the usual job sites, but when I looked at them and had a flash of insight: These are jobs, but will she find the right people there? Where do the good developer look for new jobs? How do you find a development job you will love? Lets investigate! The usual job sites will get you the usual results. To get extraordinary results, you need to work outside of the box a little bit. 
 

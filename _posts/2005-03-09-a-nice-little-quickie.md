@@ -3,6 +3,8 @@ layout:     post
 title:      "A nice little quickie"
 date:       2005-03-09 04:29:06
 categories: python
+tags:  
+permalink: /2005/03/09/a-nice-little-quickie/
 ---
     
 Along the lines of doing any amount of coding in any amount of time you have, I wanted to share this little nugget. I'm sure everyone who's been using python for more than 10 minutes knows this, but I find it so useful.  

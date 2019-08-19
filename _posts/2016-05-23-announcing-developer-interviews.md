@@ -3,6 +3,8 @@ layout:     post
 title:      "Announcing Developer Interviews"
 date:       2016-05-23 09:59:54
 categories: programming
+tags:  
+permalink: /2016/05/23/announcing-developer-interviews/
 ---
 I'm super happy to announce that my first book, "Developer Interviews: How to land your dream job on your terms" has been released on Amazon! Check it out:[ https://www.amazon.com/dp/B01FLIDC8C](https://www.amazon.com/dp/B01FLIDC8C) [caption id="" align="aligncenter" width="386"][![Developer Interviews cover](https://images-na.ssl-images-amazon.com/images/I/51kEElcFdGL._SX384_BO1,204,203,200_.jpg)](https://www.amazon.com/dp/B01FLIDC8C) Developer Interviews: How to land your dream job on your terms[/caption] In this book I give my tips on how software developers can interview better when it comes to the dreaded job hunt. Some of the things I talk about include: 
 

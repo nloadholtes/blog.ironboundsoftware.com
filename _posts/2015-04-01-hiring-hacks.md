@@ -3,6 +3,8 @@ layout:     post
 title:      "Hiring Hacks"
 date:       2015-04-01 06:47:49
 categories: analytics
+tags:  
+permalink: /2015/04/01/hiring-hacks/
 ---
 Recently I've found myself in the job market. In the past when faced with this situation I've simply thrown my resume out there and hoped that someone would see it. These days though, I tend to follow a better strategy to make sure more people get to learn about me. Here's what I'm doing: 
 

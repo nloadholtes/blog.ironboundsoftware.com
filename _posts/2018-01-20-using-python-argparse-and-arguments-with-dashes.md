@@ -3,6 +3,8 @@ layout:     post
 title:      "Using Python argparse and arguments with dashes"
 date:       2018-01-20 10:30:20
 categories: python
+tags:  
+permalink: /2018/01/20/python-argparse-arguments-with-dashes/
 ---
 Have you ever been soooooo close to putting a puzzle together only to discover at the last minute that you are missing a piece? This happens to me all the time when I'm coding and I hit that last little bit that isn't covered in a tutorial. Here's a recent example with the Python argparse module. Recently I have been using Python to create a bunch of command line tools. It is really useful to use the [argparse](https://docs.python.org/2.7/library/argparse.html) module to help create the parameters that you can pass into your scripts.  But one thing that I've noticed that was a problem  that you can't easily have a variable with a dash in the name on the command line. Most Unix utilities have some kind of option like --dry-run but with argparser it is not clear how to do that. The way that argparse works is by letting you define variables that command line parameters are passed into. This means that the variables that you define for the command line have to match the format of Python variables. So all the rules that would normally be used for python variables have to be used for your command line variables.  The issue is that most Unix-like operating systems allow you to have a dash in a variable name. I really like this because it allows for more descriptive variable names. But those do not work in Python because the dash means subtraction. So it is not an allowed character for variable name.
 

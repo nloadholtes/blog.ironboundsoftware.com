@@ -3,6 +3,8 @@ layout:     post
 title:      "Slidepuzzle 1.3"
 date:       2004-07-23 18:17:16
 categories: programming
+tags:  
+permalink: /2004/07/23/slidepuzzle-13/
 ---
     
 Last night I finished up the slidepuzzle. It ain't the prettiest code in the world, but it works and now it will tell you if you have won the game. The link for it is [here](http://www.geocities.com/nloadholtes/code/slidepuzzle.py.html).   

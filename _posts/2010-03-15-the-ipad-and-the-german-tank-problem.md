@@ -3,6 +3,8 @@ layout:     post
 title:      "The iPad and the German Tank Problem"
 date:       2010-03-15 19:06:21
 categories: apple
+tags:  
+permalink: /2010/03/15/the-ipad-and-the-german-tank-problem/
 ---
 Based on order numbers the day the iPad was made available for pre-order, several sites were speculating that Apple was selling about 50,000 iPads per hour. This reminded me of something I heard about back when the iPhone was just getting started: The [German Tank Problem](http://en.wikipedia.org/wiki/German_tank_problem). Its basically a way of statistically estimating the maximum number of "items" that have been produced based on the serial numbers of the item. This method works when the serial numbers are in sequential order, and basically allows you to produce a somewhat realistic estimation (as opposed to a wild-ass guess). Estimation is one of those skills that most people (myself included) could stand to improve a little bit. In the wikipedia link above, this is shown by the intelligence estimates the Allies had for the number of tanks the Germans were producing in the middle of WWII. The initial estimates were really high (1,000 per month), but using statistics based on the serial numbers of crankcases from captured or destroyed German tanks showed that the number might be lower (around 200 per month, or 1/5th of the original. After the war when the factory records were looked at, the true number was a lot closer to 200 than 1,000. 
 

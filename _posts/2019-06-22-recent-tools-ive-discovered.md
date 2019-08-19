@@ -3,6 +3,8 @@ layout:     post
 title:      "Recent tools I've discovered"
 date:       2019-06-22 10:15:46
 categories: programming
+tags:  
+permalink: /2019/06/22/recent-tools-ive-discovered/
 ---
 Every now and then I come across a new software tool that makes me stop and say "How in the world have I made it this far without this?!??" Today I'd like to talk a little bit about some recent discoveries, maybe they can help you too! 
 

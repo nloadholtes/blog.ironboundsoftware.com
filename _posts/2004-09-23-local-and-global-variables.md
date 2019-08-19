@@ -3,6 +3,8 @@ layout:     post
 title:      "Local and Global variables"
 date:       2004-09-23 07:03:37
 categories: programming
+tags:  
+permalink: /2004/09/23/local-and-global-variables/
 ---
     
 Honestly, I really do like the ability of being able to declare a variable and run with it right there on the spot. Python is really great about that. But what I don't like is when I want to access a member variable of a class and I have to put "self." in front of the variable name to ensure the correct variable is called (and not created). That gets to be a pain. Especially if you have more than two member var you are messing with. That's one thing I really like about statically typed languages (i.e. Java).  

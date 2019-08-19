@@ -3,6 +3,8 @@ layout:     post
 title:      "From programmer to entrepreneur"
 date:       2016-12-19 09:49:15
 categories: ent
+tags:  
+permalink: /2016/12/19/from-programmer-to-entrepreneur/
 ---
 Programmers have a magic skill. They can make something out of nothing. Where before there was nothing, with a few clicks of the keys a program is born. Some programmers recognize this yet only create programs. Others see this and wonder "Hey, if I can make this, what else can I make?" I have fallen into the second group. And looking around I see all kinds of opportunities to create new things. Instead of waiting for someone to tell me what needs to be built I find myself asking questions like "What value does this bring to the organization?" I also find myself listening more when I hear people "complaining" about things. Instead of just nodding along I will start asking questions about what the core problem is and how it could be made better. 
 

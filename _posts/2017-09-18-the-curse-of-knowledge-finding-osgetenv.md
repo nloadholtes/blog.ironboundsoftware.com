@@ -3,6 +3,8 @@ layout:     post
 title:      "The curse of knowledge: Finding os.getenv()"
 date:       2017-09-18 10:24:26
 categories: python
+tags:  
+permalink: /2017/09/18/the-curse-of-knowledge-finding-os-getenv/
 ---
 Recently I was working with a co-worker on an unusual nginx problem. While working on the nginx issue we happened to look at some of my Python code. My co-worker normally does not do a lot of Python development, she tends to do more on the node.js side. But this look at the Python code lead to a rather interesting conversation. The code we were looking at had some initialization stuff that made my coworker said "Hey why are using os.environ.get() in order to read in some environment variables?" She asked “Why aren’t you using [os.getenv()](https://docs.python.org/3.5/library/os.html#os.getenv)?” I stared blankly for a second and said “huh?” I was a bit puzzled by this question because this developer is really good with node and also with Ruby. Perhaps they were thinking of a command in a different language and not Python I thought to myself. Together we looked it up real quick and much to my surprise I discovered there actually was a command there in the standard library called os.getenv() and it does exactly what you think it would. It gets a environment variable if it exists, and returns None (or a specified value) if it doesn’t exist. Using os.getenv() is a few characters shorter than using os.environ.get() and in the code we were looking at it just looked better. Since the code didn’t need to modify the environment variables, it just made sense to use it. But it got me thinking: I’ve been working in Python for a few years now, _how did I not know about this?_
 

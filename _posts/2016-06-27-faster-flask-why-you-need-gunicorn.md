@@ -3,6 +3,8 @@ layout:     post
 title:      "Faster Flask: Why you need gunicorn"
 date:       2016-06-27 10:22:33
 categories: flask
+tags:  
+permalink: /2016/06/27/faster-flask-need-gunicorn/
 ---
 While doing some performance test on a new flask microservice, I noticed it was not handling very very many connections per second. Additionally, nginx (which we are using as our front end webserver) was reporting a ton of errors. WTF?!? I thought flask was fast. I need a faster flask! [caption id="attachment_710" align="alignright" width="640"][![faster flask](https://ironboundsoftware.com/blog/wp-content/uploads/2016/06/8736451330_e38fe86a77_z.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/06/8736451330_e38fe86a77_z.jpg) Racing to make a faster flask[/caption]  
 

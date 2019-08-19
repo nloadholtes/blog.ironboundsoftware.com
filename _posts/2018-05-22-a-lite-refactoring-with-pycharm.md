@@ -3,6 +3,8 @@ layout:     post
 title:      "A lite refactoring with PyCharm"
 date:       2018-05-22 15:27:20
 categories: python
+tags:  
+permalink: /2018/05/22/refactoring-with-pycharm/
 ---
 Inspired by [@levels](http://twitter.com/levelsio) I decided to try adding a Telegram integration to my current project [RemoteMatcher](https://remotematcher.com). After seeing it work in production I decided to expand on the idea a little bit and do some refactoring with [PyCharm](https://www.jetbrains.com/pycharm/).
 

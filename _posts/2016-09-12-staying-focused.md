@@ -3,6 +3,8 @@ layout:     post
 title:      "Staying focused"
 date:       2016-09-12 12:35:39
 categories: programming
+tags:  
+permalink: /2016/09/12/staying-focused/
 ---
 [![focus](https://ironboundsoftware.com/blog/wp-content/uploads/2016/09/focus-1.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/09/focus-1.jpg) In my last blog post I talked about [dealing with Coder's Block](https://ironboundsoftware.com/blog/2016/09/05/coders-block/). But what happens when you aren't blocked, yet don't produce anything? You are suffering from a lack of focus. Let's discuss. 
 

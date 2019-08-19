@@ -3,6 +3,8 @@ layout:     post
 title:      "Hiring Hacks: Track your activity"
 date:       2015-04-06 12:32:33
 categories: productivity
+tags:  
+permalink: /2015/04/06/hiring-hacks-track-your-activity/
 ---
 When looking for a new job it is very easy to get overwhelmed, yet feel like you are not getting anything done. This combination can lead to a negative feedback cycle which leads to you feeling worse. To prevent this, every day you should write down the activities that you did. And just as  importantly, you should write down the results. Let's look at why and how this can help. 
 

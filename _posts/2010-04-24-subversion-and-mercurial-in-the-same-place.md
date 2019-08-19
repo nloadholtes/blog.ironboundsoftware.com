@@ -3,6 +3,8 @@ layout:     post
 title:      "Subversion and Mercurial in the same place"
 date:       2010-04-24 14:35:30
 categories: java
+tags:  
+permalink: /2010/04/24/subversion-and-mercurial-in-the-same-place/
 ---
 In a previous post I talked about trying to use [Mercurial](http://mercurial.selenic.com/) (hg) in a Subversion (svn) world. Its been almost 2 months, and I've learned quite a bit about hg and how to use it in a svn based environment. At the time it seemed like the obvious choice was to get something ([hgsubversion](http://www.bitbucket.org/durin42/hgsubversion/)) that would let hg talk directly to the svn server, but still allow me to explore DVCS workflows. It turns out that this isn't the case. Luckily there are several different approaches that can be used. 
 

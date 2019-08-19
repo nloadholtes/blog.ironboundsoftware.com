@@ -3,6 +3,8 @@ layout:     post
 title:      "Hacking around memory limits in the cloud"
 date:       2016-03-14 12:04:09
 categories: cloud
+tags:  
+permalink: /2016/03/14/hacking-around-memory-limits-cloud/
 ---
 I love cloud instances. Easy to provision computers in a data center where I don't have to worry about the power or network staying up? Sign me up! But sometimes they have some limitations that can be a pain. Like a lack of memory. Small instances (which are perfect for hacking around) tend to have smaller amounts of RAM which can be an issue when compiling code or running certain "less than optimal" code. 
 

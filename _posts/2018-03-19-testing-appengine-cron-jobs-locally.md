@@ -3,6 +3,8 @@ layout:     post
 title:      "Testing AppEngine cron jobs locally"
 date:       2018-03-19 08:30:18
 categories: programming
+tags:  
+permalink: /2018/03/19/testing-appengine-cron-jobs-locally/
 ---
 Lately I've been doing a lot with [Google AppEngine](https://cloud.google.com/appengine/). It has a lot of great features, but to get those you need to give up a few things. Sadly I discovered that included the ability to locally run "protected" API endpoints. At least until I discovered this one strange trick to make everything work... 
 

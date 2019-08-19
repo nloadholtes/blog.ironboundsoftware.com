@@ -3,6 +3,8 @@ layout:     post
 title:      "pip and private repositories: vendoring python"
 date:       2017-07-19 22:29:52
 categories: python
+tags:  
+permalink: /2017/07/19/pip-and-private-repositories-vendoring-python/
 ---
 At work I am working on a project to migrate a series of Python apps into the cloud. Docker is a perfect fit for some of the apps, but one problem we ran into is getting our apps to build when they have a dependency on a private repository. Using a technique called vendoring we are able to work around this problem and ensure that our dependencies are well known. Let's look at vendoring python code. 
 

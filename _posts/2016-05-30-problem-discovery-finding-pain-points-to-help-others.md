@@ -3,6 +3,8 @@ layout:     post
 title:      "Problem Discovery: Finding pain points to help others"
 date:       2016-05-30 11:00:23
 categories: organization
+tags:  
+permalink: /2016/05/30/problem-discovery/
 ---
 As a programmer I'm usually up to my ears in problems. Problem discovery is something I recently came upon as a technique to help build a business. Basically you find a problem that people have, then build something to address the problem. But of course its not that simple, how do you even start with something like this? I'd like to share with you a recent experiment I did where I attempted to do some problem discovery on a pain point I was experiencing: Finding a master mind. 
 

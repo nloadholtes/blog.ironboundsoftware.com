@@ -3,6 +3,8 @@ layout:     post
 title:      "My MacGyver Moments this summer"
 date:       2007-08-18 10:24:26
 categories: thinking
+tags:  
+permalink: /2007/08/18/my-macgyver-moments-this-summer/
 ---
 I've blogged about [functional fixedness](http://www.ironboundsoftware.com/blog/2005/08/12/overcoming-functional-fixedness/) before, and how important it is to overcome it both as a programmer and in regular real life. I try to "walk the walk and talk the talk" so here are some example of how I was able to solve some problems with a little unconventional thinking: 
 

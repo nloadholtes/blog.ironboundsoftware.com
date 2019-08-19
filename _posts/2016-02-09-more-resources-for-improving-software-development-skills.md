@@ -3,6 +3,8 @@ layout:     post
 title:      "More resources for improving software development skills"
 date:       2016-02-09 09:26:18
 categories: programming
+tags:  
+permalink: /2016/02/09/more-resources-for-improving-software-development-skills/
 ---
 In my last post, I talked about some [great resources to help build your software development skills](https://ironboundsoftware.com/blog/2016/01/26/resources-building-software-development-skills/). In this post I'm going to share some more resources that I have found very useful to both learn something new, and to get a quick refresher on a topic. 
 

@@ -3,6 +3,8 @@ layout:     post
 title:      "Global variables and my confusion"
 date:       2004-05-28 01:27:16
 categories: programming
+tags:  
+permalink: /2004/05/28/global-variables-and-my-confusion/
 ---
     
 I have only been programming in Python for about 5 months, so I am still fumbling my way through things. Last night I discovered that my understanding of global variable scope was way off. This code snippet illustrates my problem: 

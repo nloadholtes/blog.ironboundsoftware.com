@@ -3,6 +3,8 @@ layout:     post
 title:      "The secret to success in programming (and life!)"
 date:       2016-03-07 09:29:05
 categories: uncategorized
+tags:  
+permalink: /2016/03/07/secret-success-programming-life/
 ---
 The secret to success? It is pretty easy: 
 

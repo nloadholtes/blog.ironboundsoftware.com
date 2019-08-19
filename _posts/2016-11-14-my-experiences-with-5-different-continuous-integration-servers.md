@@ -3,6 +3,8 @@ layout:     post
 title:      "My experiences with 5 different Continuous Integration servers"
 date:       2016-11-14 09:21:50
 categories: software-development
+tags:  
+permalink: /2016/11/14/experiences-5-different-continuous-integration-servers/
 ---
 I've become the Johnny Appleseed of Continuous Integration servers. After I was bit by the testing bug, I quickly developed an interest in CI and began setting up servers at the places I worked. The benefits of letting a computer run the test automatically are so appealing. It cuts down the number of "dumb" bugs that are generated. It also helps ensure that the code is still working the way it used to. 
 

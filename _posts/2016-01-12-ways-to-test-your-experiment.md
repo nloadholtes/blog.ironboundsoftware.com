@@ -3,6 +3,8 @@ layout:     post
 title:      "Ways to test your experiment"
 date:       2016-01-12 11:06:35
 categories: statistics
+tags:  
+permalink: /2016/01/12/ways-test-experiment/
 ---
 In the last few posts we've talked about why [experiments are important](http://ironboundsoftware.com/blog/2016/01/05/you-should-do-experiments/) (you are doing some right?), and how to use some [very simple tools to get very insightful information](http://ironboundsoftware.com/blog/2016/01/08/using-addthis-com-quick-easy-experiments/). But one thing that we have not discussed is how to get people to actually use your experiments. In the first post the idea of statistical significance was presented. This basically states that you can't decide between two things until you have had enough people look at them. For example, if you are testing out 2 different "call to action" buttons, you are going to need more than 10 people to look at those buttons (and click on one or the other) before you can make a real decision about which one is better. So using [Evan Miller's A/B site](http://www.evanmiller.org/sequential-ab-testing.html) we can see that most of the time we will need several hundred users (or visits, I'm using the terms interchangeably here) to look at your experiment. The next question you need to ask yourself if is "How long will I have to wait until I get that many views?". You do know how many people visit your site, right? If not, stop and install something like google analytics or addthis right now! 
 

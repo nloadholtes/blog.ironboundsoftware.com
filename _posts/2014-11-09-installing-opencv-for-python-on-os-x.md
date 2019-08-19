@@ -3,6 +3,8 @@ layout:     post
 title:      "Installing OpenCV for Python on OS X"
 date:       2014-11-09 20:09:18
 categories: os-x
+tags:  
+permalink: /2014/11/09/installing-opencv-for-python-on-os-x/
 ---
 [OpenCV](http://opencv.org/) is a computer vision library. It is a really powerful library and has bindings for Python. The only thing that it doesn't have is a good explanation of how to make the python bindings work! Here is how I got it to work on my Mac (running OS X 10.9.5) inside of a virtualenv. 
 

@@ -3,6 +3,8 @@ layout:     post
 title:      "Recent reads"
 date:       2019-07-23 22:44:14
 categories: entrepreneur
+tags:  
+permalink: /2019/07/23/recent-reads/
 ---
 Lately I've been spending a lot more time reading. There's a ton of ideas out there, along with a bunch of garbage. (Translation: Don't read the news kids) Here's some things I've read and found interesting. These are things that have been catching my interest lately, including the IndieWeb movement, thinking, tools, and just being awesome. 
 

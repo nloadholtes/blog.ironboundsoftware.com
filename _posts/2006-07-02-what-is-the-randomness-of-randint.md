@@ -3,6 +3,8 @@ layout:     post
 title:      "What is the randomness of randint()?"
 date:       2006-07-02 22:21:05
 categories: blogging
+tags:  
+permalink: /2006/07/02/what-is-the-randomness-of-randint/
 ---
 Recently I discovered the [random.randint()](http://www.python.org/doc/current/lib/module-random.html) function in [python](http://python.org). Basically you call it with 2 ints, a low value and a high value. It will return a integer in that range (inclusive). I was playing around with it and I thought it seemed to be giving me the same number awfully often, so I whipped up a test: call that method 1 million times, record the values, then repeat 6 times. I'm using randint() to simulate dice so I'm curious to see if the number distribution is even across the numbers 1 through 6. Below is my test code: 
 

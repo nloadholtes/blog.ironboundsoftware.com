@@ -3,6 +3,8 @@ layout:     post
 title:      "Cleaning up legacy python code"
 date:       2017-05-01 08:12:51
 categories: python
+tags:  
+permalink: /2017/05/01/legacy-python-code/
 ---
 Python is growing in popularity which is a great thing! And with that growth we now are seeing more and more legacy python project. Occasionally you are going to inherit one of these "legacy" projects. Here's some tips on how to get it under control. 
 

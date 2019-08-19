@@ -3,6 +3,8 @@ layout:     post
 title:      "Using functools.partial to refactor repetitive code"
 date:       2018-03-23 17:10:25
 categories: python
+tags:  
+permalink: /2018/03/23/using-functools-partial-to-refactor-repetitive-code/
 ---
 The other day a friend made a comment about iterative development and it got me thinking. In some situations this is a good approach to get things going, but there is a dark side to it: Crufty nasty code. Functions that we are fear to touch. Code that screams out to for a refactoring. It got me thinking about the code I hacked together for [Remote Matcher](https://remotematcher.com). It's shiny and new, but does it have a dark side? 
 

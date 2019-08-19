@@ -3,6 +3,8 @@ layout:     post
 title:      "Knowledge: Use it or lose it. Now."
 date:       2016-02-15 09:50:28
 categories: software-development
+tags:  
+permalink: /2016/02/15/knowledge-use-it-or-lose-it-now/
 ---
 I have written some [posts about resources](http://ironboundsoftware.com/blog/2016/01/26/resources-building-software-development-skills/) you can use to improve your development skills. There's tons of great resources out there, but I haven't told you the secret to making them work. Without this key bit, everything I'v presented is absolutely useless. Beyond worthless. 
 

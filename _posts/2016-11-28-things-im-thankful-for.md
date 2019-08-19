@@ -3,6 +3,8 @@ layout:     post
 title:      "Things I'm thankful for"
 date:       2016-11-28 09:29:19
 categories: uncategorized
+tags:  
+permalink: /2016/11/28/things-im-thankful/
 ---
 This past weekend was Thanksgiving here in the US. This is a time of year where we try to reflect on the things we are grateful for. Well, at least that's what we are supposed to do. Some folks tend to use it as an excuse for excess... But I digress. I've been on quite the adventure the last year so I thought this would be a good time to take stock and see where I've been. So given that here's some things I'm grateful for. 
 

@@ -3,6 +3,8 @@ layout:     post
 title:      "Learning from past mistakes"
 date:       2004-08-02 07:01:56
 categories: games
+tags:  
+permalink: /2004/08/02/learning-from-past-mistakes/
 ---
     
 I've always thought it would be cool to write my own RPG like Wasteland. I really liked that game. Over the years I've had two "almost there" attempts at doing this. Once was in C/C++, and the other was in Java.  

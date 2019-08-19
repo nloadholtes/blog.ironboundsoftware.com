@@ -3,6 +3,8 @@ layout:     post
 title:      "Football, Fixed Width records, and Python"
 date:       2004-06-09 20:53:43
 categories: python
+tags:  
+permalink: /2004/06/09/football-fixed-width-records-and-python/
 ---
     
 Football season will soon be here (American football that is) and this year I am determined to be better prepared. And to that end I have decided to gather player and team statistics so that when I'm setting up my fantasy team this year, they won't fall apart after the first month. Hopefully.  

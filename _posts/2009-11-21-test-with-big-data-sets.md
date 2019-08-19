@@ -3,6 +3,8 @@ layout:     post
 title:      "Test with big data sets"
 date:       2009-11-21 17:01:36
 categories: programming
+tags:  
+permalink: /2009/11/21/test-with-big-data-sets/
 ---
 Every so often I re-learn this lesson: Make sure you test your code with the same amount of data that your users will use. Developing with small data sets is fine, and most of the time that is what you want to do as you work out the kinks of the code. But when it is time to ship the code, you must test with a large data set. For rent my resume.com I've been testing one portion of it with 4 different size documents. This is a fluke however, I chose the documents based on the contents not the size. Today I made a simple change that turned out to have some unforeseen ripple effects. When I write unit tests, they seem to fall into two categories: Tests where I just do a simple check on the size of a return (i.e. did I get 21 items in the list?), and tests where I check the contents of the resulting data. 
 

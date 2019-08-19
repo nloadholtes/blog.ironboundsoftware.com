@@ -3,6 +3,8 @@ layout:     post
 title:      "Unit Testing"
 date:       2005-07-27 16:25:25
 categories: programming
+tags:  
+permalink: /2005/07/27/unit-testing/
 ---
 Lately I've been on a Unit Testing kick with my code. Unit testing is one of those topics that I agree with in principal, but have a hard time taking action with it. A lot of the proponents of unit testing talk endlessly about how they write tests that go down into the lowest levels of their programs. I don't like that kind of testing, I find when I try to do it I wind up spinning my wheels and fretting over small things.  
   

@@ -3,6 +3,8 @@ layout:     post
 title:      "Getting movies and showtimes with python"
 date:       2004-05-17 18:26:39
 categories: python
+tags:  
+permalink: /2004/05/17/getting-movies-and-showtimes-with-python/
 ---
     
 Recently I was looking into a way to find out movie times for my local theater over my cell phone using SMS text messaging. (Actually it is using the AOL IM for connectivity, but that's another article.) Looking at [Yahoo's](http://www.yahoo.com) movie listings and the [Python Mechanize](http://wwwsearch.sourceforge.net/mechanize/) module I was able to come up with a pretty cool little function to strip out the movie titles and the times.   

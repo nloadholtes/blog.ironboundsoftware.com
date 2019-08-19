@@ -3,6 +3,8 @@ layout:     post
 title:      "Lisp/Scheme and business logic"
 date:       2007-04-23 19:27:14
 categories: lisp
+tags:  
+permalink: /2007/04/23/lispscheme-and-business-logic/
 ---
 I've been thinking about business logic lately. Specifically about how to make nice flexible rules without hard coding them in the code itself. This has led me to look more at Lisp-y languages like Scheme and [Erlang](http://erlang.org). (I've got some more to say about Erlang, but that's a topic for a later post.) At any rate, today on [Reddit](http://reddit.com) there were a few really good postings on this topic and one of those postings led me to more really good articles on the topic. (As a side note, I'm really glad this happened today, lately reddit has been a dumping ground for picture links and other uninteresting things.) While none of these links shows exact methods for implementing business rules, they are a great starting spot. 
 

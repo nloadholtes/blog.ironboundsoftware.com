@@ -3,6 +3,8 @@ layout:     post
 title:      "The importance of taking a small break"
 date:       2016-05-16 12:35:42
 categories: programming
+tags:  
+permalink: /2016/05/16/importance-taking-small-break/
 ---
 [caption id="attachment_666" align="aligncenter" width="744"][![Dawn breaking over a mountain range as a metaphor for a small break](https://ironboundsoftware.com/blog/wp-content/uploads/2016/05/14401853494_c48699ea58_k-1-744x374.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/05/14401853494_c48699ea58_k-1.jpg) A small break or a big one? Photo credit: https://flic.kr/p/nWDghS[/caption] Recently I was struggling with a problem in Elastic Search. I was thrashing around all over the web trying to find documentation that could help me with my problems. In the end when I finally found the answer after several days of work, I discovered I had a tab open that talk about my answer. But for some reason I completely missed this the day before when I looked at it. Why is this? There's several factors that caused this: 
 

@@ -3,6 +3,8 @@ layout:     post
 title:      "Finding a new hobby"
 date:       2017-10-25 08:01:24
 categories: funny-and-fun
+tags:  
+permalink: /2017/10/25/finding-new-hobby/
 ---
 Recently I was looking at the calendar and thinking about the remaining time in the year. One of my unofficial goals for the year was to get a new hobby. I’m sad to say that this never really happened, I was pretty preoccupied most of the year and didn’t get as much downtime as I thought I would. I am determined to change this but it occurred to me that I didn’t really have any good ideas for a new hobby. Sure I’ve got that guitar that I pick up every now and then, but what about going out on a limb and doing something completely new? But where would I start? What could I do?
 

@@ -3,6 +3,8 @@ layout:     post
 title:      "A shortfall of Python: no function overloading"
 date:       2007-05-29 19:27:55
 categories: programming
+tags:  
+permalink: /2007/05/29/a-shortfall-of-python-no-function-overloading/
 ---
 I'm a big fan of [Python](http://python.org). It has little quirks that can be annoying (like having to specify self.method() instead of using scoping rules to look at the class first), but overall I really like the language. But today I ran into a shortfall that I really stubbed my toe on: Python (as of 2.5) doesn't support function overloading. For example, this snippet of code won't run: 
 

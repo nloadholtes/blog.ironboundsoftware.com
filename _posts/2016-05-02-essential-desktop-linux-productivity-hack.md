@@ -3,6 +3,8 @@ layout:     post
 title:      "Essential desktop Linux productivity hack"
 date:       2016-05-02 10:58:06
 categories: programming
+tags:  
+permalink: /2016/05/02/essential-productivity-hacks-linux/
 ---
 Need a productivity hack? As a back end python programmer, I find that using Linux as my desktop makes my job easier: my development environment is very close to the deployment environment. Working on laptop can impose some limitations, but I have discovered some productivity hacks that make me very happy and very productive! 
 

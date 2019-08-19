@@ -3,6 +3,8 @@ layout:     post
 title:      "Example of great documentation in Python"
 date:       2017-12-11 09:04:37
 categories: python
+tags:  
+permalink: /2017/12/11/great-documentation-python/
 ---
 Documentation is one of those tasks and programming that does not get as much attention as it probably should. Great documentation is even more rare. We live in an age of unlimited free information in the form of blog posts and YouTube videos, but sometimes finding a simple example of how to use a library is one of the most difficult things to do. I ran into this situation a few weeks ago when I was trying to find a way to use sampling in a small concise manner. After a quick search online I found the Python 3 [random module documentation](https://docs.python.org/3/library/random.html#examples-and-recipes). 
 

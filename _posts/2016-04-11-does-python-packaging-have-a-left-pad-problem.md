@@ -3,6 +3,8 @@ layout:     post
 title:      "Does Python packaging have a left-pad problem?"
 date:       2016-04-11 12:11:03
 categories: programming
+tags:  
+permalink: /2016/04/11/python-packaging-left-pad-problem/
 ---
 [caption id="attachment_610" align="alignright" width="420"][![Is Python packaging a tower of babel?](https://ironboundsoftware.com/blog/wp-content/uploads/2016/04/768px-Tower_of_Babel_cropped_square-420x420.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/04/768px-Tower_of_Babel_cropped_square.jpg) Is Python packaging a tower of babel?[/caption] Recently an interesting problem happened.[ A small but critical piece of code was removed from the internet and in the process brought down many major JavaScript projects](http://www.businessinsider.com/npm-left-pad-controversy-explained-2016-3?op=1). This was quickly fixed and in the process many jokes were made at the expense of the JavaScript ecosystem. But to me it raised an important question: Could this happen with Python packaging? 
 

@@ -3,6 +3,8 @@ layout:     post
 title:      "Managing projects"
 date:       2016-10-03 10:31:01
 categories: software-development
+tags:  
+permalink: /2016/10/03/managing-projects/
 ---
 In most workplaces, software developers have someone who tells them what to do and when to do it. Managing projects usually is the responsibility of a Project Manager, Scrum master, team lead, or even just "the boss". But what happens when you don't have that guidance? Or of you are working on side project by yourself? Here's how I manage my projects. If you are going to succeed on a project you've got to have a plan. A plan has a start, an objective, and the series of steps that have to be taken to get to the objective. Sometimes at work you won't get a lot of detail about the steps to get to the objective. On a side project, the objective might be so blinding that you don't even think about the steps. 
 

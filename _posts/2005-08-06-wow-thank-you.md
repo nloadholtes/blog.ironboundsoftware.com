@@ -3,6 +3,8 @@ layout:     post
 title:      "Wow! Thank you!"
 date:       2005-08-06 20:57:00
 categories: os-x
+tags:  
+permalink: /2005/08/06/wow-thank-you/
 ---
 I submitted my [PasswordMaker Dashboard Widget](http://ironboundsoftware.com) to Apple earlier this week. Well after seeing the explosion of traffic to my [site](http://ironboundsoftware.com) it looks like it has been posted! Check it out [here!](http://www.apple.com/downloads/dashboard/calculate_convert/passwordmaker.html)   
   

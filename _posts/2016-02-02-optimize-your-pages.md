@@ -3,6 +3,8 @@ layout:     post
 title:      "Optimize your pages!"
 date:       2016-02-02 09:32:25
 categories: programming
+tags:  
+permalink: /2016/02/02/optimize-your-pages/
 ---
 If you are going to make web pages, you might as well make them fast. No one like sitting around waiting for something to load up. NO ONE. Don't be that website. Be fast! Optimize for an awesome visitor experience! Lets talk about some tools to help speed up your pages. If your site isn't on the public internet for whatever reason (and yes, there are a lot of pages that can't run on the public internet for  **very** good reasons) you can still profile and optimize your pages using the Chrome Developer tools. 
 

@@ -3,6 +3,8 @@ layout:     post
 title:      "Choices - The hidden powers of python"
 date:       2011-02-06 12:40:45
 categories: programming
+tags:  
+permalink: /2011/02/06/choices-the-hidden-powers-of-python/
 ---
 The other day I saw something about this interesting posting on Stack Overflow: [What are the lesser-known but useful features of the Python programming language?](http://stackoverflow.com/questions/101268/hidden-features-of-python/102062) As someone who loves to work in Python and is always looking for a better way to get things done, I had to read this article right away. I was pretty pleased with myself that I knew a lot of the things listed, and I was really happy when I ran into some nuggets that I knew nothing about. For example, I did not know that you could do this in Python: 
 

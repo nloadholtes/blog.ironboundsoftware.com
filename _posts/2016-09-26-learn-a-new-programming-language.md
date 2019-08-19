@@ -3,6 +3,8 @@ layout:     post
 title:      "Learn a new programming language"
 date:       2016-09-26 11:42:09
 categories: software-development
+tags:  
+permalink: /2016/09/26/learn-a-new-programming-language/
 ---
 In the world of software development there's always something new popping up. New languages, frameworks, operating systems, databases, you name it. The challenge for a developer is to stay on top and ahead of these new technologies. It can be very tempting to give up and not learn anything new, but I want to propose that learning new things like a new language or framework can be very helpful! 
 

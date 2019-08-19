@@ -3,6 +3,8 @@ layout:     post
 title:      "Python Debugging"
 date:       2017-09-25 09:36:36
 categories: debugging
+tags:  
+permalink: /2017/09/25/python-debugging/
 ---
 [![cool beetle from https://pixabay.com/en/bug-insect-beetle-wasp-yellow-34375/](https://ironboundsoftware.com/blog/wp-content/uploads/2017/09/bug-34375_640-420x327.png)](https://pythondebugging.com)Python is an awesome language and environment to work in. And thanks to some great tools Python debugging can actually be fun! Let's look at some of the things that separate Python debugging from debugging in other languages: 
 

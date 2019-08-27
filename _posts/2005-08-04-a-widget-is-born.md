@@ -2,6 +2,7 @@
 layout:     post
 title:      "A widget is born!"
 date:       2005-08-04 01:32:00
+author:     Nick
 categories: os-x
 tags:  
 permalink: /2005/08/04/a-widget-is-born/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Blogging to learn, teach, and grow"
 date:       2016-03-08 08:41:01
+author:     admin
 categories: blogging
 tags:  
 permalink: /2016/03/08

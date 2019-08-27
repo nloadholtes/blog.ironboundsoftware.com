@@ -2,6 +2,7 @@
 layout:     post
 title:      "Matching resumes to jobs"
 date:       2009-10-03 14:50:48
+author:     admin
 categories: ai
 tags:  
 permalink: /2009/10/03/matching-resumes-to-jobs/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Lisp/Scheme and business logic"
 date:       2007-04-23 19:27:14
+author:     Nick
 categories: lisp
 tags:  
 permalink: /2007/04/23/lispscheme-and-business-logic/

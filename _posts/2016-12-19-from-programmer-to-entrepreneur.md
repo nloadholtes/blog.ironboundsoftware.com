@@ -2,6 +2,7 @@
 layout:     post
 title:      "From programmer to entrepreneur"
 date:       2016-12-19 09:49:15
+author:     admin
 categories: ent
 tags:  
 permalink: /2016/12/19/from-programmer-to-entrepreneur/

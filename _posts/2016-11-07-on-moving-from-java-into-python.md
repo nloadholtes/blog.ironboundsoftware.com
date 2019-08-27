@@ -2,6 +2,7 @@
 layout:     post
 title:      "On moving from Java into Python"
 date:       2016-11-07 10:20:43
+author:     admin
 categories: python
 tags:  
 permalink: /2016/11/07/on-moving-from-java-into-python/

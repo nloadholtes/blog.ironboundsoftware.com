@@ -2,6 +2,7 @@
 layout:     post
 title:      "Bigfoot conference!"
 date:       2005-10-17 04:51:09
+author:     Nick
 categories: apple
 tags:  
 permalink: /2005/10/17/bigfoot-conference/

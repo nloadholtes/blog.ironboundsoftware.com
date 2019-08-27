@@ -2,6 +2,7 @@
 layout:     post
 title:      "The Netflix prize"
 date:       2006-10-03 09:51:18
+author:     Nick
 categories: ai
 tags:  
 permalink: /2006/10/03/the-netflix-prize/

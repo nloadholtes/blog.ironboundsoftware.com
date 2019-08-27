@@ -2,6 +2,7 @@
 layout:     post
 title:      "The joy of Java"
 date:       2006-11-06 22:12:45
+author:     Nick
 categories: java
 tags:  
 permalink: /2006/11/06/the-joy-of-java/

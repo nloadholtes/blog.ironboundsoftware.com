@@ -2,6 +2,7 @@
 layout:     post
 title:      "24 hours to make a small biz"
 date:       2017-10-27 09:36:23
+author:     admin
 categories: entrepreneur
 tags:  
 permalink: /2017/10/27/24-hours-make-small-biz/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Learning never stops"
 date:       2007-02-27 22:49:10
+author:     Nick
 categories: programming
 tags:  
 permalink: /2007/02/27/learning-never-stops/

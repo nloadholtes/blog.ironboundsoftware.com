@@ -2,6 +2,7 @@
 layout:     post
 title:      "Mongo and Flask Performance Tuning: quick and easy"
 date:       2015-09-02 05:30:13
+author:     admin
 categories: flask
 tags:  
 permalink: /2015/09/02/mongo-and-flask-performance-tuning-quick-and-easy/

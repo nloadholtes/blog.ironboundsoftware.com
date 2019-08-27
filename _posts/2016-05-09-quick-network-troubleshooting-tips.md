@@ -2,6 +2,7 @@
 layout:     post
 title:      "Quick network troubleshooting tips"
 date:       2016-05-09 11:24:06
+author:     admin
 categories: linux
 tags:  
 permalink: /2016/05/09/quick-network-troubleshooting-tips/

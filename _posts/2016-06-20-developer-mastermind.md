@@ -2,6 +2,7 @@
 layout:     post
 title:      "Developer Mastermind"
 date:       2016-06-20 11:03:29
+author:     admin
 categories: uncategorized
 tags:  
 permalink: /2016/06/20/developer-mastermind/

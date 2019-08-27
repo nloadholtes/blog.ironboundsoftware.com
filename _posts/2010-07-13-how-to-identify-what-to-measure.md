@@ -2,6 +2,7 @@
 layout:     post
 title:      "How to identify what to measure "
 date:       2010-07-13 07:45:23
+author:     admin
 categories: getting-things-done
 tags:  
 permalink: /2010/07/13/how-to-identify-what-to-measure/

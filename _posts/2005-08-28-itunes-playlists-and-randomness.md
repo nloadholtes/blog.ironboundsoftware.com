@@ -2,6 +2,7 @@
 layout:     post
 title:      "iTunes playlists and randomness"
 date:       2005-08-28 21:16:00
+author:     Nick
 categories: os-x
 tags:  
 permalink: /2005/08/28/itunes-playlists-and-randomness/

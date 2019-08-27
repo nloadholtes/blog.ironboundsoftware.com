@@ -2,6 +2,7 @@
 layout:     post
 title:      "A year (almost) of Python"
 date:       2004-11-16 08:02:45
+author:     Nick
 categories: python
 tags:  
 permalink: /2004/11/16/a-year-almost-of-python/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Adventures with minimongo"
 date:       2016-08-15 11:03:06
+author:     admin
 categories: mongo
 tags:  
 permalink: /2016/08/15/adventures-with-python-minimongo/

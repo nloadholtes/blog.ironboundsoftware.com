@@ -2,6 +2,7 @@
 layout:     post
 title:      "Plowing on"
 date:       2006-08-06 18:05:05
+author:     Nick
 categories: programming
 tags:  
 permalink: /2006/08/06/plowing-on/

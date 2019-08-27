@@ -2,6 +2,7 @@
 layout:     post
 title:      "Never were truer words spoken (or typed)"
 date:       2007-12-31 13:56:25
+author:     admin
 categories: funny-and-fun
 tags:  
 permalink: /2007/12/31/never-were-truer-words-spoken-or-typed/

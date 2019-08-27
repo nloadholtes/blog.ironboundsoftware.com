@@ -2,6 +2,7 @@
 layout:     post
 title:      "Learning Lisp"
 date:       2007-09-24 16:20:02
+author:     admin
 categories: lisp
 tags:  
 permalink: /2007/09/24/learning-lisp/

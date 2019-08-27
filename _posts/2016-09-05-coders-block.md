@@ -2,6 +2,7 @@
 layout:     post
 title:      "Coder's block"
 date:       2016-09-05 12:11:00
+author:     admin
 categories: programming
 tags:  
 permalink: /2016/09/05/coders-block/

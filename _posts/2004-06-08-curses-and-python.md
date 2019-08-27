@@ -2,6 +2,7 @@
 layout:     post
 title:      "Curses and Python"
 date:       2004-06-08 02:59:55
+author:     Nick
 categories: python
 tags:  
 permalink: /2004/06/08/curses-and-python/

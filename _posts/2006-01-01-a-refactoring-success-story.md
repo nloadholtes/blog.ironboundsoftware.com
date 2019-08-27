@@ -2,6 +2,7 @@
 layout:     post
 title:      "A refactoring success story"
 date:       2006-01-01 19:25:07
+author:     Nick
 categories: blogging
 tags:  
 permalink: /2006/01/01/a-refactoring-success-story/

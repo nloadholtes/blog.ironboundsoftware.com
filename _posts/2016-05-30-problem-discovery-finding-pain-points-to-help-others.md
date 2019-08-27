@@ -2,6 +2,7 @@
 layout:     post
 title:      "Problem Discovery: Finding pain points to help others"
 date:       2016-05-30 11:00:23
+author:     admin
 categories: organization
 tags:  
 permalink: /2016/05/30/problem-discovery/

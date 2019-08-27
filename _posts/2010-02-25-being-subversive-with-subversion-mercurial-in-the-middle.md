@@ -2,6 +2,7 @@
 layout:     post
 title:      "Being subversive with Subversion: Mercurial in the middle"
 date:       2010-02-25 20:41:52
+author:     admin
 categories: os-x
 tags:  
 permalink: /2010/02/25/being-subversive-with-subversion-mercurial-in-the-middle/

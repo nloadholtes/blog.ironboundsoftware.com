@@ -2,6 +2,7 @@
 layout:     post
 title:      "Global variables and my confusion"
 date:       2004-05-28 01:27:16
+author:     Nick
 categories: programming
 tags:  
 permalink: /2004/05/28/global-variables-and-my-confusion/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Choices - The hidden powers of python"
 date:       2011-02-06 12:40:45
+author:     admin
 categories: programming
 tags:  
 permalink: /2011/02/06/choices-the-hidden-powers-of-python/

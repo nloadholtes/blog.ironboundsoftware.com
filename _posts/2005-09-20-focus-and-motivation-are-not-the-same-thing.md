@@ -2,6 +2,7 @@
 layout:     post
 title:      "Focus and motivation are not the same thing"
 date:       2005-09-20 06:38:34
+author:     Nick
 categories: gtd
 tags:  
 permalink: /2005/09/20/focus-and-motivation-are-not-the-same-thing/

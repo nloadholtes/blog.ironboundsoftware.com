@@ -2,6 +2,7 @@
 layout:     post
 title:      "What if it ended today?"
 date:       2016-02-08 09:02:45
+author:     admin
 categories: uncategorized
 tags:  
 permalink: /2016/02/08/what-if-it-ended-today/

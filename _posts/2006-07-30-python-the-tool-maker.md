@@ -2,6 +2,7 @@
 layout:     post
 title:      "Python the tool maker"
 date:       2006-07-30 20:51:39
+author:     Nick
 categories: programming
 tags:  
 permalink: /2006/07/30/python-the-tool-maker/

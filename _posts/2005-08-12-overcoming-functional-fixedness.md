@@ -2,6 +2,7 @@
 layout:     post
 title:      "Overcoming Functional Fixedness"
 date:       2005-08-12 01:35:54
+author:     Nick
 categories: thinking
 tags:  
 permalink: /2005/08/12/overcoming-functional-fixedness/

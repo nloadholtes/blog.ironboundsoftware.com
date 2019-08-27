@@ -2,6 +2,7 @@
 layout:     post
 title:      "Make your own damn story"
 date:       2006-09-27 21:16:35
+author:     Nick
 categories: blogging
 tags:  
 permalink: /2006/09/27/make-your-own-damn-story/

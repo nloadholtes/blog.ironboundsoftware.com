@@ -2,6 +2,7 @@
 layout:     post
 title:      "Things I'm thankful for"
 date:       2016-11-28 09:29:19
+author:     admin
 categories: uncategorized
 tags:  
 permalink: /2016/11/28/things-im-thankful/

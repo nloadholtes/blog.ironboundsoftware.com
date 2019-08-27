@@ -2,6 +2,7 @@
 layout:     post
 title:      "Tip of the day"
 date:       2004-06-01 17:15:27
+author:     Nick
 categories: python
 tags:  
 permalink: /2004/06/01/tip-of-the-day/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Slow and steady wins the race"
 date:       2010-10-18 14:30:30
+author:     admin
 categories: programming
 tags:  
 permalink: /2010/10/18/slow-and-steady-wins-the-race/

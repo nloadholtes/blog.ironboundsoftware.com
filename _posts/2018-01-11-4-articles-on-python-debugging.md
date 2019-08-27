@@ -2,6 +2,7 @@
 layout:     post
 title:      "4 articles on Python Debugging"
 date:       2018-01-11 10:09:15
+author:     admin
 categories: python
 tags:  
 permalink: /2018/01/11/4-articles-on-python-debugging/

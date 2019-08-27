@@ -2,6 +2,7 @@
 layout:     post
 title:      "Why you need tests instead of comments"
 date:       2012-12-17 15:52:18
+author:     admin
 categories: programming
 tags:  
 permalink: /2012/12/17/tests_vs_comments/

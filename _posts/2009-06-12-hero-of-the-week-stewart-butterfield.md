@@ -2,6 +2,7 @@
 layout:     post
 title:      "Hero of the week: Stewart Butterfield"
 date:       2009-06-12 16:22:30
+author:     admin
 categories: entertainment
 tags:  
 permalink: /2009/06/12/hero-of-the-week-stewart-butterfield/

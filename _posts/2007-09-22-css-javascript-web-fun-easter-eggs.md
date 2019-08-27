@@ -2,6 +2,7 @@
 layout:     post
 title:      "CSS + Javascript + web = fun Easter eggs!"
 date:       2007-09-22 12:54:05
+author:     admin
 categories: entertainment
 tags:  
 permalink: /2007/09/22/css-javascript-web-fun-easter-eggs/

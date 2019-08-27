@@ -2,6 +2,7 @@
 layout:     post
 title:      "java.lang.StringBuffer Blues"
 date:       2006-04-26 20:43:06
+author:     Nick
 categories: java
 tags:  
 permalink: /2006/04/26/javalangstringbuffer-blues/

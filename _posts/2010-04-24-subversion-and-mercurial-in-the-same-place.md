@@ -2,6 +2,7 @@
 layout:     post
 title:      "Subversion and Mercurial in the same place"
 date:       2010-04-24 14:35:30
+author:     admin
 categories: java
 tags:  
 permalink: /2010/04/24/subversion-and-mercurial-in-the-same-place/

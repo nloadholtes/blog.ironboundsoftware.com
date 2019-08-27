@@ -2,6 +2,7 @@
 layout:     post
 title:      "Rate-my-resume.com is now live"
 date:       2009-10-11 15:27:07
+author:     admin
 categories: productivity
 tags:  
 permalink: /2009/10/11/rate-my-resume-com-is-now-live/

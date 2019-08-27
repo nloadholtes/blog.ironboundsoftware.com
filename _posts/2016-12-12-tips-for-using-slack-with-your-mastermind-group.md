@@ -2,6 +2,7 @@
 layout:     post
 title:      "Tips for using Slack with your Mastermind group"
 date:       2016-12-12 10:08:48
+author:     admin
 categories: entrepreneur
 tags:  
 permalink: /2016/12/12/tips-using-slack-mastermind-group/

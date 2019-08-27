@@ -2,6 +2,7 @@
 layout:     post
 title:      "Testing AppEngine cron jobs locally"
 date:       2018-03-19 08:30:18
+author:     admin
 categories: programming
 tags:  
 permalink: /2018/03/19/testing-appengine-cron-jobs-locally/

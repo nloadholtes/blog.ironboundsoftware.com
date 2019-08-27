@@ -2,6 +2,7 @@
 layout:     post
 title:      "Dev Twitters to follow"
 date:       2010-12-07 20:48:17
+author:     admin
 categories: programming
 tags:  
 permalink: /2010/12/07/dev-twitters-to-follow/

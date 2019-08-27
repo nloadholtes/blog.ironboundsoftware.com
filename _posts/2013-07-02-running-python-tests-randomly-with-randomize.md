@@ -2,6 +2,7 @@
 layout:     post
 title:      "Running python tests randomly with randomize"
 date:       2013-07-02 15:07:44
+author:     admin
 categories: python
 tags:  
 permalink: /2013/07/02/running-python-tests-randomly-with-randomize/

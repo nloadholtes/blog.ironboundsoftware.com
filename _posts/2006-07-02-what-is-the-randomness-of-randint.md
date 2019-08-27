@@ -2,6 +2,7 @@
 layout:     post
 title:      "What is the randomness of randint()?"
 date:       2006-07-02 22:21:05
+author:     Nick
 categories: blogging
 tags:  
 permalink: /2006/07/02/what-is-the-randomness-of-randint/

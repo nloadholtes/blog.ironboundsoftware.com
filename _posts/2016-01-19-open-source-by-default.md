@@ -2,6 +2,7 @@
 layout:     post
 title:      "Open Source by default"
 date:       2016-01-19 09:07:56
+author:     admin
 categories: programming
 tags:  
 permalink: /2016/01/19/open-source-by-default/

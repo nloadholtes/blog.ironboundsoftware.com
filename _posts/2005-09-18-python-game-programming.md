@@ -2,6 +2,7 @@
 layout:     post
 title:      "Python game programming"
 date:       2005-09-18 09:19:37
+author:     Nick
 categories: games
 tags:  
 permalink: /2005/09/18/python-game-programming/

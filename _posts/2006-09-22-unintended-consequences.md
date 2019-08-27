@@ -2,6 +2,7 @@
 layout:     post
 title:      "Unintended consequences"
 date:       2006-09-22 22:12:24
+author:     Nick
 categories: programming
 tags:  
 permalink: /2006/09/22/unintended-consequences/

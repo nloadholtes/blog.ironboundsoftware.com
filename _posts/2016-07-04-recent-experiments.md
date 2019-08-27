@@ -2,6 +2,7 @@
 layout:     post
 title:      "Recent experiments"
 date:       2016-07-04 10:47:15
+author:     admin
 categories: experiments
 tags:  
 permalink: /2016/07/04/recent-experiments/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "The Sasquatch News widget"
 date:       2005-09-15 09:01:56
+author:     Nick
 categories: apple
 tags:  
 permalink: /2005/09/15/the-sasquatch-news-widget/

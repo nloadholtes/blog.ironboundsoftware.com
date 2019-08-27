@@ -2,6 +2,7 @@
 layout:     post
 title:      "Why I like the SICP book"
 date:       2007-11-01 19:00:25
+author:     admin
 categories: lisp
 tags:  
 permalink: /2007/11/01/why-i-like-the-sicp-book/

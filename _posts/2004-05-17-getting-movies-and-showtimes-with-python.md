@@ -2,6 +2,7 @@
 layout:     post
 title:      "Getting movies and showtimes with python"
 date:       2004-05-17 18:26:39
+author:     Nick
 categories: python
 tags:  
 permalink: /2004/05/17/getting-movies-and-showtimes-with-python/

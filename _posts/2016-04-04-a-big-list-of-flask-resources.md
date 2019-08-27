@@ -2,6 +2,7 @@
 layout:     post
 title:      "A big list of Flask resources"
 date:       2016-04-04 09:43:08
+author:     admin
 categories: flask
 tags:  
 permalink: /2016/04/04/a-big-list-of-flask-resources/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Using scanf in Sparc Assembly language"
 date:       2004-05-07 20:55:56
+author:     Nick
 categories: programming
 tags:  
 permalink: /2004/05/07/using-scanf-in-sparc-assembly-language/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Trying out comments again"
 date:       2016-03-05 17:44:14
+author:     admin
 categories: uncategorized
 tags:  
 permalink: /2016/03/05/trying-out-comments-again/

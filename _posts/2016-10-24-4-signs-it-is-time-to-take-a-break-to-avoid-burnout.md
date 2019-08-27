@@ -2,6 +2,7 @@
 layout:     post
 title:      "4 signs it is time to take a break to avoid burnout"
 date:       2016-10-24 11:39:21
+author:     admin
 categories: thinking
 tags:  
 permalink: /2016/10/24/4-signs-time-take-break-avoid-burnout/

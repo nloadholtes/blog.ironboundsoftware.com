@@ -2,6 +2,7 @@
 layout:     post
 title:      "Running a daily mailing list with Python and MailChimp"
 date:       2018-02-25 16:02:03
+author:     admin
 categories: python
 tags:  
 permalink: /2018/02/25/daily-email-list-python-mailchimp/

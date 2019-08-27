@@ -2,6 +2,7 @@
 layout:     post
 title:      "Mosh, tmux, and twitter: Keeping up on the go"
 date:       2015-08-17 05:35:48
+author:     admin
 categories: organization
 tags:  
 permalink: /2015/08/17/mosh-tmux-and-twitter-keeping-up-on-the-go/

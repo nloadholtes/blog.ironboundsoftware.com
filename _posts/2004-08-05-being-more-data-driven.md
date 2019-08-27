@@ -2,6 +2,7 @@
 layout:     post
 title:      "Being more data driven"
 date:       2004-08-05 21:25:48
+author:     Nick
 categories: programming
 tags:  
 permalink: /2004/08/05/being-more-data-driven/

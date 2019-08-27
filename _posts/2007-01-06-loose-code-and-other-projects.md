@@ -2,6 +2,7 @@
 layout:     post
 title:      "Loose code and other projects"
 date:       2007-01-06 22:03:22
+author:     Nick
 categories: programming
 tags:  
 permalink: /2007/01/06/loose-code-and-other-projects/

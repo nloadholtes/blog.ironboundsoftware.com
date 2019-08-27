@@ -2,6 +2,7 @@
 layout:     post
 title:      "Threaded data harvesting in Python"
 date:       2006-10-22 23:57:17
+author:     Nick
 categories: programming
 tags:  
 permalink: /2006/10/22/threaded-data-harvesting-in-python/

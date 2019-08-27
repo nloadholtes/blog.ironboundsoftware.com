@@ -2,6 +2,7 @@
 layout:     post
 title:      "python __debug__"
 date:       2017-01-09 09:31:36
+author:     admin
 categories: python
 tags:  
 permalink: /2017/01/09/python-__debug__/

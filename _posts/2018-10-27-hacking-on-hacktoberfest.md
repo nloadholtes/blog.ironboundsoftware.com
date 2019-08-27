@@ -2,6 +2,7 @@
 layout:     post
 title:      "Hacking on Hacktoberfest"
 date:       2018-10-27 15:38:57
+author:     admin
 categories: programming
 tags:  
 permalink: /2018/10/27/hacking-on-hacktoberfest/

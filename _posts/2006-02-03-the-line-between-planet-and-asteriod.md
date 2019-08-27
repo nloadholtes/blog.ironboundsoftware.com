@@ -2,6 +2,7 @@
 layout:     post
 title:      "The line between planet and asteriod"
 date:       2006-02-03 18:06:15
+author:     Nick
 categories: astronomy
 tags:  
 permalink: /2006/02/03/the-line-between-planet-and-asteriod/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Local and Global variables"
 date:       2004-09-23 07:03:37
+author:     Nick
 categories: programming
 tags:  
 permalink: /2004/09/23/local-and-global-variables/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Kindle hack: Make PDFs work for you"
 date:       2015-10-04 08:46:25
+author:     admin
 categories: productivity
 tags:  
 permalink: /2015/10/04/kindle-hack-make-pdfs-work-for-you/

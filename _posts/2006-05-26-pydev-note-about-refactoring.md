@@ -2,6 +2,7 @@
 layout:     post
 title:      "PyDev note about refactoring"
 date:       2006-05-26 22:02:27
+author:     Nick
 categories: programming
 tags:  
 permalink: /2006/05/26/pydev-note-about-refactoring/

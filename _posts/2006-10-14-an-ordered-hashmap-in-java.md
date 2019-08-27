@@ -2,6 +2,7 @@
 layout:     post
 title:      "An ordered HashMap in Java"
 date:       2006-10-14 10:18:33
+author:     Nick
 categories: java
 tags:  
 permalink: /2006/10/14/an-ordered-hashmap-in-java/

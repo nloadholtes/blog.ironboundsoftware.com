@@ -2,6 +2,7 @@
 layout:     post
 title:      "My talk about Redacted Tweets"
 date:       2015-04-07 07:08:40
+author:     admin
 categories: python
 tags:  
 permalink: /2015/04/07/my-talk-about-redacted-tweets/

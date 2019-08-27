@@ -2,6 +2,7 @@
 layout:     post
 title:      "remove-if-not"
 date:       2006-02-05 02:05:04
+author:     Nick
 categories: blogging
 tags:  
 permalink: /2006/02/05/remove-if-not/

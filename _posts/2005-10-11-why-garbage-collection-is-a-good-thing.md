@@ -2,6 +2,7 @@
 layout:     post
 title:      "Why garbage collection is a good thing"
 date:       2005-10-11 02:26:06
+author:     Nick
 categories: java
 tags:  
 permalink: /2005/10/11/why-garbage-collection-is-a-good-thing/

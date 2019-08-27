@@ -2,6 +2,7 @@
 layout:     post
 title:      "The math behind Sudoku: Graph Theory"
 date:       2006-01-15 12:46:25
+author:     Nick
 categories: blogging
 tags:  
 permalink: /2006/01/15/the-math-behind-sudoku-graph-theory/

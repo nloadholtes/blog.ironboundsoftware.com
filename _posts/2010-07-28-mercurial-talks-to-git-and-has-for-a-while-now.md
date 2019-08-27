@@ -2,6 +2,7 @@
 layout:     post
 title:      "Mercurial talks to Git (and has for a while now)"
 date:       2010-07-28 19:53:08
+author:     admin
 categories: software-development
 tags:  
 permalink: /2010/07/28/mercurial-talks-to-git-and-has-for-a-while-now/

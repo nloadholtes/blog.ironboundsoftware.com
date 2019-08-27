@@ -2,6 +2,7 @@
 layout:     post
 title:      "Programmer, grow thy skills! Be a hacker!"
 date:       2016-03-01 09:40:05
+author:     admin
 categories: software-development
 tags:  
 permalink: /2016/03/01/programmer-grow-thy-skills-be-a-hacker/

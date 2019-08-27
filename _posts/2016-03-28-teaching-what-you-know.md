@@ -2,6 +2,7 @@
 layout:     post
 title:      "Teaching what you know"
 date:       2016-03-28 19:22:46
+author:     admin
 categories: programming
 tags:  
 permalink: /2016/03/28/teaching-what-you-know/

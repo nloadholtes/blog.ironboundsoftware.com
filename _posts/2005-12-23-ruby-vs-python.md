@@ -2,6 +2,7 @@
 layout:     post
 title:      "Ruby vs Python"
 date:       2005-12-23 06:45:22
+author:     Nick
 categories: programming
 tags:  
 permalink: /2005/12/23/ruby-vs-python/

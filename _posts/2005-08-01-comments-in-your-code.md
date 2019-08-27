@@ -2,6 +2,7 @@
 layout:     post
 title:      "Comments in your code"
 date:       2005-08-01 20:14:00
+author:     Nick
 categories: programming
 tags:  
 permalink: /2005/08/01/comments-in-your-code/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Finding a development job you will love"
 date:       2016-08-01 09:35:24
+author:     admin
 categories: programming
 tags:  
 permalink: /2016/08/01/finding-development-job-you-will-love/

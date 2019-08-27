@@ -2,6 +2,7 @@
 layout:     post
 title:      "Hacking around memory limits in the cloud"
 date:       2016-03-14 12:04:09
+author:     admin
 categories: cloud
 tags:  
 permalink: /2016/03/14/hacking-around-memory-limits-cloud/

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Becoming a better programmer"
 date:       2016-11-21 11:28:26
+author:     admin
 categories: programming
 tags:  
 permalink: /2016/11/21/becoming-a-better-programmer/

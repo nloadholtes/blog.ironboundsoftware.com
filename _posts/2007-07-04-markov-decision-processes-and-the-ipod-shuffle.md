@@ -2,6 +2,7 @@
 layout:     post
 title:      "Markov Decision Processes and the iPod shuffle"
 date:       2007-07-04 16:57:07
+author:     admin
 categories: ipod
 tags:  
 permalink: /2007/07/04/markov-decision-processes-and-the-ipod-shuffle/

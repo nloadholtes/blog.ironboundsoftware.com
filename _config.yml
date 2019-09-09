@@ -9,7 +9,7 @@ kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
   hard_wrap: true
   
-remote-theme: nloadholtes/jekyll-theme-hacker
+remote_theme: nloadholtes/jekyll-theme-hacker
 
 plugins:
   - jekyll-sitemap

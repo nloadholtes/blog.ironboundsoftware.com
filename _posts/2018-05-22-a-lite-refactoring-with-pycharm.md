@@ -47,7 +47,7 @@ I also used the "Refactor->Move" feature to rearrange the code a little bit and 
 
 The end result of all this?
 
-![Showing the result of refactoring with pycharm: a nice status report in telegram](https://ironboundsoftware.com/blog/wp-content/uploads/2018/05/IMG_20180518_081639-420x747.jpg)
+![Showing the result of refactoring with pycharm: a nice status report in telegram](https://ironboundsoftware.com/blog-imgs/uploads/2018/05/IMG_20180518_081639-420x747.jpg)
 
 The next morning I woke up to a telegram alert showing me that some people got emails with job leads last night!
 

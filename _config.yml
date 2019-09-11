@@ -11,7 +11,7 @@ kramdown:
   
 remote_theme: nloadholtes/hacker
 
-google_analytics_key: UA-247234-1
+google_analytics_key: UA-247234-4
 
 plugins:
   - jekyll-sitemap

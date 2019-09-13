@@ -29,7 +29,14 @@ As it happened, I also was able to do some Pull Requests for some work related l
 
 If there's any programs or libraries you use on a regular basis, I would encourage you to go check those out first. The issues tab and see if there's anything there that looks interesting! 
 
+
+
+
 Some project will mark issues with special tags like "hacktoberfest" or "beginner" and those are great issues to look at first. They typically are things that would really help the project so if you can jump in there it would make the world a little bit better. 
+
+
+  
+  
 
 One of the lesser known things about [GitHub](https://github.com) is the powerful search engine. It can be used to find a lot of different things such as specific code chunks, or conversations about a topic, or even specific types of files! 
 

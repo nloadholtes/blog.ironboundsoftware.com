@@ -3,7 +3,7 @@ layout:     post
 title:      "Refactoring observations"
 date:       2007-03-04 22:35:03
 author:     Nick
-categories: java
+categories: java,python,software development
 tags:  
 permalink: /2007/03/04/refactoring-observations/
 ---

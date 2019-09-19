@@ -3,7 +3,7 @@ layout:     post
 title:      "Astronomy: the new bloodsport"
 date:       2005-09-23 04:10:30
 author:     Nick
-categories: astronomy
+categories: astronomy,blogging,space
 tags:  
 permalink: /2005/09/23/astronomy-the-new-bloodsport/
 ---

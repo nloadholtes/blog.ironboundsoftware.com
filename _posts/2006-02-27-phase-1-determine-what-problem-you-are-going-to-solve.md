@@ -3,7 +3,7 @@ layout:     post
 title:      "Phase 1: Determine what problem you are going to solve"
 date:       2006-02-27 23:10:26
 author:     Nick
-categories: ai
+categories: ai,blogging,probability,programming,python,web
 tags:  
 permalink: /2006/02/27/phase-1-determine-what-problem-you-are-going-to-solve/
 ---

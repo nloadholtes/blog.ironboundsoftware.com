@@ -3,11 +3,11 @@ layout:     post
 title:      "Adventures with minimongo"
 date:       2016-08-15 11:03:06
 author:     admin
-categories: mongo
+categories: mongo,python
 tags:  
 permalink: /2016/08/15/adventures-with-python-minimongo/
 ---
-[caption id="attachment_802" align="alignright" width="240"][![python minimongo is the best choice](https://ironboundsoftware.com/blog/wp-content/uploads/2016/08/3009281516_cbdb542932_m.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/08/3009281516_cbdb542932_m.jpg) Too many choices! https://flic.kr/p/5zVmy5[/caption] Over the last few years I have wound up using [mongo](https://www.mongodb.com/) as my data store on several projects. In fact, it has been a while since I have written any SQL! For my latest project I again reached for mongo to hold my data, but this time I decided to use the Python minimongo project as my ODM (Object Document Mapper). 
+[caption id="attachment_802" align="alignright" width="240"][![python minimongo is the best choice](https://ironboundsoftware.com/blog-imgs/uploads/2016/08/3009281516_cbdb542932_m.jpg)](https://ironboundsoftware.com/blog-imgs/uploads/2016/08/3009281516_cbdb542932_m.jpg) Too many choices! https://flic.kr/p/5zVmy5[/caption] Over the last few years I have wound up using [mongo](https://www.mongodb.com/) as my data store on several projects. In fact, it has been a while since I have written any SQL! For my latest project I again reached for mongo to hold my data, but this time I decided to use the Python minimongo project as my ODM (Object Document Mapper). 
 
 ## What is minimongo?
 

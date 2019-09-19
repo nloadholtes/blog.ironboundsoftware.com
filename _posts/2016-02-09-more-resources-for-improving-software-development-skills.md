@@ -3,7 +3,7 @@ layout:     post
 title:      "More resources for improving software development skills"
 date:       2016-02-09 09:26:18
 author:     admin
-categories: programming
+categories: programming,python,software development,web
 tags:  
 permalink: /2016/02/09/more-resources-for-improving-software-development-skills/
 ---

@@ -3,7 +3,7 @@ layout:     post
 title:      "A shortfall of Python: no function overloading"
 date:       2007-05-29 19:27:55
 author:     Nick
-categories: programming
+categories: programming,python,software development
 tags:  
 permalink: /2007/05/29/a-shortfall-of-python-no-function-overloading/
 ---

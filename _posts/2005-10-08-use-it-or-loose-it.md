@@ -3,7 +3,7 @@ layout:     post
 title:      "Use it or loose it"
 date:       2005-10-08 06:45:59
 author:     Nick
-categories: programming
+categories: programming,python
 tags:  
 permalink: /2005/10/08/use-it-or-loose-it/
 ---

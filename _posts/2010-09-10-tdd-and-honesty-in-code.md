@@ -3,7 +3,7 @@ layout:     post
 title:      "TDD and honesty in code"
 date:       2010-09-10 09:02:48
 author:     admin
-categories: astronomy
+categories: astronomy,python,software development,tdd
 tags:  
 permalink: /2010/09/10/tdd-and-honesty-in-code/
 ---

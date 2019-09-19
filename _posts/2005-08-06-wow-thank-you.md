@@ -3,7 +3,7 @@ layout:     post
 title:      "Wow! Thank you!"
 date:       2005-08-06 20:57:00
 author:     Nick
-categories: os-x
+categories: os x
 tags:  
 permalink: /2005/08/06/wow-thank-you/
 ---

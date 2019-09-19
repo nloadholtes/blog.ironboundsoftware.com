@@ -3,7 +3,7 @@ layout:     post
 title:      "Data Mining and Social Network Analysis, and the Stock Market"
 date:       2006-02-26 21:40:11
 author:     Nick
-categories: ai
+categories: ai,programming,python,statistics,thinking,web
 tags:  
 permalink: /2006/02/26/data-mining-and-social-network-analysis-and-the-stock-market/
 ---

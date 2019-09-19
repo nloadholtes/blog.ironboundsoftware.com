@@ -3,7 +3,7 @@ layout:     post
 title:      "Unit testing"
 date:       2005-09-25 04:08:39
 author:     Nick
-categories: blogging
+categories: blogging,programming,software development
 tags:  
 permalink: /2005/09/25/unit-testing-2/
 ---

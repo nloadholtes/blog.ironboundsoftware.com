@@ -3,7 +3,7 @@ layout:     post
 title:      "Effective Logging"
 date:       2006-01-12 21:54:36
 author:     Nick
-categories: blogging
+categories: blogging,programming,software development,thinking
 tags:  
 permalink: /2006/01/12/effective-logging/
 ---

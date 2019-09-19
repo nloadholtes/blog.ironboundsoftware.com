@@ -3,7 +3,7 @@ layout:     post
 title:      "Graphing eBay users to find fraud"
 date:       2006-12-05 20:55:56
 author:     Nick
-categories: analytics
+categories: analytics,math,web
 tags:  
 permalink: /2006/12/05/graphing-ebay-users-to-find-fraud/
 ---

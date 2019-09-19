@@ -3,11 +3,11 @@ layout:     post
 title:      "Agile mindset: Making agile more than just a development methodology"
 date:       2016-10-17 11:55:52
 author:     admin
-categories: software-development
+categories: software development,thinking
 tags:  
 permalink: /2016/10/17/agile-isnt-just-development-methodology/
 ---
-[caption id="attachment_868" align="alignright" width="332"][![agile mindset](https://ironboundsoftware.com/blog/wp-content/uploads/2016/10/Buddhas_statue_near_Belum_Caves_Andhra_Pradesh_India.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/10/Buddhas_statue_near_Belum_Caves_Andhra_Pradesh_India.jpg) Mindset is everything[/caption] To software developers, the word "agile" usually conjures up thoughts of project tracking, story points, and team velocity. To truly be the most effective developer that you can be, the word agile should also remind you that change is constant and that you must adapt. An agile mindset is the greatest tool a software developer can possess. Too many software developers fall into the routine of their process. We work our stories, finish our sprints, and move on to the next iteration. While this does allow software to be produced in a predictable manner, it also can shackle developers. When facing a new challenge that challenges their existing mindset, these shackles can hold a developer back.
+[caption id="attachment_868" align="alignright" width="332"][![agile mindset](https://ironboundsoftware.com/blog-imgs/uploads/2016/10/Buddhas_statue_near_Belum_Caves_Andhra_Pradesh_India.jpg)](https://ironboundsoftware.com/blog-imgs/uploads/2016/10/Buddhas_statue_near_Belum_Caves_Andhra_Pradesh_India.jpg) Mindset is everything[/caption] To software developers, the word "agile" usually conjures up thoughts of project tracking, story points, and team velocity. To truly be the most effective developer that you can be, the word agile should also remind you that change is constant and that you must adapt. An agile mindset is the greatest tool a software developer can possess. Too many software developers fall into the routine of their process. We work our stories, finish our sprints, and move on to the next iteration. While this does allow software to be produced in a predictable manner, it also can shackle developers. When facing a new challenge that challenges their existing mindset, these shackles can hold a developer back.
 
 ## Scenario: Moving offices
 

@@ -3,7 +3,7 @@ layout:     post
 title:      "Hiring Hacks"
 date:       2015-04-01 06:47:49
 author:     admin
-categories: analytics
+categories: analytics,data,statistics,thinking,web
 tags:  
 permalink: /2015/04/01/hiring-hacks/
 ---
@@ -31,7 +31,7 @@ Every social media site claims that they are the hottest spot, but how do you re
 
 # Is anybody out there?
 
-Once you've shared the link then you can visit your bit.ly account and view the stats for your link. Here's a picture of what mine looked like: [![Screenshot](/blog/wp-content/uploads/2015/04/Screenshot-260x300.png)](/blog/wp-content/uploads/2015/04/Screenshot.png) I created the link and tested it out. I then waited until Monday morning and then posted it around 7:30am. That's the huge spike there. As you can see there were over 30 views! This is great information to know because it lets me know how active my resume is. As the week goes on I can re-send out the link and I should see a new bump. This is important to know because if I just sent the link out again on Tuesday it might not have been seen by as many people. Further down the stats page is another important chunk of information, how the link was shared: [![Screenshot-1](/blog/wp-content/uploads/2015/04/Screenshot-1-300x292.png)](/blog/wp-content/uploads/2015/04/Screenshot-1.png) This was very interesting to know. I have a similar number of followers on both LinkedIn and Twitter, but twitter was twice as much as LinkedIn! And the "Unknown" was huge! The "Unknown" was for referrers that didn't identify themselves to the browser. So that could be email links, chat messages, or some other situation. (The "Who shared a bitlink" thing shows me because I'm the only one who posted this link to bit.ly which isn't surprising: this type of link it going to be shared via copy-paste instead of someone retweeting it.) 
+Once you've shared the link then you can visit your bit.ly account and view the stats for your link. Here's a picture of what mine looked like: [![Screenshot](/blog-imgs/uploads/2015/04/Screenshot-260x300.png)](/blog-imgs/uploads/2015/04/Screenshot.png) I created the link and tested it out. I then waited until Monday morning and then posted it around 7:30am. That's the huge spike there. As you can see there were over 30 views! This is great information to know because it lets me know how active my resume is. As the week goes on I can re-send out the link and I should see a new bump. This is important to know because if I just sent the link out again on Tuesday it might not have been seen by as many people. Further down the stats page is another important chunk of information, how the link was shared: [![Screenshot-1](/blog-imgs/uploads/2015/04/Screenshot-1-300x292.png)](/blog-imgs/uploads/2015/04/Screenshot-1.png) This was very interesting to know. I have a similar number of followers on both LinkedIn and Twitter, but twitter was twice as much as LinkedIn! And the "Unknown" was huge! The "Unknown" was for referrers that didn't identify themselves to the browser. So that could be email links, chat messages, or some other situation. (The "Who shared a bitlink" thing shows me because I'm the only one who posted this link to bit.ly which isn't surprising: this type of link it going to be shared via copy-paste instead of someone retweeting it.) 
 
 * * *
 

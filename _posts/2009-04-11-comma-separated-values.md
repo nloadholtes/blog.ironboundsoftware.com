@@ -3,7 +3,7 @@ layout:     post
 title:      "Comma Separated Values"
 date:       2009-04-11 12:04:49
 author:     admin
-categories: productivity
+categories: productivity,programming,python
 tags:  
 permalink: /2009/04/11/comma-separated-values/
 ---

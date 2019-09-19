@@ -3,7 +3,7 @@ layout:     post
 title:      "Title first, then game?"
 date:       2007-09-19 15:12:23
 author:     admin
-categories: entertainment
+categories: entertainment,fun,games,tv &#38; movies
 tags:  
 permalink: /2007/09/19/title-first-then-game/
 ---

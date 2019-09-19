@@ -3,7 +3,7 @@ layout:     post
 title:      "Being more data driven"
 date:       2004-08-05 21:25:48
 author:     Nick
-categories: programming
+categories: programming,python,software development,thinking
 tags:  
 permalink: /2004/08/05/being-more-data-driven/
 ---

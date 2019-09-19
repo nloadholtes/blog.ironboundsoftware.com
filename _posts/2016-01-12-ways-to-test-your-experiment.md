@@ -3,7 +3,7 @@ layout:     post
 title:      "Ways to test your experiment"
 date:       2016-01-12 11:06:35
 author:     admin
-categories: statistics
+categories: statistics,web
 tags:  
 permalink: /2016/01/12/ways-test-experiment/
 ---

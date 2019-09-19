@@ -3,7 +3,7 @@ layout:     post
 title:      "The future of programming"
 date:       2007-01-18 22:01:04
 author:     Nick
-categories: lisp
+categories: lisp,programming,python,software development
 tags:  
 permalink: /2007/01/18/the-future-of-programming/
 ---

@@ -3,7 +3,7 @@ layout:     post
 title:      "My experiences with 5 different Continuous Integration servers"
 date:       2016-11-14 09:21:50
 author:     admin
-categories: software-development
+categories: software development
 tags:  
 permalink: /2016/11/14/experiences-5-different-continuous-integration-servers/
 ---

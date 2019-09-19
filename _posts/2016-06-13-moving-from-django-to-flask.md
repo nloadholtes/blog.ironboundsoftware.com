@@ -3,7 +3,7 @@ layout:     post
 title:      "Moving from Django to Flask"
 date:       2016-06-13 11:11:11
 author:     admin
-categories: django
+categories: django,flask,uncategorized,web
 tags:  
 permalink: /2016/06/13/moving-django-to-flask/
 ---

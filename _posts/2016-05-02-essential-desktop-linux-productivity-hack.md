@@ -3,7 +3,7 @@ layout:     post
 title:      "Essential desktop Linux productivity hack"
 date:       2016-05-02 10:58:06
 author:     admin
-categories: programming
+categories: programming,software development
 tags:  
 permalink: /2016/05/02/essential-productivity-hacks-linux/
 ---
@@ -11,7 +11,7 @@ Need a productivity hack? As a back end python programmer, I find that using Lin
 
 ## Productivity Hack #1: Tiling windows
 
-Tiling your desk top windows means arranging them so that they don't overlap. For example, here's a screenshot of my editor and a terminal side-by-side: [caption id="attachment_649" align="alignleft" width="700"][![productivity hack: emacs and terminal side by side](https://ironboundsoftware.com/blog/wp-content/uploads/2016/04/Screenshot-from-2016-04-25-085225-e1461589018675.png)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/04/Screenshot-from-2016-04-25-085225-e1461589018675.png) A favorite productivity hack: a terminal and emacs side-by-side[/caption] There are window managers that will do this automatically for you, but in this article I'm going to talk about some built-in keyboard shortcuts that will let you do almost the same thing. Let's dive into how Ubuntu does this!  By pressing Ctrl and Alt and a number on the keypad, you can "move" your active window around on the screen. Since that's a lot to type, I'm just going to say "C-A-n" for the rest of this post. An example use of this would be to press C-A-n 5 to maximize a window to full screen. My current favorite key combination is C-A-n 4 and C-A-n 6 which will put a window on the left or right side of the screen filling up half of the screen. This is very useful to doing things side-by-side (think an editor and a terminal). Using the keystrokes to move and position the windows is very fast and very precise. Using a mouse you would not be able to get the windows placed and size nearly as fast as you can with these awesome keyboard shortcuts. 
+Tiling your desk top windows means arranging them so that they don't overlap. For example, here's a screenshot of my editor and a terminal side-by-side: [caption id="attachment_649" align="alignleft" width="700"][![productivity hack: emacs and terminal side by side](https://ironboundsoftware.com/blog-imgs/uploads/2016/04/Screenshot-from-2016-04-25-085225-e1461589018675.png)](https://ironboundsoftware.com/blog-imgs/uploads/2016/04/Screenshot-from-2016-04-25-085225-e1461589018675.png) A favorite productivity hack: a terminal and emacs side-by-side[/caption] There are window managers that will do this automatically for you, but in this article I'm going to talk about some built-in keyboard shortcuts that will let you do almost the same thing. Let's dive into how Ubuntu does this!  By pressing Ctrl and Alt and a number on the keypad, you can "move" your active window around on the screen. Since that's a lot to type, I'm just going to say "C-A-n" for the rest of this post. An example use of this would be to press C-A-n 5 to maximize a window to full screen. My current favorite key combination is C-A-n 4 and C-A-n 6 which will put a window on the left or right side of the screen filling up half of the screen. This is very useful to doing things side-by-side (think an editor and a terminal). Using the keystrokes to move and position the windows is very fast and very precise. Using a mouse you would not be able to get the windows placed and size nearly as fast as you can with these awesome keyboard shortcuts. 
 
 ## Productivity Hack #2: Virtual Desktops
 

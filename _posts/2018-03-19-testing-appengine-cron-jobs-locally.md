@@ -3,7 +3,7 @@ layout:     post
 title:      "Testing AppEngine cron jobs locally"
 date:       2018-03-19 08:30:18
 author:     admin
-categories: programming
+categories: programming,python,software development
 tags:  
 permalink: /2018/03/19/testing-appengine-cron-jobs-locally/
 ---
@@ -13,7 +13,7 @@ Lately I've been doing a lot with [Google AppEngine](https://cloud.google.com/ap
 
 So AppEngine applications need an `app.yaml` file that defines a lot of things needed to run the code. It is also defines the routing for the app's endpoints, and who is allowed to access them. _(Basically either administrators, or the whole world)_ My app is making use of the [cron.yaml](https://cloud.google.com/appengine/docs/standard/python/config/cron) file to periodically ping certain endpoints in the app. The catch is that I don't want just anyone hitting those endpoints, a bad actor could hammer that sensitive endpoint and kill my API access. 
 
-> ![Did someone say "Bad Actor"?](/blog/wp-content/uploads/2018/03/bad-actor.gif) _Did someone say "Bad Actor"?_
+> ![Did someone say "Bad Actor"?](/blog-imgs/uploads/2018/03/bad-actor.gif) _Did someone say "Bad Actor"?_
 
 Thankfully, Google recognized this and allows you to setup endpoints in the `app.yaml` file with a `login:` parameter. Setting this to "admin" tells AppEngine that only logged in users who have admin rights to the domain are allowed to hit that end point. Yay! I don't have to write any custom login/user management code. But.... 
 

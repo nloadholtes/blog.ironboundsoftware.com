@@ -3,7 +3,7 @@ layout:     post
 title:      "Hooking an iPod up to a Honda Civic Hybrid"
 date:       2005-09-17 06:59:16
 author:     Nick
-categories: entertainment
+categories: entertainment,ipod,music
 tags:  
 permalink: /2005/09/17/hooking-an-ipod-up-to-a-honda-civic-hybrid/
 ---

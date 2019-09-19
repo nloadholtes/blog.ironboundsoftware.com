@@ -3,11 +3,11 @@ layout:     post
 title:      "Python Debugging"
 date:       2017-09-25 09:36:36
 author:     admin
-categories: debugging
+categories: debugging,python
 tags:  
 permalink: /2017/09/25/python-debugging/
 ---
-[![cool beetle from https://pixabay.com/en/bug-insect-beetle-wasp-yellow-34375/](https://ironboundsoftware.com/blog/wp-content/uploads/2017/09/bug-34375_640-420x327.png)](https://pythondebugging.com)Python is an awesome language and environment to work in. And thanks to some great tools Python debugging can actually be fun! Let's look at some of the things that separate Python debugging from debugging in other languages: 
+[![cool beetle from https://pixabay.com/en/bug-insect-beetle-wasp-yellow-34375/](https://ironboundsoftware.com/blog-imgs/uploads/2017/09/bug-34375_640-420x327.png)](https://pythondebugging.com)Python is an awesome language and environment to work in. And thanks to some great tools Python debugging can actually be fun! Let's look at some of the things that separate Python debugging from debugging in other languages: 
 
 ## Interactive debugging
 
@@ -34,4 +34,4 @@ Each of these offers the ability to set breakpoints, examine the stack, and all 
 
 ## More on Python Debugging
 
-I've collected my best tips on Python Debugging into an e-book called "Adventures In Python Debugging". Check it out over at [PythonDebugging.com](https://pythondebugging.com). There's a free 5 day email course if you would like to get a sample of the book and learn more![![Adventures In Python Debugging book cover](https://ironboundsoftware.com/blog/wp-content/uploads/2017/09/Cover-1b-420x339.png)](https://pythondebugging.com)
+I've collected my best tips on Python Debugging into an e-book called "Adventures In Python Debugging". Check it out over at [PythonDebugging.com](https://pythondebugging.com). There's a free 5 day email course if you would like to get a sample of the book and learn more![![Adventures In Python Debugging book cover](https://ironboundsoftware.com/blog-imgs/uploads/2017/09/Cover-1b-420x339.png)](https://pythondebugging.com)

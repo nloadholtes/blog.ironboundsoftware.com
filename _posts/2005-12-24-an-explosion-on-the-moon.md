@@ -3,7 +3,7 @@ layout:     post
 title:      "An explosion on the moon"
 date:       2005-12-24 22:13:34
 author:     Nick
-categories: astronomy
+categories: astronomy,blogging,exploration,space
 tags:  
 permalink: /2005/12/24/an-explosion-on-the-moon/
 ---

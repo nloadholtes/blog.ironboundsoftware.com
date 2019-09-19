@@ -3,7 +3,7 @@ layout:     post
 title:      "Sudoku Helper"
 date:       2006-03-06 22:18:08
 author:     Nick
-categories: blogging
+categories: blogging,entertainment,games,sudoku,web
 tags:  
 permalink: /2006/03/06/sudoku-helper/
 ---

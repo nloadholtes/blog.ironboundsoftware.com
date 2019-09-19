@@ -7,7 +7,7 @@ categories: entrepreneur
 tags:  
 permalink: /2016/12/12/tips-using-slack-mastermind-group/
 ---
-[caption id="attachment_954" align="alignright" width="420"][![](https://ironboundsoftware.com/blog/wp-content/uploads/2016/12/Seal_Team201-420x399.png)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/12/Seal_Team201.png) Also known as the "Software Engineering Ass-kicking aLliance"[/caption] Recently I joined a mastermind group. We meet weekly via Google Hangouts to talk and discuss our week. While is great, sometimes you need to talk before the scheduled meeting. We've got 2 options open to us, an email list and a private slack channel. I have found that the slack channel has been very valuable and makes this mastermind much more powerful. Let's talk about some slack mastermind tips to make you as successful as you can be!
+[caption id="attachment_954" align="alignright" width="420"][![](https://ironboundsoftware.com/blog-imgs/uploads/2016/12/Seal_Team201-420x399.png)](https://ironboundsoftware.com/blog-imgs/uploads/2016/12/Seal_Team201.png) Also known as the "Software Engineering Ass-kicking aLliance"[/caption] Recently I joined a mastermind group. We meet weekly via Google Hangouts to talk and discuss our week. While is great, sometimes you need to talk before the scheduled meeting. We've got 2 options open to us, an email list and a private slack channel. I have found that the slack channel has been very valuable and makes this mastermind much more powerful. Let's talk about some slack mastermind tips to make you as successful as you can be!
 
 ## What is a mastermind?
 

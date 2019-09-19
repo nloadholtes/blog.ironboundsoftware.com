@@ -3,11 +3,11 @@ layout:     post
 title:      "How to serve static files with flask"
 date:       2016-08-22 10:16:32
 author:     admin
-categories: flask
+categories: flask,python,uncategorized,web
 tags:  
 permalink: /2016/08/22/serve-static-files-with-flask/
 ---
-With every web app there comes a time when you will need to serve up some static files. Maybe it is the JS or image files, or maybe you are just trying something out. Let's talk about how to handle this in [Flask](http://flask.pocoo.org/).  [caption id="attachment_811" align="alignright" width="357"][![Serving static files with flask is cool](https://ironboundsoftware.com/blog/wp-content/uploads/2016/08/freezeing_flask.gif)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/08/freezeing_flask.gif) Just a cool picture.[/caption] 
+With every web app there comes a time when you will need to serve up some static files. Maybe it is the JS or image files, or maybe you are just trying something out. Let's talk about how to handle this in [Flask](http://flask.pocoo.org/).  [caption id="attachment_811" align="alignright" width="357"][![Serving static files with flask is cool](https://ironboundsoftware.com/blog-imgs/uploads/2016/08/freezeing_flask.gif)](https://ironboundsoftware.com/blog-imgs/uploads/2016/08/freezeing_flask.gif) Just a cool picture.[/caption] 
 
 ## Letting something else serve the files
 

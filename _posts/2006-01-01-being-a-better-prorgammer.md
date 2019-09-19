@@ -3,7 +3,7 @@ layout:     post
 title:      "Being a better prorgammer"
 date:       2006-01-01 15:37:20
 author:     Nick
-categories: blogging
+categories: blogging,java,programming,software development,thinking
 tags:  
 permalink: /2006/01/01/being-a-better-prorgammer/
 ---

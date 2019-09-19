@@ -3,7 +3,7 @@ layout:     post
 title:      "Learning from past mistakes"
 date:       2004-08-02 07:01:56
 author:     Nick
-categories: games
+categories: games,programming,python,wasteland
 tags:  
 permalink: /2004/08/02/learning-from-past-mistakes/
 ---

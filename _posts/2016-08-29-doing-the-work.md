@@ -3,7 +3,7 @@ layout:     post
 title:      "Doing the work"
 date:       2016-08-29 10:03:32
 author:     admin
-categories: getting-things-done
+categories: getting things done,thinking
 tags:  
 permalink: /2016/08/29/doing-the-work/
 ---

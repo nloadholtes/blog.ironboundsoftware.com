@@ -3,7 +3,7 @@ layout:     post
 title:      "Debugging like Elon Musk"
 date:       2016-10-10 10:25:05
 author:     admin
-categories: productivity
+categories: productivity,python,software development,thinking
 tags:  
 permalink: /2016/10/10/debugging-like-elon-musk/
 ---

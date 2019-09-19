@@ -3,11 +3,11 @@ layout:     post
 title:      "Quick network troubleshooting tips"
 date:       2016-05-09 11:24:06
 author:     admin
-categories: linux
+categories: linux,programming,web
 tags:  
 permalink: /2016/05/09/quick-network-troubleshooting-tips/
 ---
-Network troubleshooting is an essential skill here in the age of the cloud. As systems become more and more distributed (hello microservices!) the network connection between them becomes more and more important. Let's look at some quick and basic techniques you can use to try and understand what is going on with the network. [caption id="attachment_656" align="alignleft" width="420"][![a network card for network troubleshooting](https://ironboundsoftware.com/blog/wp-content/uploads/2016/04/640px-ForeRunnerLE_25_ATM_Network_Interface_1-420x280.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/04/640px-ForeRunnerLE_25_ATM_Network_Interface_1.jpg) This was state of the art not too long ago. A whopping 2.5 Mbps! [Credit](https://commons.wikimedia.org/wiki/File:ForeRunnerLE_25_ATM_Network_Interface_\(1\).jpg)[/caption] 
+Network troubleshooting is an essential skill here in the age of the cloud. As systems become more and more distributed (hello microservices!) the network connection between them becomes more and more important. Let's look at some quick and basic techniques you can use to try and understand what is going on with the network. [caption id="attachment_656" align="alignleft" width="420"][![a network card for network troubleshooting](https://ironboundsoftware.com/blog-imgs/uploads/2016/04/640px-ForeRunnerLE_25_ATM_Network_Interface_1-420x280.jpg)](https://ironboundsoftware.com/blog-imgs/uploads/2016/04/640px-ForeRunnerLE_25_ATM_Network_Interface_1.jpg) This was state of the art not too long ago. A whopping 2.5 Mbps! [Credit](https://commons.wikimedia.org/wiki/File:ForeRunnerLE_25_ATM_Network_Interface_\(1\).jpg)[/caption] 
 
 ## Linux: Your best friend/worst enemy
 

@@ -3,7 +3,7 @@ layout:     post
 title:      "Fun with Python and Lisp"
 date:       2007-02-19 10:34:33
 author:     Nick
-categories: blogging
+categories: blogging,lisp,programming,python
 tags:  
 permalink: /2007/02/19/fun-with-python-and-lisp/
 ---

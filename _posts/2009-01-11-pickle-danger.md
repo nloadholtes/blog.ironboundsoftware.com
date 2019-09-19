@@ -3,7 +3,7 @@ layout:     post
 title:      "Pickle Danger!"
 date:       2009-01-11 19:17:43
 author:     admin
-categories: python
+categories: python,software development
 tags:  
 permalink: /2009/01/11/pickle-danger/
 ---

@@ -3,7 +3,7 @@ layout:     post
 title:      "Working with branches and a requirements.txt"
 date:       2016-04-18 09:26:00
 author:     admin
-categories: python
+categories: python,software development,uncategorized
 tags:  
 permalink: /2016/04/18/working-with-pip-branch/
 ---

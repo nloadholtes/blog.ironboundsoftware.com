@@ -3,7 +3,7 @@ layout:     post
 title:      "Minor note/correction"
 date:       2004-12-11 04:39:58
 author:     Nick
-categories: programming
+categories: programming,python
 tags:  
 permalink: /2004/12/11/minor-notecorrection/
 ---

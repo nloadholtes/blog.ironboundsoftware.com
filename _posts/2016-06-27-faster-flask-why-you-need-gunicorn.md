@@ -3,19 +3,15 @@ layout:     post
 title:      "Faster Flask: Why you need gunicorn"
 date:       2016-06-27 10:22:33
 author:     admin
-categories: flask
+categories: flask,python,uncategorized,web
 tags:  
 permalink: /2016/06/27/faster-flask-need-gunicorn/
 ---
-While doing some performance test on a new flask microservice, I noticed it was not handling very very many connections per second. Additionally, nginx (which we are using as our front end webserver) was reporting a ton of errors. WTF?!? I thought flask was fast. I need a faster flask! [![faster flask](https://ironboundsoftware.com/blog-imgs/wp-content/uploads/2016/06/8736451330_e38fe86a77_z.jpg)]() Racing to make a faster flask
+While doing some performance test on a new flask microservice, I noticed it was not handling very very many connections per second. Additionally, nginx (which we are using as our front end webserver) was reporting a ton of errors. WTF?!? I thought flask was fast. I need a faster flask! [caption id="attachment_710" align="alignright" width="640"][![faster flask](https://ironboundsoftware.com/blog-imgs/uploads/2016/06/8736451330_e38fe86a77_z.jpg)](https://ironboundsoftware.com/blog-imgs/uploads/2016/06/8736451330_e38fe86a77_z.jpg) Racing to make a faster flask[/caption]  
 
 ## Making a faster flask
 
-The investigation of this took a little while because there were so many new variables at play. Not only was the flask service "new" to the stack, but the deployment environment was as well. (We are using[ AWS ElasticBeanstalk](https://aws.amazon.com/elasticbeanstalk/) to run this particular service.) 
-
-After a few hours we narrowed down our list of suspects to nginx and [flask](http://flask.pocoo.org/). Nginx is a well known and well respected web server, but there were questions about how it was configured. We were using a "stock" BeanStalk AMI that was supposedly setup as a webserver... but it wouldn't be the first time a vendor told me a lie. 
-
-Flask was a suspect as well because... well, there's just nothing else to point at after we eliminated the network, the EC2 instance type, the phase of the moon, and the code itself. Some quick googling revealed that pretty much anytime flask is mentioned uWsgi and gunicorn are said in the same breath. Why is that? 
+The investigation of this took a little while because there were so many new variables at play. Not only was the flask service "new" to the stack, but the deployment environment was as well. (We are using[ AWS ElasticBeanstalk](https://aws.amazon.com/elasticbeanstalk/) to run this particular service.) After a few hours we narrowed down our list of suspects to nginx and [flask](http://flask.pocoo.org/). Nginx is a well known and well respected web server, but there were questions about how it was configured. We were using a "stock" BeanStalk AMI that was supposedly setup as a webserver... but it wouldn't be the first time a vendor told me a lie. Flask was a suspect as well because... well, there's just nothing else to point at after we eliminated the network, the EC2 instance type, the phase of the moon, and the code itself. Some quick googling revealed that pretty much anytime flask is mentioned uWsgi and gunicorn are said in the same breath. Why is that? 
 
 ## Oh, this seemed familiar...
 

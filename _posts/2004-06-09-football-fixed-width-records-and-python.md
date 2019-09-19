@@ -3,7 +3,7 @@ layout:     post
 title:      "Football, Fixed Width records, and Python"
 date:       2004-06-09 20:53:43
 author:     Nick
-categories: python
+categories: python,statistics
 tags:  
 permalink: /2004/06/09/football-fixed-width-records-and-python/
 ---

@@ -3,7 +3,7 @@ layout:     post
 title:      "Its good to have hobbies"
 date:       2005-10-12 01:14:00
 author:     Nick
-categories: exploration
+categories: exploration,fun,space,spaceflight
 tags:  
 permalink: /2005/10/12/its-good-to-have-hobbies/
 ---

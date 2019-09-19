@@ -3,11 +3,11 @@ layout:     post
 title:      "Does Python packaging have a left-pad problem?"
 date:       2016-04-11 12:11:03
 author:     admin
-categories: programming
+categories: programming,python,software development
 tags:  
 permalink: /2016/04/11/python-packaging-left-pad-problem/
 ---
-[caption id="attachment_610" align="alignright" width="420"][![Is Python packaging a tower of babel?](https://ironboundsoftware.com/blog/wp-content/uploads/2016/04/768px-Tower_of_Babel_cropped_square-420x420.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/04/768px-Tower_of_Babel_cropped_square.jpg) Is Python packaging a tower of babel?[/caption] Recently an interesting problem happened.[ A small but critical piece of code was removed from the internet and in the process brought down many major JavaScript projects](http://www.businessinsider.com/npm-left-pad-controversy-explained-2016-3?op=1). This was quickly fixed and in the process many jokes were made at the expense of the JavaScript ecosystem. But to me it raised an important question: Could this happen with Python packaging? 
+[caption id="attachment_610" align="alignright" width="420"][![Is Python packaging a tower of babel?](https://ironboundsoftware.com/blog-imgs/uploads/2016/04/768px-Tower_of_Babel_cropped_square-420x420.jpg)](https://ironboundsoftware.com/blog-imgs/uploads/2016/04/768px-Tower_of_Babel_cropped_square.jpg) Is Python packaging a tower of babel?[/caption] Recently an interesting problem happened.[ A small but critical piece of code was removed from the internet and in the process brought down many major JavaScript projects](http://www.businessinsider.com/npm-left-pad-controversy-explained-2016-3?op=1). This was quickly fixed and in the process many jokes were made at the expense of the JavaScript ecosystem. But to me it raised an important question: Could this happen with Python packaging? 
 
 ## How did this happen, and what is code reuse?
 
@@ -23,7 +23,7 @@ The world needs things like npm and pypi. They are essential to the growth of th
 
 > Side note: go-lang projects compile into a binary that contains all of the libraries needed for the code to execute. There is no dynamic linking at run time.
 
-As a result, any libraries that the program needs can be checked into the vendors directory and then it becomes a part of the project (under its version control). [caption id="attachment_611" align="aligncenter" width="256"][![golang gopher](https://ironboundsoftware.com/blog/wp-content/uploads/2016/04/gopher.png)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/04/gopher.png) Maybe this little fella can help out.[/caption] This hearkens back to my coworker's idea of putting everything into version control. I don't know the full details of how this works in go-lang, but it still makes me a little uneasy about having a ton of other people's code living in my repository. But at the same time it will prevent the left-pad problem of disappearing code. 
+As a result, any libraries that the program needs can be checked into the vendors directory and then it becomes a part of the project (under its version control). [caption id="attachment_611" align="aligncenter" width="256"][![golang gopher](https://ironboundsoftware.com/blog-imgs/uploads/2016/04/gopher.png)](https://ironboundsoftware.com/blog-imgs/uploads/2016/04/gopher.png) Maybe this little fella can help out.[/caption] This hearkens back to my coworker's idea of putting everything into version control. I don't know the full details of how this works in go-lang, but it still makes me a little uneasy about having a ton of other people's code living in my repository. But at the same time it will prevent the left-pad problem of disappearing code. 
 
 ## Wrapping up
 

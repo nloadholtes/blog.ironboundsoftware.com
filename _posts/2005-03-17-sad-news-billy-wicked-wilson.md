@@ -3,7 +3,7 @@ layout:     post
 title:      "Sad news - Billy “Wicked” Wilson"
 date:       2005-03-17 06:37:27
 author:     Nick
-categories: games
+categories: games,web
 tags:  
 permalink: /2005/03/17/sad-news-billy-wicked-wilson/
 ---

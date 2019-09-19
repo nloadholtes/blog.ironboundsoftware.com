@@ -3,7 +3,7 @@ layout:     post
 title:      "The agony and the ecstasy of XML"
 date:       2006-08-05 17:43:13
 author:     Nick
-categories: programming
+categories: programming,python,software development
 tags:  
 permalink: /2006/08/05/the-agony-and-the-ecstasy-of-xml/
 ---

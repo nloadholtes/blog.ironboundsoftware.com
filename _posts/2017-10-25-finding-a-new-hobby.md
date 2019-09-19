@@ -3,7 +3,7 @@ layout:     post
 title:      "Finding a new hobby"
 date:       2017-10-25 08:01:24
 author:     admin
-categories: funny-and-fun
+categories: fun
 tags:  
 permalink: /2017/10/25/finding-new-hobby/
 ---
@@ -11,7 +11,7 @@ Recently I was looking at the calendar and thinking about the remaining time in 
 
 ## TO THE INTERNET!
 
-This seemed like a great question for the internet at large to answer. So I posted to Facebook, Twitter, and my mailing list to see what other people are into. The message was pretty simple: “I need a new hobby. What’s your favorite?” ![](https://ironboundsoftware.com/blog/wp-content/uploads/2017/10/Screenshot-2017-10-25-at-7.52.27-AM-420x291.png)  
+This seemed like a great question for the internet at large to answer. So I posted to Facebook, Twitter, and my mailing list to see what other people are into. The message was pretty simple: “I need a new hobby. What’s your favorite?” ![](https://ironboundsoftware.com/blog-imgs/uploads/2017/10/Screenshot-2017-10-25-at-7.52.27-AM-420x291.png)  
 
 > Dear Twitter Friends, I'm in the market for a new hobby.  What's your fav?
 > 

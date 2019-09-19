@@ -44,11 +44,11 @@ Ran into my first big hurdle: I need to figure out how to get a user’s permiss
 
 ## 1:52pm
 
-Took a long lunch and spent some time with my son. Family > everything else. But back at it now. The break was good, it let me think about the architectural mistake I was about to make. [caption id="attachment_1255" align="aligncenter" width="675"]![](https://ironboundsoftware.com/blog/wp-content/uploads/2017/10/Screen-Shot-2017-10-26-at-11.26.09-AM.png) Here's where the wheels started to come off the train![/caption] 
+Took a long lunch and spent some time with my son. Family > everything else. But back at it now. The break was good, it let me think about the architectural mistake I was about to make. [caption id="attachment_1255" align="aligncenter" width="675"]![](https://ironboundsoftware.com/blog-imgs/uploads/2017/10/Screen-Shot-2017-10-26-at-11.26.09-AM.png) Here's where the wheels started to come off the train![/caption] 
 
 ## 4:42pm
 
-Life took over for a few hours and I’m just now trying to squeeze in a few mins of work. The Facebook code to get someone to give my app permission is the main goal right now. Getting an app registered with Facebook was a pain, I had to stop everything to make a logo. That was infuriating. It is important, but not to me getting this up and running. At least to me. [caption id="attachment_1257" align="alignright" width="420"]![](https://ironboundsoftware.com/blog/wp-content/uploads/2017/10/HeroicInspiration-banner-420x315.png) What a logo looks like when you are in a hurry[/caption] At any rate, things are moving along again. It looks like I’ll be working later than I expected tonight. 
+Life took over for a few hours and I’m just now trying to squeeze in a few mins of work. The Facebook code to get someone to give my app permission is the main goal right now. Getting an app registered with Facebook was a pain, I had to stop everything to make a logo. That was infuriating. It is important, but not to me getting this up and running. At least to me. [caption id="attachment_1257" align="alignright" width="420"]![](https://ironboundsoftware.com/blog-imgs/uploads/2017/10/HeroicInspiration-banner-420x315.png) What a logo looks like when you are in a hurry[/caption] At any rate, things are moving along again. It looks like I’ll be working later than I expected tonight. 
 
 ## 5:23pm
 
@@ -74,7 +74,7 @@ Well, it didn’t turn out like I wanted it to. If it did I would have a functio
   * Learned lots! Jekyll looks awesome for static sites, lots of great themes out there and it is pretty easy to work with.
   * Was very on task! Early in the day I was using my Pomodoro timer that is pretty noisy. I really like it, but it is totally inappropriate for the office. Its ticking helped me stay focused. I had very little distraction in the first half of my day. Check out my rescuetime report below. Most of that Social Networking was me floundering around in Facebook trying to get this to work.
 
-![](https://ironboundsoftware.com/blog/wp-content/uploads/2017/10/Screen-Shot-2017-10-26-at-9.05.38-PM.png)
+![](https://ironboundsoftware.com/blog-imgs/uploads/2017/10/Screen-Shot-2017-10-26-at-9.05.38-PM.png)
 
 ### The not-so-great:
 

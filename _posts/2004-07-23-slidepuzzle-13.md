@@ -3,7 +3,7 @@ layout:     post
 title:      "Slidepuzzle 1.3"
 date:       2004-07-23 18:17:16
 author:     Nick
-categories: programming
+categories: programming,python
 tags:  
 permalink: /2004/07/23/slidepuzzle-13/
 ---

@@ -3,7 +3,7 @@ layout:     post
 title:      "Tab vs. Space, part XIV"
 date:       2008-07-20 13:51:50
 author:     admin
-categories: apple
+categories: apple,os x,programming,python
 tags:  
 permalink: /2008/07/20/tab-vs-space-part-xiv/
 ---

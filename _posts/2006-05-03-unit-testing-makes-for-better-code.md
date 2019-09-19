@@ -3,7 +3,7 @@ layout:     post
 title:      "Unit Testing makes for better code"
 date:       2006-05-03 20:29:54
 author:     Nick
-categories: programming
+categories: programming,software development
 tags:  
 permalink: /2006/05/03/unit-testing-makes-for-better-code/
 ---

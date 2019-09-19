@@ -3,7 +3,7 @@ layout:     post
 title:      "A nice little quickie"
 date:       2005-03-09 04:29:06
 author:     Nick
-categories: python
+categories: python,web
 tags:  
 permalink: /2005/03/09/a-nice-little-quickie/
 ---

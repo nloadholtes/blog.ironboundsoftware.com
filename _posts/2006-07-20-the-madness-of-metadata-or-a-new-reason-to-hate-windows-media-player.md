@@ -3,7 +3,7 @@ layout:     post
 title:      "The madness of metadata (or a new reason to hate Windows Media Player)"
 date:       2006-07-20 21:06:06
 author:     Nick
-categories: blogging
+categories: blogging,music,thinking
 tags:  
 permalink: /2006/07/20/the-madness-of-metadata-or-a-new-reason-to-hate-windows-media-player/
 ---

@@ -3,7 +3,7 @@ layout:     post
 title:      "Announcing Developer Interviews"
 date:       2016-05-23 09:59:54
 author:     admin
-categories: programming
+categories: programming,thinking
 tags:  
 permalink: /2016/05/23/announcing-developer-interviews/
 ---

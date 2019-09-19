@@ -3,7 +3,7 @@ layout:     post
 title:      "Installing OpenCV for Python on OS X"
 date:       2014-11-09 20:09:18
 author:     admin
-categories: os-x
+categories: os x,python
 tags:  
 permalink: /2014/11/09/installing-opencv-for-python-on-os-x/
 ---

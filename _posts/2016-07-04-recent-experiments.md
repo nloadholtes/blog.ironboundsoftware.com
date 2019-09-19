@@ -3,11 +3,11 @@ layout:     post
 title:      "Recent experiments"
 date:       2016-07-04 10:47:15
 author:     admin
-categories: experiments
+categories: experiments,thinking
 tags:  
 permalink: /2016/07/04/recent-experiments/
 ---
-[caption id="attachment_714" align="alignright" width="240"][![A fireworks experiments](https://ironboundsoftware.com/blog/wp-content/uploads/2016/06/7432974168_765d1f6d1a_m.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/06/7432974168_765d1f6d1a_m.jpg) Experiments are cool![/caption] I've always been curious about the world around me. And now thanks to reading a few great books I understand that I can easily do experiments on the world around me to learn where I can push the boundaries to learn new things! Framing these things as experiments is a powerful mind hack: If an experiment fails, that's ok! It was just an experiment. Keep that in mind the next time you find yourself pausing before trying something new or scary. Let's take a look at what I've been up to! 
+[caption id="attachment_714" align="alignright" width="240"][![A fireworks experiments](https://ironboundsoftware.com/blog-imgs/uploads/2016/06/7432974168_765d1f6d1a_m.jpg)](https://ironboundsoftware.com/blog-imgs/uploads/2016/06/7432974168_765d1f6d1a_m.jpg) Experiments are cool![/caption] I've always been curious about the world around me. And now thanks to reading a few great books I understand that I can easily do experiments on the world around me to learn where I can push the boundaries to learn new things! Framing these things as experiments is a powerful mind hack: If an experiment fails, that's ok! It was just an experiment. Keep that in mind the next time you find yourself pausing before trying something new or scary. Let's take a look at what I've been up to! 
 
 ## Successful experiments
 

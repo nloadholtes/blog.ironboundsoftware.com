@@ -3,7 +3,7 @@ layout:     post
 title:      "Protecting minors by mining MySpace"
 date:       2006-10-16 22:01:44
 author:     Nick
-categories: analytics
+categories: analytics,blogging,thinking,web
 tags:  
 permalink: /2006/10/16/protecting-minors-by-mining-myspace/
 ---

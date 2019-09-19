@@ -3,7 +3,7 @@ layout:     post
 title:      "Success begets success"
 date:       2006-08-13 10:39:14
 author:     Nick
-categories: blogging
+categories: blogging,getting things done,gtd,productivity,programming
 tags:  
 permalink: /2006/08/13/success-begets-success/
 ---

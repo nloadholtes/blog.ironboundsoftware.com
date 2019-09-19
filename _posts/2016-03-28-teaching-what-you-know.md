@@ -3,11 +3,11 @@ layout:     post
 title:      "Teaching what you know"
 date:       2016-03-28 19:22:46
 author:     admin
-categories: programming
+categories: programming,python,thinking,uncategorized
 tags:  
 permalink: /2016/03/28/teaching-what-you-know/
 ---
-[caption id="attachment_602" align="aligncenter" width="420"]![Aristotle on the vitures of teaching](https://ironboundsoftware.com/blog/wp-content/uploads/2016/03/teaching-420x315.jpg) Yet another thing Aristotle was right about.[/caption] Teaching. The best way to truly know something is to teach it to someone else. I've heard this over the years, and I can testify that's there's a lot of truth to it. I have found that when I do a presentation or attempt to teach something that I am not very familiar with, my presentation suffers. 
+[caption id="attachment_602" align="aligncenter" width="420"]![Aristotle on the vitures of teaching](https://ironboundsoftware.com/blog-imgs/uploads/2016/03/teaching-420x315.jpg) Yet another thing Aristotle was right about.[/caption] Teaching. The best way to truly know something is to teach it to someone else. I've heard this over the years, and I can testify that's there's a lot of truth to it. I have found that when I do a presentation or attempt to teach something that I am not very familiar with, my presentation suffers. 
 
 ## Me a teacher? I don't know anything!
 

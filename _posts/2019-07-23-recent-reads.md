@@ -3,7 +3,7 @@ layout:     post
 title:      "Recent reads"
 date:       2019-07-23 22:44:14
 author:     admin
-categories: entrepreneur
+categories: entrepreneur,thinking,tools
 tags:  
 permalink: /2019/07/23/recent-reads/
 ---

@@ -3,7 +3,7 @@ layout:     post
 title:      "My visit to the Apple Genius Bar"
 date:       2007-01-21 20:32:21
 author:     Nick
-categories: apple
+categories: apple,blogging
 tags:  
 permalink: /2007/01/21/my-visit-to-the-apple-genius-bar/
 ---

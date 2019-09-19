@@ -3,7 +3,7 @@ layout:     post
 title:      "A good example of data-driven Python"
 date:       2006-05-23 20:56:04
 author:     Nick
-categories: programming
+categories: programming,python,software development
 tags:  
 permalink: /2006/05/23/a-good-example-of-data-driven-python/
 ---

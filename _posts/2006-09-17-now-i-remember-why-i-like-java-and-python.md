@@ -3,7 +3,7 @@ layout:     post
 title:      "Now I remember why I like Java and Python"
 date:       2006-09-17 10:47:26
 author:     Nick
-categories: java
+categories: java,programming,python
 tags:  
 permalink: /2006/09/17/now-i-remember-why-i-like-java-and-python/
 ---

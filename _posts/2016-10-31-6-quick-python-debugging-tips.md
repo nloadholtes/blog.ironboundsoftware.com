@@ -3,11 +3,11 @@ layout:     post
 title:      "6 Quick python debugging tips"
 date:       2016-10-31 11:32:20
 author:     admin
-categories: debugging
+categories: debugging,python
 tags:  
 permalink: /2016/10/31/6-quick-python-debugging-tips/
 ---
-[caption id="attachment_881" align="alignright" width="300"][![python debugging -- image of an actual bug from an old computer](https://ironboundsoftware.com/blog/wp-content/uploads/2016/10/debugging-e1477661493656.jpg)](https://ironboundsoftware.com/blog/wp-content/uploads/2016/10/debugging.jpg) Debugging with real bugs[/caption] Recently at work I discovered that everyone on my team had different approaches and tools they used for python debugging. Here's a quick run down of some of the favorite tips and techniques that we came up with. This list is ordered from simplest to more advanced.
+[caption id="attachment_881" align="alignright" width="300"][![python debugging -- image of an actual bug from an old computer](https://ironboundsoftware.com/blog-imgs/uploads/2016/10/debugging-e1477661493656.jpg)](https://ironboundsoftware.com/blog-imgs/uploads/2016/10/debugging.jpg) Debugging with real bugs[/caption] Recently at work I discovered that everyone on my team had different approaches and tools they used for python debugging. Here's a quick run down of some of the favorite tips and techniques that we came up with. This list is ordered from simplest to more advanced.
 
 > Please note: This is a quick run down of tips and tools. Some of these are big topics, so if there's something you would like more detail on, please leave a comment and let me know.
 

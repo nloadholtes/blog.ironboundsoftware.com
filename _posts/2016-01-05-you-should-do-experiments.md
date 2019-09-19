@@ -3,7 +3,7 @@ layout:     post
 title:      "You should do experiments"
 date:       2016-01-05 05:12:50
 author:     admin
-categories: statistics
+categories: statistics,web
 tags:  
 permalink: /2016/01/05/you-should-do-experiments/
 ---

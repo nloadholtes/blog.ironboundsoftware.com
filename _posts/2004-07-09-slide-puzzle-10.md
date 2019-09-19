@@ -3,7 +3,7 @@ layout:     post
 title:      "Slide Puzzle 1.0"
 date:       2004-07-09 19:22:42
 author:     Nick
-categories: programming
+categories: programming,python
 tags:  
 permalink: /2004/07/09/slide-puzzle-10/
 ---

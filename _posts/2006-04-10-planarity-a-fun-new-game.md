@@ -3,7 +3,7 @@ layout:     post
 title:      "Planarity: A fun new game"
 date:       2006-04-10 09:38:35
 author:     Nick
-categories: blogging
+categories: blogging,games,math,puzzles
 tags:  
 permalink: /2006/04/10/planarity-a-fun-new-game/
 ---

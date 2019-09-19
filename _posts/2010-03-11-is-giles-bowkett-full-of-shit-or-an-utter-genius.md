@@ -3,7 +3,7 @@ layout:     post
 title:      "Is Giles Bowkett full of shit or an utter genius?"
 date:       2010-03-11 19:59:12
 author:     admin
-categories: blogging
+categories: blogging,programming
 tags:  
 permalink: /2010/03/11/is-giles-bowkett-full-of-shit-or-an-utter-genius/
 ---

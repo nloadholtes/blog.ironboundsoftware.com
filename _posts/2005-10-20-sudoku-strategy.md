@@ -3,7 +3,7 @@ layout:     post
 title:      "Sudoku Strategy"
 date:       2005-10-20 08:07:49
 author:     Nick
-categories: blogging
+categories: blogging,fun,games,math,sudoku
 tags:  
 permalink: /2005/10/20/sudoku-strategy/
 ---

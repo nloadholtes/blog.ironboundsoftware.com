@@ -3,11 +3,11 @@ layout:     post
 title:      "Resources for building software development skills"
 date:       2016-01-26 10:30:35
 author:     admin
-categories: software-development
+categories: software development
 tags:  
 permalink: /2016/01/26/resources-building-software-development-skills/
 ---
-[![pic of a code editor](/blog/wp-content/uploads/2016/01/code_screenshot.png)](/blog/wp-content/uploads/2016/01/code_screenshot.png) Software development is an exciting field! There's lots of interesting work, the opportunities to work remotely are abundant, and the pay is really great too! In fact, the only major downside is that technologies change frequently and it can be a challenge to stay up-to-date on everything. What separates great developers from the rest is the their willingness to invest in themselves and learn new things. While others will wait for their boss to send them to a training class, the great ones are out there everyday looking at what's going on and hacking in their spare time. Want to level up and become a great programmer? Here's a list of resources that you can use to find out about new technologies and trends, places where you can actually train yourself, and finally places where you can get more in depth knowledge and assistance. These are great ways to enhance your software development skills. Let's go! 
+[![pic of a code editor](/blog-imgs/uploads/2016/01/code_screenshot.png)](/blog-imgs/uploads/2016/01/code_screenshot.png) Software development is an exciting field! There's lots of interesting work, the opportunities to work remotely are abundant, and the pay is really great too! In fact, the only major downside is that technologies change frequently and it can be a challenge to stay up-to-date on everything. What separates great developers from the rest is the their willingness to invest in themselves and learn new things. While others will wait for their boss to send them to a training class, the great ones are out there everyday looking at what's going on and hacking in their spare time. Want to level up and become a great programmer? Here's a list of resources that you can use to find out about new technologies and trends, places where you can actually train yourself, and finally places where you can get more in depth knowledge and assistance. These are great ways to enhance your software development skills. Let's go! 
 
 # Newsletters to rock your inbox
 

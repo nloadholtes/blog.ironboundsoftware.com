@@ -3,7 +3,7 @@ layout:     post
 title:      "More thoughts on being a better programmer"
 date:       2006-01-04 21:06:33
 author:     Nick
-categories: java
+categories: java,programming,software development,thinking
 tags:  
 permalink: /2006/01/04/more-thoughts-on-being-a-better-programmer/
 ---

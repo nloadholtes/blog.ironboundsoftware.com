@@ -3,7 +3,7 @@ layout:     post
 title:      "Cleaning up legacy python code"
 date:       2017-05-01 08:12:51
 author:     admin
-categories: python
+categories: python,software development
 tags:  
 permalink: /2017/05/01/legacy-python-code/
 ---

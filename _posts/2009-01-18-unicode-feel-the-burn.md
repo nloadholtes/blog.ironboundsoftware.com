@@ -3,7 +3,7 @@ layout:     post
 title:      "Unicode: Feel the burn"
 date:       2009-01-18 19:15:27
 author:     admin
-categories: django
+categories: django,python,software development
 tags:  
 permalink: /2009/01/18/unicode-feel-the-burn/
 ---

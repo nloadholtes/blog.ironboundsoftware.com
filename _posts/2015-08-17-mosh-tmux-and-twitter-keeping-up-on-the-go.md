@@ -3,7 +3,7 @@ layout:     post
 title:      "Mosh, tmux, and twitter: Keeping up on the go"
 date:       2015-08-17 05:35:48
 author:     admin
-categories: organization
+categories: organization,productivity,thinking,web
 tags:  
 permalink: /2015/08/17/mosh-tmux-and-twitter-keeping-up-on-the-go/
 ---
@@ -23,7 +23,7 @@ With only 140 chars (and occasionally some pictures), twitter is all about text.
 
 ## Run the client on another machine
 
-Every time you close your laptop, you lose your network connection. Wouldn't it be cool if you didn't lose your place in the stream? Tweets will come in while you are away, but scrolling backwards will be time consuming. So, run the command line clients on another machine! Cloud based machines are dirt cheap these days, and they are a snap to set up. If you have one running already, adding these clients takes up almost no resources. Or... if you are like me and you have a RaspberryPI laying around... you can use that! I set mine up at home and configured my router to route incoming requests to it so I can easily access it no matter where I go. Its always on (thank you battery backups!), so it keeps track of the conversations going on while I'm asleep/commuting/out-and-about. Using ssh keeps it secure and an snap to log into. [caption id="attachment_453" align="aligncenter" width="584"][![The big guy keeps an eye on it for me](/blog/wp-content/uploads/2015/08/20608765435_32023eb3db_k-1024x615.jpg)](/blog/wp-content/uploads/2015/08/20608765435_32023eb3db_k.jpg) The big guy keeps an eye on it for me[/caption] And since the command line clients are so lightweight, I can run lots of stuff (like an IRC bouncer/client, a bitcoin miner, etc.) on it with no problem. Right now you're probably saying "But hey, you still need to log into that machine every time you open you laptop!" Well... 
+Every time you close your laptop, you lose your network connection. Wouldn't it be cool if you didn't lose your place in the stream? Tweets will come in while you are away, but scrolling backwards will be time consuming. So, run the command line clients on another machine! Cloud based machines are dirt cheap these days, and they are a snap to set up. If you have one running already, adding these clients takes up almost no resources. Or... if you are like me and you have a RaspberryPI laying around... you can use that! I set mine up at home and configured my router to route incoming requests to it so I can easily access it no matter where I go. Its always on (thank you battery backups!), so it keeps track of the conversations going on while I'm asleep/commuting/out-and-about. Using ssh keeps it secure and an snap to log into. [caption id="attachment_453" align="aligncenter" width="584"][![The big guy keeps an eye on it for me](/blog-imgs/uploads/2015/08/20608765435_32023eb3db_k-1024x615.jpg)](/blog-imgs/uploads/2015/08/20608765435_32023eb3db_k.jpg) The big guy keeps an eye on it for me[/caption] And since the command line clients are so lightweight, I can run lots of stuff (like an IRC bouncer/client, a bitcoin miner, etc.) on it with no problem. Right now you're probably saying "But hey, you still need to log into that machine every time you open you laptop!" Well... 
 
 ## Use mosh to connect, and tmux to manage!
 
@@ -34,7 +34,7 @@ While I can use ssh to connect to the machine, if the network connection goes do
   * make one pane for twitter, another for IRC
   * Never look back. :)
 
-From that point on, until one of the machines reboots, my computer will automagically reconnect (via mosh) and show me what's happening on twitter or IRC. AWESOMENESS! This is what my setup looks like: [caption id="attachment_452" align="aligncenter" width="300"][![A screenshot of my twitter tmux setup](/blog/wp-content/uploads/2015/08/Screen-Shot-2015-08-14-at-9.38.47-AM-300x201.png)](/blog/wp-content/uploads/2015/08/Screen-Shot-2015-08-14-at-9.38.47-AM.png) A screenshot of my twitter tmux setup[/caption] 
+From that point on, until one of the machines reboots, my computer will automagically reconnect (via mosh) and show me what's happening on twitter or IRC. AWESOMENESS! This is what my setup looks like: [caption id="attachment_452" align="aligncenter" width="300"][![A screenshot of my twitter tmux setup](/blog-imgs/uploads/2015/08/Screen-Shot-2015-08-14-at-9.38.47-AM-300x201.png)](/blog-imgs/uploads/2015/08/Screen-Shot-2015-08-14-at-9.38.47-AM.png) A screenshot of my twitter tmux setup[/caption] 
 
 ## Use the lists!
 

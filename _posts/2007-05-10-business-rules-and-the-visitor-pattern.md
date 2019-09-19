@@ -3,7 +3,7 @@ layout:     post
 title:      "Business Rules and the Visitor Pattern"
 date:       2007-05-10 21:07:39
 author:     Nick
-categories: java
+categories: java,lisp,programming,python,software development
 tags:  
 permalink: /2007/05/10/business-rules-and-the-visitor-pattern/
 ---

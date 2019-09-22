@@ -1,5 +1,5 @@
 name: Possibility and Probability
-description: Coding Python and making businesses… colliding into a beautiful mess
+description: Coding Python and making businesses…
 title: Possibility and Probability
 
 permalink: /:year/:month/:title
@@ -14,7 +14,7 @@ remote_theme: nloadholtes/hacker
 
 google_analytics_key: UA-247234-4
 sumo_id: d8f4d994836230737eb45859018e89483c6fa080c4a91ba776c91bdeab8fb6f9
-#
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

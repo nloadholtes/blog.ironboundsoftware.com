@@ -1,3 +1,12 @@
+---
+layout:     post
+title:      "Remote Matcher Journal #5"
+date:       2019-09-22
+author:     Nick
+categories: business,remotejournal
+tags:  
+permalink: /2019/09/22/remotematcher-journal-5/
+---
 
 This is something new I'm trying: a journal recapping the work I'm doing on [Remote Matcher](https://remotematcher.com) which is my current side project. My goal with this is to do some public accountability so I'll > keep moving forward on this project.
 
@@ -50,5 +59,5 @@ Questions? Comments? [Email me](mailto:nick@ironboundsoftware.com) and ask away!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM5OTIzNzRdfQ==
+eyJoaXN0b3J5IjpbLTMwNzkwOTg5OSwtMTUwMzk5MjM3NF19
 -->

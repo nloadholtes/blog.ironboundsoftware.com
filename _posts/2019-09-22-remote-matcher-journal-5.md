@@ -56,8 +56,3 @@ For the look and feel of the sponsored posts, again there's a lot of fuzzy "I'll
 
 
 Questions? Comments? [Email me](mailto:nick@ironboundsoftware.com) and ask away!
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzkwOTg5OSwtMTUwMzk5MjM3NF19
--->

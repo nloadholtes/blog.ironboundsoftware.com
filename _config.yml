@@ -14,6 +14,7 @@ remote_theme: nloadholtes/hacker
 
 google_analytics_key: UA-247234-4
 sumo_id: d8f4d994836230737eb45859018e89483c6fa080c4a91ba776c91bdeab8fb6f9
+addthis_key: ra-5659ccd9e966d5d5
 
 plugins:
   - jekyll-sitemap

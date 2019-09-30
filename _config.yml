@@ -19,3 +19,4 @@ addthis_key: ra-5659ccd9e966d5d5
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed

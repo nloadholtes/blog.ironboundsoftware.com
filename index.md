@@ -1,6 +1,10 @@
 # Possibility and Probability
 
 This is the new site! Here's what's new:
+<iframe title="Makerlog Embed" height="300" style="width:100%" scrolling="no" frameborder="0" allowtransparency="true" src="https://api.getmakerlog.com/users/3793/embed"></iframe>
+
+---
+Here are the latest posts
 
 {% for post in site.posts limit:10 %}
 <div>

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Time and Money: Businesses for developers"
-date:       2019-09-28
+date:       2019-10-02
 author:     Nick
 categories: business
 tags:  
@@ -32,5 +32,5 @@ So ask yourself: "What do I know that others don't?".
 
 The answer to that might just be the source of your business.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDQxNzkyM119
+eyJoaXN0b3J5IjpbNDY2MjYwNDM5LC04OTQ0MTc5MjNdfQ==
 -->

@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      "Remote Matcher Journal #7"

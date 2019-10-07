@@ -3,7 +3,7 @@ description: Coding Python and making businesses…
 title: Possibility and Probability
 
 permalink: /:year/:month/:title
-baseurl: https://blog.ironboundsoftware.com
+baseurl:
 
 markdown: kramdown
 kramdown:

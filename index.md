@@ -1,5 +1,5 @@
 
-This is the new site! Here's what's new with my current project <a href="https://remotematcher.com">Remote Matcher</a>:
+This is the new site! Here's what's new with my current project [https://remotematcher.com](Remote Matcher){:target="_blank"}:
 <iframe title="Makerlog Embed" height="300" style="width:100%" scrolling="no" frameborder="0" allowtransparency="true" src="https://api.getmakerlog.com/users/3793/embed"></iframe>
 
 ---

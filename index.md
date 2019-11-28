@@ -10,7 +10,7 @@ Here are the latest posts
 {% for post in site.posts limit:10 %}
 <div>
 <h3>{{ post.title }}</h3>
-Published on {{ post.date | date: "%a, %Y %b %d" }}<br>
+Published on {{ post.date | date: "%a, %b %d %Y" }}<br>
 <a href="{{post.url | prepend:site.baseurl | prepend:site.url}}">Read more...</a>
 </div>
 <hr>

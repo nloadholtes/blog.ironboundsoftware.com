@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Remote Matcher Journal #13"
-date:       2019-11-13
+date:       2019-11-26
 author:     Nick
 categories: business,remotejournal
 tags:  

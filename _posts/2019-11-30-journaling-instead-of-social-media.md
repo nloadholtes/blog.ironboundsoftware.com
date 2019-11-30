@@ -1,3 +1,9 @@
+---
+layout:     post
+author:     Nick
+categories: thinking
+tags: self-care
+---
 Recently I've been reading [Digital Minimalism](https://amzn.to/2rJ2H0E) by [Cal Newport](https://www.calnewport.com/blog/). I have been pleasantly surprised that many of the habits I've already adapted are discussed and recommended in the book!
 
 I was also surprised to realize that by following some of those habits I have unintentionally developed a new habit that is probably better for me: Journaling.

@@ -1,8 +1,12 @@
 
-This is the new site! Here's what's new with my current project [Remote Matcher](https://remotematcher.com){:target="_blank"}:
+Welcome!
+
+I have kind of put my current project [Remote Matcher](https://remotematcher.com){:target="blank"} on hold for a little while. Just too many things going on at the moment.
 
 <!-- <iframe title="Makerlog Embed" height="300" style="width:100%" scrolling="no" frameborder="0" allowtransparency="true" src="https://api.getmakerlog.com/users/3793/embed"></iframe>
 -->
+
+I'll have something interesting coming soon I'm sure, until then, please check out some of the things I've been thinking about:
 
 ---
 Here are the latest posts

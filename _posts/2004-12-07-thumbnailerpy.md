@@ -33,8 +33,7 @@ The original image files are left intact. Enjoy!
     # by Nick Loadholtes
     # Nov 2004
     #
-	import Image
-    
+    import Image
     import os
     
     imagelist = []
@@ -135,5 +134,5 @@ The original image files are left intact. Enjoy!
     
             f.write(htmlbuff)
 
-```  
+```
 

@@ -1,3 +1,11 @@
+---
+title: Fixing RescueTime with Firefox on Linux
+layout:     post
+date:       2019-12-26
+author:     Nick
+categories: linux
+tags: linux
+---
 Over the years I've been a  big proponent of tracking my time in some fashion. I really want to know if I'm being productive, and tools like [RescueTime](https://www.rescuetime.com/) have been a huge help with that!
 
 A couple of months ago I ran into a strange problem where RescueTime wasn't recording the websites I was visiting in FireFox (which is now my primary browser thanks to their attention to privacy). 

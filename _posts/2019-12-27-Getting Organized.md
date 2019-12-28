@@ -6,8 +6,6 @@ date:       2019-12-27
 categories: thinking
 tags: organization
 ---
-# Getting Organized
-
 Just get started.
 
 If you don't read any more of this, just follow that first line and you'll be ahead of the game.

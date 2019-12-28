@@ -13,7 +13,7 @@ On this blog I'm keeping a public record of things I've tried, things I'm intere
 
 By day I'm a software developer who works primarily in Python, and at night I sleep (hahahaha).
 
-I've been described as "really helpful", a "programmer with a personality", and as "the guy who left 1 chip in the bag". I've built a few things over the years, and I'm currently thinking about the next thing I could spend hour fretting about.
+I've been described as "really helpful", a "programmer with a personality", and as "the guy who left 1 chip in the bag". I've built a few things over the years, and I'm currently thinking about the next thing I could spend hours fretting about.
 
 If you'd like to get in touch, please feel free to email at `nick @ ironboundsoftware.com`
 

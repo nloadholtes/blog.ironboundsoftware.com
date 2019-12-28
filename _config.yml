@@ -9,7 +9,8 @@ markdown: kramdown
 kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
   hard_wrap: true
-  
+
+# A custom theme  
 remote_theme: nloadholtes/hacker
 
 google_analytics_key: UA-247234-4

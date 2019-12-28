@@ -2,7 +2,7 @@
 layout:     post
 title:      "Staying focused"
 date:       2016-09-12 12:35:39
-author:     admin
+author:     nick
 categories: programming,thinking,uncategorized
 tags:  
 permalink: /2016/09/12/staying-focused/

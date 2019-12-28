@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hiring Hacks"
 date:       2015-04-01 06:47:49
-author:     admin
+author:     nick
 categories: analytics,data,statistics,thinking,web
 tags:  
 permalink: /2015/04/01/hiring-hacks/

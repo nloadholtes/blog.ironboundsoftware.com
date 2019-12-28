@@ -2,7 +2,7 @@
 layout:     post
 title:      "Processing large JSON files on small clouds with python"
 date:       2016-03-21 11:40:49
-author:     admin
+author:     nick
 categories: programming,python
 tags:  
 permalink: /2016/03/21/large-json-small-clouds-with-python/

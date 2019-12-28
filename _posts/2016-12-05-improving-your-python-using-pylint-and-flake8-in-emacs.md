@@ -2,7 +2,7 @@
 layout:     post
 title:      "Improving your python: using pylint and flake8 in emacs"
 date:       2016-12-05 09:30:38
-author:     admin
+author:     nick
 categories: emacs,python,python
 tags:  
 permalink: /2016/12/05/improving-your-python-pylint-and-flake8-emacs/

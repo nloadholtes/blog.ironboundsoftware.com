@@ -2,7 +2,7 @@
 layout:     post
 title:      "Flow: Why I like writing tests"
 date:       2016-07-11 10:15:56
-author:     admin
+author:     nick
 categories: uncategorized
 tags:  
 permalink: /2016/07/11/flow-why-i-like-writing-tests/

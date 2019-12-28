@@ -2,7 +2,7 @@
 layout:     post
 title:      "The ultimate python comprehensions guide"
 date:       2016-04-25 11:09:42
-author:     admin
+author:     nick
 categories: programming,python,software development,uncategorized
 tags:  
 permalink: /2016/04/25/ultimate-python-comprehensions-guide/

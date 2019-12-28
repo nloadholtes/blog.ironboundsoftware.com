@@ -2,7 +2,7 @@
 layout:     post
 title:      "Managing projects"
 date:       2016-10-03 10:31:01
-author:     admin
+author:     nick
 categories: software development
 tags:  
 permalink: /2016/10/03/managing-projects/

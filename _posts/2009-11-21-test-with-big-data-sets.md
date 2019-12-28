@@ -2,7 +2,7 @@
 layout:     post
 title:      "Test with big data sets"
 date:       2009-11-21 17:01:36
-author:     admin
+author:     nick
 categories: programming,python,software development
 tags:  
 permalink: /2009/11/21/test-with-big-data-sets/

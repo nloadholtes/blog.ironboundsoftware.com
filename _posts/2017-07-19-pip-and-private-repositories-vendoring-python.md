@@ -2,7 +2,7 @@
 layout:     post
 title:      "pip and private repositories: vendoring python"
 date:       2017-07-19 22:29:52
-author:     admin
+author:     nick
 categories: python,software development
 tags:  
 permalink: /2017/07/19/pip-and-private-repositories-vendoring-python/

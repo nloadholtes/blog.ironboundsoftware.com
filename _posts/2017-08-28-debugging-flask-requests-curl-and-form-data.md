@@ -2,7 +2,7 @@
 layout:     post
 title:      "Debugging Flask, requests, curl, and form data"
 date:       2017-08-28 10:09:40
-author:     admin
+author:     nick
 categories: debugging,python
 tags:  
 permalink: /2017/08/28/debugging-flask-requests-curl-and-form-data/

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Small Businesses for Programmers"
 date:       2019-08-22 08:39:12
-author:     admin
+author:     nick
 categories: business,programming
 tags:  
 permalink: /2019/08/22/small-business-for-programmers/

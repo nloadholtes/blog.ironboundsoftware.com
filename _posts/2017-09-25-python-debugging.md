@@ -2,7 +2,7 @@
 layout:     post
 title:      "Python Debugging"
 date:       2017-09-25 09:36:36
-author:     admin
+author:     nick
 categories: debugging,python
 tags:  
 permalink: /2017/09/25/python-debugging/

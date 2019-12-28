@@ -2,7 +2,7 @@
 layout:     post
 title:      "Very well stated Guido!"
 date:       2007-09-14 16:55:07
-author:     admin
+author:     nick
 categories: programming,python,software development
 tags:  
 permalink: /2007/09/14/very-well-stated-guido/

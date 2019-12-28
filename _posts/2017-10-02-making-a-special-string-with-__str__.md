@@ -2,7 +2,7 @@
 layout:     post
 title:      "Making a special string with __str__"
 date:       2017-10-02 09:32:29
-author:     admin
+author:     nick
 categories: python
 tags:  
 permalink: /2017/10/02/making-a-special-string/

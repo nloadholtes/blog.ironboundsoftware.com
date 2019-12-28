@@ -2,7 +2,7 @@
 layout:     post
 title:      "How to serve static files with flask"
 date:       2016-08-22 10:16:32
-author:     admin
+author:     nick
 categories: flask,python,uncategorized,web
 tags:  
 permalink: /2016/08/22/serve-static-files-with-flask/

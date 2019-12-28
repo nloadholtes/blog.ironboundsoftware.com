@@ -2,7 +2,7 @@
 layout:     post
 title:      "More Experiments: Traffic thoughts"
 date:       2016-08-08 11:08:05
-author:     admin
+author:     nick
 categories: uncategorized
 tags:  
 permalink: /2016/08/08/more-experiments-traffic-thoughts/

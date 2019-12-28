@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hiring Hacks: Track your activity"
 date:       2015-04-06 12:32:33
-author:     admin
+author:     nick
 categories: productivity,thinking
 tags:  
 permalink: /2015/04/06/hiring-hacks-track-your-activity/

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Using Python argparse and arguments with dashes"
 date:       2018-01-20 10:30:20
-author:     admin
+author:     nick
 categories: python
 tags:  
 permalink: /2018/01/20/python-argparse-arguments-with-dashes/

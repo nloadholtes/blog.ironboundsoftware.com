@@ -2,7 +2,7 @@
 layout:     post
 title:      "Have a plan when traveling"
 date:       2019-06-24 09:51:58
-author:     admin
+author:     nick
 categories: organization,thinking
 tags:  
 permalink: /2019/06/24/have-a-plan-when-traveling/

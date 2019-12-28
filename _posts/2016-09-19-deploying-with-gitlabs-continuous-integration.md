@@ -2,7 +2,7 @@
 layout:     post
 title:      "Deploying with Gitlab's Continuous Integration"
 date:       2016-09-19 11:31:52
-author:     admin
+author:     nick
 categories: software development
 tags:  
 permalink: /2016/09/19/deploying-with-gitlab-continuous-integration/

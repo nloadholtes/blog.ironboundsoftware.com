@@ -2,7 +2,7 @@
 layout:     post
 title:      "Python function overloading via multimethods"
 date:       2010-07-21 19:13:57
-author:     admin
+author:     nick
 categories: python,software development
 tags:  
 permalink: /2010/07/21/python-function-overloading-via-multimethods/

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resources for building software development skills"
 date:       2016-01-26 10:30:35
-author:     admin
+author:     nick
 categories: software development
 tags:  
 permalink: /2016/01/26/resources-building-software-development-skills/

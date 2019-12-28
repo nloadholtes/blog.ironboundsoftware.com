@@ -2,7 +2,7 @@
 layout:     post
 title:      "Finding a new hobby"
 date:       2017-10-25 08:01:24
-author:     admin
+author:     nick
 categories: fun
 tags:  
 permalink: /2017/10/25/finding-new-hobby/

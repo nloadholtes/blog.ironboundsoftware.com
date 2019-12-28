@@ -2,7 +2,7 @@
 layout:     post
 title:      "Agile mindset: Making agile more than just a development methodology"
 date:       2016-10-17 11:55:52
-author:     admin
+author:     nick
 categories: software development,thinking
 tags:  
 permalink: /2016/10/17/agile-isnt-just-development-methodology/

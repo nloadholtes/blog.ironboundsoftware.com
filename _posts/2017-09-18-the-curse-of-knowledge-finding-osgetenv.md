@@ -2,7 +2,7 @@
 layout:     post
 title:      "The curse of knowledge: Finding os.getenv()"
 date:       2017-09-18 10:24:26
-author:     admin
+author:     nick
 categories: python,software development
 tags:  
 permalink: /2017/09/18/the-curse-of-knowledge-finding-os-getenv/

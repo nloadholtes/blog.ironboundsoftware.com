@@ -2,7 +2,7 @@
 layout:     post
 title:      "More on breaking functional fixedness"
 date:       2009-11-02 19:47:36
-author:     admin
+author:     nick
 categories: thinking
 tags:  
 permalink: /2009/11/02/more-on-breaking-functional-fixedness/

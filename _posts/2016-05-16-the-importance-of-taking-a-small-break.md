@@ -2,7 +2,7 @@
 layout:     post
 title:      "The importance of taking a small break"
 date:       2016-05-16 12:35:42
-author:     admin
+author:     nick
 categories: programming,software development
 tags:  
 permalink: /2016/05/16/importance-taking-small-break/

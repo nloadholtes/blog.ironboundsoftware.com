@@ -2,7 +2,7 @@
 layout:     post
 title:      "The iPad and the German Tank Problem"
 date:       2010-03-15 19:06:21
-author:     admin
+author:     nick
 categories: apple,math,probability,statistics
 tags:  
 permalink: /2010/03/15/the-ipad-and-the-german-tank-problem/

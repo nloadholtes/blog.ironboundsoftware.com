@@ -2,7 +2,7 @@
 layout:     post
 title:      "Essential desktop Linux productivity hack"
 date:       2016-05-02 10:58:06
-author:     admin
+author:     nick
 categories: programming,software development
 tags:  
 permalink: /2016/05/02/essential-productivity-hacks-linux/

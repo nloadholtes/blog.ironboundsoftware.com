@@ -2,7 +2,7 @@
 layout:     post
 title:      "Reader question: What is the hardest part of starting a business?"
 date:       2019-08-27 10:38:02
-author:     admin
+author:     nick
 categories: uncategorized
 tags:  
 permalink: /2019/08/27/reader-question-what-is-the-hardest-part-of-starting-a-business/

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Getting rid of getters and setters"
 date:       2007-06-28 19:35:01
-author:     admin
+author:     nick
 categories: java,programming,python
 tags:  
 permalink: /2007/06/28/getting-rid-of-getters-and-setters/

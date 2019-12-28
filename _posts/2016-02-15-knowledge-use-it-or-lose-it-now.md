@@ -2,7 +2,7 @@
 layout:     post
 title:      "Knowledge: Use it or lose it. Now."
 date:       2016-02-15 09:50:28
-author:     admin
+author:     nick
 categories: software development
 tags:  
 permalink: /2016/02/15/knowledge-use-it-or-lose-it-now/

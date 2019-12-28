@@ -2,7 +2,7 @@
 layout:     post
 title:      "Using functools.partial to refactor repetitive code"
 date:       2018-03-23 17:10:25
-author:     admin
+author:     nick
 categories: python
 tags:  
 permalink: /2018/03/23/using-functools-partial-to-refactor-repetitive-code/

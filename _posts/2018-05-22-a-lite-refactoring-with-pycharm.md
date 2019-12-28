@@ -2,7 +2,7 @@
 layout:     post
 title:      "A lite refactoring with PyCharm"
 date:       2018-05-22 15:27:20
-author:     admin
+author:     nick
 categories: python
 tags:  
 permalink: /2018/05/22/refactoring-with-pycharm/

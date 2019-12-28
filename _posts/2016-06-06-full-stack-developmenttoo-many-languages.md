@@ -2,7 +2,7 @@
 layout:     post
 title:      "Full stack development/too many languages"
 date:       2016-06-06 13:30:01
-author:     admin
+author:     nick
 categories: software development,uncategorized
 tags:  
 permalink: /2016/06/06/full-stack-development-too-many-languages/

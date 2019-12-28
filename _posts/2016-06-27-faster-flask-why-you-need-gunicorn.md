@@ -2,7 +2,7 @@
 layout:     post
 title:      "Faster Flask: Why you need gunicorn"
 date:       2016-06-27 10:22:33
-author:     admin
+author:     nick
 categories: flask,python,uncategorized,web
 tags:  
 permalink: /2016/06/27/faster-flask-need-gunicorn/

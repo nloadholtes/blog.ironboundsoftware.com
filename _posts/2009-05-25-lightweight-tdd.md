@@ -2,7 +2,7 @@
 layout:     post
 title:      "Lightweight TDD"
 date:       2009-05-25 16:10:18
-author:     admin
+author:     nick
 categories: programming,software development,thinking
 tags:  
 permalink: /2009/05/25/lightweight-tdd/

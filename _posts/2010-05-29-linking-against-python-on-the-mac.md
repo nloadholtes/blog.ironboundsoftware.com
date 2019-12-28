@@ -2,7 +2,7 @@
 layout:     post
 title:      "Linking against Python on the Mac"
 date:       2010-05-29 07:00:12
-author:     admin
+author:     nick
 categories: os x,python
 tags:  
 permalink: /2010/05/29/linking-against-python-on-the-mac/

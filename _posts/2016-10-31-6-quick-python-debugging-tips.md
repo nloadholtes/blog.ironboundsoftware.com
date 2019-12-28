@@ -2,7 +2,7 @@
 layout:     post
 title:      "6 Quick python debugging tips"
 date:       2016-10-31 11:32:20
-author:     admin
+author:     nick
 categories: debugging,python
 tags:  
 permalink: /2016/10/31/6-quick-python-debugging-tips/

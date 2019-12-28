@@ -2,7 +2,7 @@
 layout:     post
 title:      "Optimize your pages!"
 date:       2016-02-02 09:32:25
-author:     admin
+author:     nick
 categories: programming,software development,web
 tags:  
 permalink: /2016/02/02/optimize-your-pages/

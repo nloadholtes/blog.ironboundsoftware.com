@@ -2,7 +2,7 @@
 layout:     post
 title:      "Does Python packaging have a left-pad problem?"
 date:       2016-04-11 12:11:03
-author:     admin
+author:     nick
 categories: programming,python,software development
 tags:  
 permalink: /2016/04/11/python-packaging-left-pad-problem/

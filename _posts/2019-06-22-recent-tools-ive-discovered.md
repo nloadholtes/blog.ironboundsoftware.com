@@ -2,7 +2,7 @@
 layout:     post
 title:      "Recent tools I've discovered"
 date:       2019-06-22 10:15:46
-author:     admin
+author:     nick
 categories: programming,tools
 tags:  
 permalink: /2019/06/22/recent-tools-ive-discovered/

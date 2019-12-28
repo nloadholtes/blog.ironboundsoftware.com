@@ -2,7 +2,7 @@
 layout:     post
 title:      "Keep Flask from sending too many cookies"
 date:       2015-08-18 12:28:28
-author:     admin
+author:     nick
 categories: flask,python,web,web services
 tags:  
 permalink: /2015/08/18/keep-flask-from-sending-too-many-cookies/

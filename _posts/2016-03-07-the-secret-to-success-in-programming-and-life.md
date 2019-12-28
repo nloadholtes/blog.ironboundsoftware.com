@@ -2,7 +2,7 @@
 layout:     post
 title:      "The secret to success in programming (and life!)"
 date:       2016-03-07 09:29:05
-author:     admin
+author:     nick
 categories: uncategorized
 tags:  
 permalink: /2016/03/07/secret-success-programming-life/

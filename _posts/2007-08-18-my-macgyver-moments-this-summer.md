@@ -2,7 +2,7 @@
 layout:     post
 title:      "My MacGyver Moments this summer"
 date:       2007-08-18 10:24:26
-author:     admin
+author:     nick
 categories: thinking
 tags:  
 permalink: /2007/08/18/my-macgyver-moments-this-summer/

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Remote Matcher Journal #4"
 date:       2019-09-14 11:28:02
-author:     admin
+author:     nick
 categories: business,remotematcher
 tags:  
 permalink: /2019/09/14/remote-matcher-journal-4/

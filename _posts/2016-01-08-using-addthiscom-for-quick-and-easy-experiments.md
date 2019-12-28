@@ -2,7 +2,7 @@
 layout:     post
 title:      "Using addthis.com for quick and easy experiments"
 date:       2016-01-08 11:00:55
-author:     admin
+author:     nick
 categories: statistics,web
 tags:  
 permalink: /2016/01/08/using-addthis-com-quick-easy-experiments/

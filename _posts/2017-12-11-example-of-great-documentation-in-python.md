@@ -2,7 +2,7 @@
 layout:     post
 title:      "Example of great documentation in Python"
 date:       2017-12-11 09:04:37
-author:     admin
+author:     nick
 categories: python
 tags:  
 permalink: /2017/12/11/great-documentation-python/

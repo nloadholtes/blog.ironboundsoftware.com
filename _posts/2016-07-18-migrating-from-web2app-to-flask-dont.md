@@ -2,7 +2,7 @@
 layout:     post
 title:      "Migrating from web2app to flask? Don't"
 date:       2016-07-18 09:20:09
-author:     admin
+author:     nick
 categories: api,flask,gae,software development,web
 tags:  
 permalink: /2016/07/18/migrating-web2app-to-flask/

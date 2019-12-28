@@ -2,7 +2,7 @@
 layout:     post
 title:      "Learn a new programming language"
 date:       2016-09-26 11:42:09
-author:     admin
+author:     nick
 categories: software development,thinking,uncategorized
 tags:  
 permalink: /2016/09/26/learn-a-new-programming-language/

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Are tweets the new .plan?"
 date:       2010-08-18 19:29:03
-author:     admin
+author:     nick
 categories: apple,games,programming,technology
 tags:  
 permalink: /2010/08/18/are-tweets-the-new-plan/

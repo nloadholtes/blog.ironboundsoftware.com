@@ -16,4 +16,4 @@ I've been described as "really helpful", a "programmer with a personality", and 
 
 If you'd like to get in touch, please feel free to email at `nick @ ironboundsoftware.com`
 
-I am currently experimenting with Digital Minimalism so I'm not on social media as much any more. I did used to [tweet](https://twitter.com/nloadholtes), and I might go full on with mastodon soon.
+I am currently experimenting with [Digital Minimalism](https://www.calnewport.com/books/digital-minimalism/) so I'm not on social media as much any more. I did used to [tweet](https://twitter.com/nloadholtes), and I might go full on with mastodon soon.

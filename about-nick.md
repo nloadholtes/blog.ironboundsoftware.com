@@ -1,5 +1,4 @@
 ---
-layout:     page
 author:     Nick
 title:      "About Nick"
 permalink: /author/nick

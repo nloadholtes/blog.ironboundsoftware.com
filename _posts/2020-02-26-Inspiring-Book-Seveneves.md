@@ -3,8 +3,8 @@ layout:     post
 author:     Nick
 title:      "Inspiring Book: Seveneves"
 date:       2019-02-26
-categories: thinking, books
-tags: thinking, books
+categories: thinking,books
+tags: thinking,books
 ---
 Recently I was inspired to try and come up with a huge vision for myself. A video I saw talked about taking inspiration from books. So, I have decided to start talking about books I've read that have made an impression on me.
 

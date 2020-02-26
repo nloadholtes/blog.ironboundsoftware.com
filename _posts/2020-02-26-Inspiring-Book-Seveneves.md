@@ -3,6 +3,7 @@ layout:     post
 author:     Nick
 title:      "Inspiring Book: Seveneves"
 date:       2019-02-26
+permalink:  /2020/02/26/Inspiring-Book-Seveneves/
 categories: thinking,books
 tags: thinking,books
 ---

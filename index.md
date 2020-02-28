@@ -1,7 +1,7 @@
 
 Welcome!
 
-I have kind of put my current project [Remote Matcher](https://remotematcher.com){:target="blank"} on hold for a little while. Just too many things going on at the moment.
+I have put my current project [Remote Matcher](https://remotematcher.com){:target="blank"} on hold for a little while. Just too many things going on at the moment. It is still "open for business" so if you are interested in remote work, go check it out!
 
 <!-- <iframe title="Makerlog Embed" height="300" style="width:100%" scrolling="no" frameborder="0" allowtransparency="true" src="https://api.getmakerlog.com/users/3793/embed"></iframe>
 -->

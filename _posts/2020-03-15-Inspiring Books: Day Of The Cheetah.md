@@ -3,8 +3,8 @@ layout:     post
 author:     Nick
 title:      "Inspiring Book: Day of the Cheetah"
 date:       2020-03-15
-categories: thinking, books
-tags: thinking, books
+categories: thinking,books
+tags: thinking,books
 ---
 I read [Day of the Cheetah by Dale Brown](https://amzn.to/3d22XuD) at just the right time: technologically a lot of what is in the book was (and still is) possible, and the world around me was starting to embrace new technologies (I read this right before the internet got going). I was also a huge aviation fan and playing a *lot* of flight simulator games.
 

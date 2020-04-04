@@ -2,7 +2,7 @@
 layout:     post
 author:     Nick
 title:      "Here and now for a better tomorrow"
-date:       2019-04-04
+date:       2020-04-04
 categories: thinking
 tags: thinking
 ---

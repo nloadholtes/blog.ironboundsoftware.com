@@ -2,7 +2,7 @@
 layout:     post
 title:      "Problem Discovery: Finding pain points to help others"
 date:       2016-05-30 11:00:23
-author:     nick
+author:     nickadmin
 categories: organization,productivity
 tags:  
 permalink: /2016/05/30/problem-discovery/
@@ -20,3 +20,6 @@ I was lucky with my experiment I had a pain point I could start with. If you don
 ## Get out there and find some problems!
 
 These are just 2 approaches you can use when doing problem discovery. I like these because they are more active: you are getting out there and starting a conversation and that tends to directly and quickly get to the root issue. There other more passive techniques such as watching forums or mining social media to see what people are complaining about. I'm not a fan of doing that though because people like to complain about a lot of things, but they don't always like to pull out their wallet to make the complaints go away. And that is what you are trying to do: Find the thing that people will pay to solve. Its not always easy, but it can be very worth it in the end! What's your biggest problem?
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg4MTg1ODI0MV19
+-->

@@ -2,7 +2,7 @@
 layout:     post
 title:      "pip and private repositories: vendoring python"
 date:       2017-07-19 22:29:52
-author:     nick
+author:     nickadmin
 categories: python,software development
 tags:  
 permalink: /2017/07/19/pip-and-private-repositories-vendoring-python/
@@ -52,3 +52,6 @@ One thing I like to do when creating a setup.py file for a library is to include
 ## Wrapping up vendoring python
 
 By this point you should have everything in place for an "external" system like docker or a CI server to be able to build your project. As long as it can run `pip` it should be able to find the dependency and install it. If you want to see another example of vendoring packages from github repositories, check out this link here for [a great overview of using some of pip's lesser known features](https://medium.com/underdog-io-engineering/vendoring-python-dependencies-with-pip-b9eb6078b9c0). With this in place you should be able to feel more secure about the code you are running because now the version really locked down.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTczMTcyNjcyM119
+-->

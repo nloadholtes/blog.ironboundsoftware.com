@@ -2,7 +2,7 @@
 layout:     post
 title:      "Comma Separated Values"
 date:       2009-04-11 12:04:49
-author:     nick
+author:     nickadmin
 categories: productivity,programming,python
 tags:  
 permalink: /2009/04/11/comma-separated-values/
@@ -12,3 +12,6 @@ Question: How much does python rock? Answer: More and more every day. Today I wa
 > import csv lines = csv.reader('myfile.csv')
 
 That's all that's needed to read in a csv file and have it properly handle the delimiters, even when they are inside of escaped text (i.e. something like "$3,000" will be read as $3000 instead of $3 and 000). Python rocks again.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjY0NjM2Njk1XX0=
+-->

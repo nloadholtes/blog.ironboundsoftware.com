@@ -2,7 +2,7 @@
 layout:     post
 title:      "Things I'm thankful for"
 date:       2016-11-28 09:29:19
-author:     nick
+author:     nickadmin
 categories: uncategorized
 tags:  
 permalink: /2016/11/28/things-im-thankful/
@@ -28,3 +28,6 @@ This year I began to explore the true meaning of consistency. Publishing this bl
 ## Conclusion
 
 This has been a pretty hectic year, but one that I'm very thankful for. What are you thankful for?
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyODUxNTk3OTNdfQ==
+-->

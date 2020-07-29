@@ -2,7 +2,7 @@
 layout:     post
 title:      "Choices - The hidden powers of python"
 date:       2011-02-06 12:40:45
-author:     nick
+author:     nickadmin
 categories: programming,python,software development
 tags:  
 permalink: /2011/02/06/choices-the-hidden-powers-of-python/
@@ -16,3 +16,6 @@ To me, that is really awesome because not only is what you would write in a math
 > from __future__ import braces
 
 That allows the use of {} instead of white space in a Python program. I know some people can't stand the indention rules of the language and feel more comfortable when they are "braced" (for impact?), but the fact the language has features to be able to turn this on? That is 1 million pounds of awesome in  a 5 pound sack. There is a ton of other neat tricks there, go and read up and see what you can do to make your code work more for you! Choice is a great thing. With Python, you have lots of great choices you can make. And if you decide to make no choices, you still wind up with pretty readable code which is always a good thing.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIyNDkwNDY4M119
+-->

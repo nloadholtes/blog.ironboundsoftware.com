@@ -2,7 +2,7 @@
 layout:     post
 title:      "Tips for using Slack with your Mastermind group"
 date:       2016-12-12 10:08:48
-author:     nick
+author:     nickadmin
 categories: entrepreneur
 tags:  
 permalink: /2016/12/12/tips-using-slack-mastermind-group/
@@ -63,3 +63,6 @@ Life happens. Sometimes you just can't join a conversation in slack. This is ok.
 ## Slack Mastermind tips
 
 These are the actions I've taken to get the most out of my mastermind group. Your mileage will of course vary as every group is different. The common theme of communication should always be there. What tips do you have for using Slack? Are you using slack for your mastermind?
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNzk3ODM3MzddfQ==
+-->

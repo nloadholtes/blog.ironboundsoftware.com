@@ -2,7 +2,7 @@
 layout:     post
 title:      "Slow and steady wins the race"
 date:       2010-10-18 14:30:30
-author:     nick
+author:     nickadmin
 categories: programming,software development,version control
 tags:  
 permalink: /2010/10/18/slow-and-steady-wins-the-race/
@@ -12,3 +12,6 @@ Every now and then I'll have a conversation with a developer and the topic of "W
 > _Side note_ : One of the major turn offs for me about the Git community was their instance on adopting their workflow model when using the git tool. While I welcome new points of view and ideas, a while ago it seemed like it was "git's way or the highway" when it came to using that system. Mercurial on the other hand seemed a little more open to the typical svn/cvs way of doing development. That is one of the reasons why I personally chose to work with Mercurial. In the time since then my personal workflow has changed a little bit to be more like the DVCS approach. In time I might become less of a svn developer and more of a DVCS developer. Having said that, I still don't care for the Git staging area.
 
 My hat is off to them for keeping their project under their control while modernizing a significant piece of infrastructure. My hope is that Postgres will stand as an example of how to grow without starting over. Once the developers, testers, users, and other stakeholders get used to the new version control system, then they can make the next move (whatever that may be). I think that down the road a few years this will be seen as an important decision by the project leadership, in the event of a bug being found, they will be able to look at the history and see when it entered the system and at the  same time be able to reap the benefits of the DVCS revolution.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NDQxMTQzMTNdfQ==
+-->

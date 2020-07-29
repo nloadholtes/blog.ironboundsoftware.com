@@ -2,7 +2,7 @@
 layout:     post
 title:      "24 hours to make a small biz"
 date:       2017-10-27 09:36:23
-author:     nick
+author:     nickadmin
 categories: entrepreneur
 tags:  
 permalink: /2017/10/27/24-hours-make-small-biz/
@@ -95,3 +95,6 @@ Well, it didn’t turn out like I wanted it to. If it did I would have a functio
 My hack day didn’t end like I wanted it to, but overall I’m happy with how it went. I’m going to take the lessons learned and roll them forward into the next hack day... which will probably be next week. :) Thanks for reading this far! You rock. 
 
 Keep up with what I'm up to
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjg3NTc4NDY3XX0=
+-->

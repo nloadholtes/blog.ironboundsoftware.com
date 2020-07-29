@@ -2,7 +2,7 @@
 layout:     post
 title:      "Running python tests randomly with randomize"
 date:       2013-07-02 15:07:44
-author:     nick
+author:     nickadmin
 categories: python,tdd
 tags:  
 permalink: /2013/07/02/running-python-tests-randomly-with-randomize/
@@ -20,3 +20,6 @@ And that will invoke it. When it runs it will print out a seed number and then b
 > nosetests --randomize --seed=<the seed number>
 
 and that will re-run the tests in the same order.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY4OTk4NDU3XX0=
+-->

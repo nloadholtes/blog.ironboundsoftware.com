@@ -2,7 +2,7 @@
 layout:     post
 title:      "Making a special string with __str__"
 date:       2017-10-02 09:32:29
-author:     nick
+author:     nickadmin
 categories: python
 tags:  
 permalink: /2017/10/02/making-a-special-string/
@@ -16,3 +16,6 @@ So when I was faced with this problem recently I thought about it for a few minu
 ## Wrapping up
 
 The next time you see something that “just takes a string”, remember that you can define the string with a little bit of magic. The **str** method lets you inject more runtime logic into places it wouldn't normally go!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDY0Mjc4MDAxXX0=
+-->

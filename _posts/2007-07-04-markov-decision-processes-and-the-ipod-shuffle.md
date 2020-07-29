@@ -2,7 +2,7 @@
 layout:     post
 title:      "Markov Decision Processes and the iPod shuffle"
 date:       2007-07-04 16:57:07
-author:     nick
+author:     nickadmin
 categories: ipod,programming,python
 tags:  
 permalink: /2007/07/04/markov-decision-processes-and-the-ipod-shuffle/
@@ -18,3 +18,6 @@ Pretty straightforward and a fun way, well ok, a way to pass the time while sitt
 Norvig's article talks about the math behind this type of search. Specifically he solves how long it would take to find a song (on average). He describes the problem as a [Markov Decision Process](http://en.wikipedia.org/wiki/Markov_decision_process) that can be solved using a value iteration algorithm. 
 
 Its amazing how something that sounds so complicated is actually pretty straightforward. The code that is used to implement the solution is in [python](http://python.org) and it is pretty short so it is doubly impressive, at least to me.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcwMDE1OTEyOV19
+-->

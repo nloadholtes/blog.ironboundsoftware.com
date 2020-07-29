@@ -2,7 +2,7 @@
 layout:     post
 title:      "Working with branches and a requirements.txt"
 date:       2016-04-18 09:26:00
-author:     nick
+author:     nickadmin
 categories: python,software development,uncategorized
 tags:  
 permalink: /2016/04/18/working-with-pip-branch/
@@ -30,3 +30,6 @@ Notice the part in bold. That is what tells the repo that we are looking for the
   3. Related to #2, this process is repeatable. If you need to test multiple branches of Project A, these same steps can be repeated without significant changes to Project B.
 
 And that's it! Its super easy to do, and it is a good exercise in making sure your project is setup correctly. Specifying a pip branch is a very easy way to get the code you want to test the things you need to see.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTQ0MTk2Njk0XX0=
+-->

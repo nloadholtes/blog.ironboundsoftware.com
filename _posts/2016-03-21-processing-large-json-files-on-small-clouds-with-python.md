@@ -2,7 +2,7 @@
 layout:     post
 title:      "Processing large JSON files on small clouds with python"
 date:       2016-03-21 11:40:49
-author:     nick
+author:     nickadmin
 categories: programming,python
 tags:  
 permalink: /2016/03/21/large-json-small-clouds-with-python/
@@ -33,3 +33,6 @@ Figuring out the batch size was a bit of trial-and-error, I knew the rough size 
 ## In conclusion: JSON + Python = <3
 
 Big JSON can eat up a lot of RAM. In a cloud machine, RAM is one of your most precious resources. But thanks to the ijson library Python can work just fine with a little bit of creative coding. Thanks for reading and leave me a comment if you've got any questions!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjYzNDM0MjQwXX0=
+-->

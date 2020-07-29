@@ -2,7 +2,7 @@
 layout:     post
 title:      "A lite refactoring with PyCharm"
 date:       2018-05-22 15:27:20
-author:     nick
+author:     nickadmin
 categories: python
 tags:  
 permalink: /2018/05/22/refactoring-with-pycharm/
@@ -66,3 +66,6 @@ Here's a video of me using PyCharm to tackle this fun little task:
 I hope you liked this little peak into making a quick-and-dirty telegram integration to improve reporting!
 
 If you are looking for a remote programming job, check out my free aggregator: [Remote Matcher](https://remotematcher.com)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjI1MDg2NzQyXX0=
+-->

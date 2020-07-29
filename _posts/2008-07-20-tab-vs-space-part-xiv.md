@@ -2,7 +2,7 @@
 layout:     post
 title:      "Tab vs. Space, part XIV"
 date:       2008-07-20 13:51:50
-author:     nick
+author:     nickadmin
 categories: apple,os x,programming,python
 tags:  
 permalink: /2008/07/20/tab-vs-space-part-xiv/
@@ -13,3 +13,6 @@ So, lets say you are working in XCode 3, and you are trying to build a PyObjC ap
   * [PyObjC Resources](http://vstock.free.fr/pyobjc.html)
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTYwMzE4MTkwNF19
+-->

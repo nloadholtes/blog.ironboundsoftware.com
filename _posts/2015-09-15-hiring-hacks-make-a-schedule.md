@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hiring Hacks: Make a schedule"
 date:       2015-09-15 07:29:58
-author:     nick
+author:     nickadmin
 categories: getting things done,organization,productivity
 tags:  
 permalink: /2015/09/15/hiring-hacks-make-a-schedule/
@@ -33,3 +33,6 @@ When you are in the zone you are unstoppable. So why break up your streak by doi
 ## Wrapping it up
 
 Make a schedule. Make it several days in advance. Make it around your strengths. Follow the schedule. Make it happen!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM1NTQ2MzIzOF19
+-->

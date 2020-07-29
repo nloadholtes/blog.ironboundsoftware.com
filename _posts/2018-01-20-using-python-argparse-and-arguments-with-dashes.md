@@ -2,7 +2,7 @@
 layout:     post
 title:      "Using Python argparse and arguments with dashes"
 date:       2018-01-20 10:30:20
-author:     nick
+author:     nickadmin
 categories: python
 tags:  
 permalink: /2018/01/20/python-argparse-arguments-with-dashes/
@@ -16,3 +16,6 @@ This restriction made my arguments look weird when I needed to use a multi word 
 ## Further reading
 
 As always the Python documentation is a great place to learn more. While trying to discover this missing piece, I found this mailing list posting. It's the really useful discussion of this problem. Thanks to it I was able to make my script have much more expressive command line flags. [https://mail.python.org/pipermail/docs/2012-July/009292.html](https://mail.python.org/pipermail/docs/2012-July/009292.html) The Python argparse module rocks! :)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MjI5MTEzNV19
+-->

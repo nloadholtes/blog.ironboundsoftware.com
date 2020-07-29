@@ -2,7 +2,7 @@
 layout:     post
 title:      "Finding a new hobby"
 date:       2017-10-25 08:01:24
-author:     nick
+author:     nickadmin
 categories: fun
 tags:  
 permalink: /2017/10/25/finding-new-hobby/
@@ -35,3 +35,6 @@ I got a lot of awesome responses! I am really surprised at how people embraced t
   * Ham Radio
 
 I even managed to get a suggestion of something I could start with a friend! That was one of the more intriguing ideas and I think I’m going to have to do start that one. The idea was to start a podcast and talk about one of my favorite philosophies, Stoicism with an old friend. Such a great idea! In the end I decided to take on Knot Tying as a new hobby. It really appeals to me for a lot of reasons. It’s practical (I’m always needing to tie some string together), very portable (I could do it anywhere), and there’s lots of resources on it. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTExNzA2Mjk5M119
+-->

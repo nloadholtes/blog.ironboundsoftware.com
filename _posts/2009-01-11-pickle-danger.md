@@ -2,7 +2,7 @@
 layout:     post
 title:      "Pickle Danger!"
 date:       2009-01-11 19:17:43
-author:     nick
+author:     nickadmin
 categories: python,software development
 tags:  
 permalink: /2009/01/11/pickle-danger/
@@ -13,3 +13,6 @@ I've been poking around with a little python based web crawler/robot/scrapper th
   2. If you are going to write out data make sure it is either a) Backed up first (i.e. write to a different file first, then after the file is closed successfully, overwrite the old one) b) Written to something like a database which is designed to not get corrupted at the drop of a hat
 
 And as a bonus tip: You should always back up code (and data) that you generate. As I said, this was a quick-and-dirty program at first, but it had obviously grown in it scope and importance. My new metric for "needing to back this up" is if I have checked the code into a repository: If you are willing to check in the code, you need to save the data (config, output data, etc.) as well. Fortunately I didn't loose that much or anything that was earth shattering. But all it takes is one time...
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0Mzg2ODY0NjldfQ==
+-->

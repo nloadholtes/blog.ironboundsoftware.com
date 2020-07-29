@@ -2,14 +2,14 @@
 layout:     post
 title:      "Migrating from web2app to flask? Don't"
 date:       2016-07-18 09:20:09
-author:     nick
+author:     nickadmin
 categories: api,flask,gae,software development,web
 tags:  
 permalink: /2016/07/18/migrating-web2app-to-flask/
 ---
-![train of moving web2app to flask](https://ironboundsoftware.com/blog-imgs/uploads/2016/07/train.gif) _Me moving an app from web2app to flask_ 
+[caption id="attachment_728" align="alignright" width="320"][![train of moving web2app to flask](https://ironboundsoftware.com/blog-imgs/uploads/2016/07/train.gif)](https://ironboundsoftware.com/blog-imgs/uploads/2016/07/train.gif) _Me moving an app from web2app to flask_ 
 
-Recently I decided to pull an old project out and use it as the basis of a new exciting thing I'm working on.  _More on that later!_ The old code was running on [Google App Engine](https://appengine.google.com) (GAE) and was written using the python web2app framework. Let's take a look at the why and how of converting from web2app to flask. 
+[/caption] Recently I decided to pull an old project out and use it as the basis of a new exciting thing I'm working on.  _More on that later!_ The old code was running on [Google App Engine](https://appengine.google.com) (GAE) and was written using the python web2app framework. Let's take a look at the why and how of converting from web2app to flask. 
 
 ## Why web2app?
 
@@ -85,3 +85,6 @@ To my surprise after some analysis it became clear that moving from web2app to f
 
 
 At times it will be hard, but in the end you will end up with a better product and code base.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA4NjcxNzU0NF19
+-->

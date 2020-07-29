@@ -2,7 +2,7 @@
 layout:     post
 title:      "Recent tools I've discovered"
 date:       2019-06-22 10:15:46
-author:     nick
+author:     nickadmin
 categories: programming,tools
 tags:  
 permalink: /2019/06/22/recent-tools-ive-discovered/
@@ -32,3 +32,6 @@ For a while I've thought that to support my desire to get more into IRC I would 
 ## Final thoughts
 
 Every year you should take a look at the tools you are using and ask yourself "Is there a better way of doing these things?" and spend a little time investigating. I'm not saying through out your tools, but you should look at them make sure they are as sharp as possible. And if they are dull, go find new ones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgyNDUxMTU4M119
+-->

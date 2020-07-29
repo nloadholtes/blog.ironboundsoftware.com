@@ -2,7 +2,7 @@
 layout:     post
 title:      "Optimize your pages!"
 date:       2016-02-02 09:32:25
-author:     nick
+author:     nickadmin
 categories: programming,software development,web
 tags:  
 permalink: /2016/02/02/optimize-your-pages/
@@ -22,3 +22,6 @@ If your site is on the internet, [GTMetrix is a great tool](https://gtmetrix.com
 ## Wrapping up
 
 Hopefully this post has given you some ideas on how and why you should optimize your website. Please go and try them out! If you can make your website 20% your customers will love it! Be sure and drop a note to let us know how these tools work out for you!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ4MjMzMzcxXX0=
+-->

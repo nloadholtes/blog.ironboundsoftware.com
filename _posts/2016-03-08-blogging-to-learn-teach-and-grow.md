@@ -2,7 +2,7 @@
 layout:     post
 title:      "Blogging to learn, teach, and grow"
 date:       2016-03-08 08:41:01
-author:     nick
+author:     nickadmin
 categories: blogging
 tags:  
 permalink: /2016/03/08
@@ -26,3 +26,6 @@ Here's what you need to do.
   3. Become a better writer and developer.
 
 Its that easy. :) Now go out there and do it!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc2NDIwODNdfQ==
+-->

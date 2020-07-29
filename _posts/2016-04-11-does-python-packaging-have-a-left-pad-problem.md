@@ -2,7 +2,7 @@
 layout:     post
 title:      "Does Python packaging have a left-pad problem?"
 date:       2016-04-11 12:11:03
-author:     nick
+author:     nickadmin
 categories: programming,python,software development
 tags:  
 permalink: /2016/04/11/python-packaging-left-pad-problem/
@@ -28,3 +28,6 @@ As a result, any libraries that the program needs can be checked into the vendor
 ## Wrapping up
 
 Python packaging is not immune from the problems experienced in npm recently. While code reuse is a great thing, care must be taken to ensure that builds of our software are truly repeatable. Perhaps if Python follows the example of go-lang and creates a similar "vendor" standard then python packaging problems will become a thing of the past.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQxOTM4MTY0OF19
+-->

@@ -2,7 +2,7 @@
 layout:     post
 title:      "How to serve static files with flask"
 date:       2016-08-22 10:16:32
-author:     nick
+author:     nickadmin
 categories: flask,python,uncategorized,web
 tags:  
 permalink: /2016/08/22/serve-static-files-with-flask/
@@ -38,3 +38,6 @@ My number one bit of advice is to have all of your static files in one spot. Whe
 ## Wrapping up
 
 You can serve static files with flask. If its going to be anything that is frequently trafficked, you are better off letting a web server handle the load. What's your favorite server? Let me know if the comments!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODgzNDUzOTM2XX0=
+-->

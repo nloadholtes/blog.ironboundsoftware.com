@@ -2,7 +2,7 @@
 layout:     post
 title:      "4 articles on Python Debugging"
 date:       2018-01-11 10:09:15
-author:     nick
+author:     nickadmin
 categories: python
 tags:  
 permalink: /2018/01/11/4-articles-on-python-debugging/
@@ -19,3 +19,6 @@ I still remember my first programming job. It was at the start of the dot-com bo
 ## What say you?
 
 I've got some more ideas on what I could write about, but I'm curious:  **What debugging related topics do you want know about?** Hit me up on [twitter](https://twitter.com/nloadholtes), leave a comment on this post, or [send me an email](mailto:nick@ironboundsoftware.com) and let me know. I want to help you be the best developer you can be. It would be the ultimate tribute to my coworkers at Intellivoice.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk3NzE0MDQ3XX0=
+-->

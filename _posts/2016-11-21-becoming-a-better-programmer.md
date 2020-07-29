@@ -2,7 +2,7 @@
 layout:     post
 title:      "Becoming a better programmer"
 date:       2016-11-21 11:28:26
-author:     nick
+author:     nickadmin
 categories: programming,python,software development
 tags:  
 permalink: /2016/11/21/becoming-a-better-programmer/
@@ -28,3 +28,6 @@ Speaking of mastering your tools, it is vitally important as a developer to be v
 ## Becoming a better programmer
 
 Sometimes as we go through our day we forget the basics. Be sure to challenge yourself regularly to "earn your trident". The only way to become a better programmer is to practice the basics and master them. Remember its worth your time to revisit the basics from time to time. What are you doing to be the best you that you can be?  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjEwMDAzMDU1N119
+-->

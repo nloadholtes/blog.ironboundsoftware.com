@@ -2,7 +2,7 @@
 layout:     post
 title:      "Moving from Django to Flask"
 date:       2016-06-13 11:11:11
-author:     nick
+author:     nickadmin
 categories: django,flask,uncategorized,web
 tags:  
 permalink: /2016/06/13/moving-django-to-flask/
@@ -29,3 +29,6 @@ We got lucky with the tests, they were pretty easy to move over! In fact I spent
 ## Wrapping up
 
 Moving from Django to Flask was relatively painless and we wound up with a smaller set of micro-services. Additionally the "developer overhead" to run the apps locally seems to be smaller as we are able start the apps and go. If you have a large webapp and are interested in smaller services, I'd recommend looking at moving from Django to Flask.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNDk4MTU2OTddfQ==
+-->

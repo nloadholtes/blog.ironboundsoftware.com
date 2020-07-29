@@ -2,7 +2,7 @@
 layout:     post
 title:      "My experiences with 5 different Continuous Integration servers"
 date:       2016-11-14 09:21:50
-author:     nick
+author:     nickadmin
 categories: software development
 tags:  
 permalink: /2016/11/14/experiences-5-different-continuous-integration-servers/
@@ -36,3 +36,6 @@ Bitbucket began offering a CI service very similar to Gitlab's in late 2016. Of 
 ## Conclusion: Continuous Integration servers are important/awesome
 
 In the bad old days of software development, testing was usually the 2nd thing to be cut when the schedule started to slip. With continuous integration servers you can prevent these problems by having automatic checks run for you. Modern software developers will benefit highly from adding a CI solution to their workflow. Even if you are the only one using it, eventually everyone will see the advantage of it.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MzA0NTcyNzRdfQ==
+-->

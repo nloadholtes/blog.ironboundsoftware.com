@@ -2,7 +2,7 @@
 layout:     post
 title:      "Cleaning up legacy python code"
 date:       2017-05-01 08:12:51
-author:     nick
+author:     nickadmin
 categories: python,software development
 tags:  
 permalink: /2017/05/01/legacy-python-code/
@@ -70,3 +70,6 @@ Your best email address *
 First Name 
 
 Last Name 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ3NjM2OTA1M119
+-->

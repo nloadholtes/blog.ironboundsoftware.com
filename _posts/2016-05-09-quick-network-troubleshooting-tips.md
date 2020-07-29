@@ -2,7 +2,7 @@
 layout:     post
 title:      "Quick network troubleshooting tips"
 date:       2016-05-09 11:24:06
-author:     nick
+author:     nickadmin
 categories: linux,programming,web
 tags:  
 permalink: /2016/05/09/quick-network-troubleshooting-tips/
@@ -72,3 +72,6 @@ As a unique example of using ping: One time I was working on a machine that we h
 ## Wrapping up
 
 Hopefully these tools will give you the insight into what's going on with your network. I know they have helped me with my network troubleshooting over the years (and as recently as yesterday). Are there any tools I left out? I'd love to know about any awesome and useful power tools out there. Leave a comment or tweet at me: [@nloadholtes](https://twitter.com/nloadholtes) and let me know!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjE0MjI2MzQwNF19
+-->

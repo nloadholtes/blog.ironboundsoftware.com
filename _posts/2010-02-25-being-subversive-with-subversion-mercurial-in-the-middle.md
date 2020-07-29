@@ -2,7 +2,7 @@
 layout:     post
 title:      "Being subversive with Subversion: Mercurial in the middle"
 date:       2010-02-25 20:41:52
-author:     nick
+author:     nickadmin
 categories: os x,programming,python,software development
 tags:  
 permalink: /2010/02/25/being-subversive-with-subversion-mercurial-in-the-middle/
@@ -32,3 +32,6 @@ DVCS is a popular topic these days on the internets, but for those of us who cod
   * The end result should be a mercurial repository on your local machine. Refer to the link for hgsubversion for more details about commands and links to other installation instructions. (Some are older than others, and the commands have changed a little bit over time.)
 
 So, that's what I'm up to. Hopefully this will let me do some interesting experiments locally without sacrificing the safety blanket of using version control.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUwMzI0Mjg1Nl19
+-->

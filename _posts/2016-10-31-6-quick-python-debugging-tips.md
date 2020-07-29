@@ -2,7 +2,7 @@
 layout:     post
 title:      "6 Quick python debugging tips"
 date:       2016-10-31 11:32:20
-author:     nick
+author:     nickadmin
 categories: debugging,python
 tags:  
 permalink: /2016/10/31/6-quick-python-debugging-tips/
@@ -91,3 +91,6 @@ I've briefly mentioned ipdb and ipython. Both of those are great tools for worki
 ## Wrapping up: python debugging FTW
 
 Writing python is awesome because of the ecosystem of tools available. Hopefully this guide will help you out as you explore the tools that are available to help make your code better.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYzNzQ1NDYxNV19
+-->

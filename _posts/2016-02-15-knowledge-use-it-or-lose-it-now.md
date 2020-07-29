@@ -2,7 +2,7 @@
 layout:     post
 title:      "Knowledge: Use it or lose it. Now."
 date:       2016-02-15 09:50:28
-author:     nick
+author:     nickadmin
 categories: software development
 tags:  
 permalink: /2016/02/15/knowledge-use-it-or-lose-it-now/
@@ -20,3 +20,6 @@ The first thing that I hear people say when I bring this up in conversations is,
 ## GO FORTH AND DO.
 
 So to wrap up: **doing > knowing**. Go out there and show the world that you know something by doing something.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU1MTc0NDM5M119
+-->

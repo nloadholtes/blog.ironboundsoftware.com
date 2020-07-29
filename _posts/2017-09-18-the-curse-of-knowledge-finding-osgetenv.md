@@ -2,7 +2,7 @@
 layout:     post
 title:      "The curse of knowledge: Finding os.getenv()"
 date:       2017-09-18 10:24:26
-author:     nick
+author:     nickadmin
 categories: python,software development
 tags:  
 permalink: /2017/09/18/the-curse-of-knowledge-finding-os-getenv/
@@ -16,3 +16,6 @@ For me this was a real educational moment. It is very easy to think that we know
 ## Learn from this
 
 So, today go and talk with someone who has different areas of knowledge or experience levels than you. Something good will probably come of it soon.  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2ODk0MjE3ODZdfQ==
+-->

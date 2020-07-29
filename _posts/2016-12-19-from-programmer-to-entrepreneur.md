@@ -2,7 +2,7 @@
 layout:     post
 title:      "From programmer to entrepreneur"
 date:       2016-12-19 09:49:15
-author:     nick
+author:     nickadmin
 categories: ent,entrepreneur
 tags:  
 permalink: /2016/12/19/from-programmer-to-entrepreneur/
@@ -16,3 +16,6 @@ Programmers have a tremendous opportunity in this day and age. We understand the
 ## The future
 
 We truly have the power to shape the world to be anything we want to be. I'm going to continue to use my powers to shape a world that I love. I hope you'll follow me as I embark on this adventure. Going from a programmer to entrepreneur is a big step, but one that I think is well worth it. Let's do this!  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTczODk5NTI0Nl19
+-->

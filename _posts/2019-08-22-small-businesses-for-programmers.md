@@ -2,7 +2,7 @@
 layout:     post
 title:      "Small Businesses for Programmers"
 date:       2019-08-22 08:39:12
-author:     nick
+author:     nickadmin
 categories: business,programming
 tags:  
 permalink: /2019/08/22/small-business-for-programmers/
@@ -112,3 +112,6 @@ are easily google-able, and there's a ton of free content out there to show you 
 # Small business for programmers: so many choices
 
 For the plucky programmer, there's a bunch of choices out there for starting a business. Do some research, see what resonates with you. And most importantly, try a small experiment! Most of the things I've talked about here are low-cost, low-effort things that anyone can start pretty quickly. As a last bonus link, check out the [Startups For The Rest Of Us podcast](https://www.startupsfortherestofus.com/). It is hosted by two developers/entrepreneurs who offer their experienced take on various topics in this area. Scan through the titles and pick one that sounds interesting and give it a listen!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI0ODc3OTEzMF19
+-->

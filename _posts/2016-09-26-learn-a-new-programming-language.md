@@ -2,7 +2,7 @@
 layout:     post
 title:      "Learn a new programming language"
 date:       2016-09-26 11:42:09
-author:     nick
+author:     nickadmin
 categories: software development,thinking,uncategorized
 tags:  
 permalink: /2016/09/26/learn-a-new-programming-language/
@@ -26,3 +26,6 @@ So, your action item is to go learn something new. As you are learning ask yours
   3. Does X do this better?
 
 With answers to those questions you will find yourself a better programmer!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI1MjMzODg0OF19
+-->

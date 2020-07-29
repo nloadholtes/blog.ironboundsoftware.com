@@ -2,7 +2,7 @@
 layout:     post
 title:      "Have a plan when traveling"
 date:       2019-06-24 09:51:58
-author:     nick
+author:     nickadmin
 categories: organization,thinking
 tags:  
 permalink: /2019/06/24/have-a-plan-when-traveling/
@@ -18,3 +18,6 @@ At this point you have a bunch of options!
 ## Making a decision
 
 So, now with your list of things to do if you ever reach a point where you don't know what to do (or eat), just look at the list! You can decide to do something other than what is on the list, but at least now you will have a starting point. For me this solves the greatest problem: coming up with something on short notice. It is much easier to choose from a menu of options than it is to conjure up something new on the spot. Having too many choices can be paralyzing. Even a little bit of list can act a guide post to get you to something quickly. And remember: Just because it isn't on the list doesn't mean you can't do it. The list is just there to keep you from sitting around doing nothing. Because doing nothing is the worst. Action. Always take action.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwNDAzODM5NF19
+-->

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Adventures with minimongo"
 date:       2016-08-15 11:03:06
-author:     nick
+author:     nickadmin
 categories: mongo,python
 tags:  
 permalink: /2016/08/15/adventures-with-python-minimongo/
@@ -24,3 +24,6 @@ Being a layer on top of a library has its advantages and disadvantages. With min
 ## In conclusion: Try python minimongo
 
 In the world of the startup MVP, ease of development is king. Minimongo is a very useful tool to help you get up and running fast. Try it out and let me know what you think!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI1OTA3MDYzMl19
+-->

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Deploying with Gitlab's Continuous Integration"
 date:       2016-09-19 11:31:52
-author:     nick
+author:     nickadmin
 categories: software development
 tags:  
 permalink: /2016/09/19/deploying-with-gitlab-continuous-integration/
@@ -32,3 +32,6 @@ At this point when you commit and push your code to gitlab it will kick off the 
 ## Gitlab continuous integration FTW
 
 The great thing about all of this is that it is free. Gitlab does not charge for this awesome feature which is great because all developers need to be familiar with CI. This is the perfect opportunity to learn this important skill. Doing this requires only adding 1 file to your repository and the creation of 1 ssh key. These are simple to do, so you are cheating yourself if you don't at least try it out. As an added bonus, you can brag that you've got a CI/CD setup for one of your side projects. That's an awesome bragging point! Since the back end uses docker (you are using docker right?) it should be pretty easy to do[ Continuous Integration and deployment](http://amzn.to/2fpmoCO) with most any language or framework. My next task is to get this working with a [Python](https://python.org) Flask app I've been developing.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ3MjQwNzAyN119
+-->

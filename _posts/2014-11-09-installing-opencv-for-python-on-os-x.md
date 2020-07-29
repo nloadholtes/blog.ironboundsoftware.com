@@ -2,7 +2,7 @@
 layout:     post
 title:      "Installing OpenCV for Python on OS X"
 date:       2014-11-09 20:09:18
-author:     nick
+author:     nickadmin
 categories: os x,python
 tags:  
 permalink: /2014/11/09/installing-opencv-for-python-on-os-x/
@@ -26,3 +26,6 @@ This will copy the .so created during the build to your virtualenv which will ma
 > import cv2
 
 and it should work. Happy Computer Visioning!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5MzkxNzk2NTldfQ==
+-->

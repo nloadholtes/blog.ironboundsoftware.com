@@ -2,7 +2,7 @@
 layout:     post
 title:      "Improving your python: using pylint and flake8 in emacs"
 date:       2016-12-05 09:30:38
-author:     nick
+author:     nickadmin
 categories: emacs,python,python
 tags:  
 permalink: /2016/12/05/improving-your-python-pylint-and-flake8-emacs/
@@ -32,3 +32,6 @@ Getting a "truthy" answer out of these tools is a little bit of an art. Followin
 ## Wrapping up
 
 I've skimmed the surface of a lot of different things here. If you would like to hear more about how I'm using emacs to do development with python, please drop me a comment and let me know!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg3ODkyNjg5OF19
+-->

@@ -2,7 +2,7 @@
 layout:     post
 title:      "More resources for improving software development skills"
 date:       2016-02-09 09:26:18
-author:     nick
+author:     nickadmin
 categories: programming,python,software development,web
 tags:  
 permalink: /2016/02/09/more-resources-for-improving-software-development-skills/
@@ -45,3 +45,6 @@ That's cool, we all need that from time to time. If the youtube videos aren't qu
 # Wrapping it up
 
 Videos are a great way to improve your skills when it comes to software development. I hope you can use these resources to help you become a better version of yourself! Let me know if you have any great resources or questions. I'm on twitter as [@nloadholtes](https://twitter.com/nloadholtes)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA0OTgxNTc1NF19
+-->

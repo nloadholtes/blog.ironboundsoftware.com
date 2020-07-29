@@ -2,7 +2,7 @@
 layout:     post
 title:      "Remote Matcher Journal #2"
 date:       2019-08-24 10:46:37
-author:     nick
+author:     nickadmin
 categories: business,remotematcher
 tags:  
 permalink: /2019/08/24/remote-matcher-journal-2/
@@ -57,3 +57,6 @@ Here's the plan for the next week:
   3. Continue ~~Create~~ thinking about OKR's for this project.
 
 Questions? Comments? [Email me](mailto:nick@ironboundsoftware.com) and ask away!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyMDg5OTY5MDBdfQ==
+-->

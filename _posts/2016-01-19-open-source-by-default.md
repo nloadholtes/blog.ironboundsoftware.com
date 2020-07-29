@@ -2,7 +2,7 @@
 layout:     post
 title:      "Open Source by default"
 date:       2016-01-19 09:07:56
-author:     nick
+author:     nickadmin
 categories: programming,software development
 tags:  
 permalink: /2016/01/19/open-source-by-default/
@@ -19,3 +19,6 @@ So at this point you are probably asking "Ok, by why?" Here are my thoughts on w
   * It can build your skill set and reputation.
 
 In short, it has lots of upsides, and very little downside. If you have experiments, junk code, scratch files, special configuration, or anything else like that, I encourage you to open source it! Make a free account on [github](http://github.com) or [bitbucket](http://bitbucket.org) and share that code with the world.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0Mzk0NDk2N119
+-->

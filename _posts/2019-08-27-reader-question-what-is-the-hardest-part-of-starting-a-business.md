@@ -2,7 +2,7 @@
 layout:     post
 title:      "Reader question: What is the hardest part of starting a business?"
 date:       2019-08-27 10:38:02
-author:     nick
+author:     nickadmin
 categories: uncategorized
 tags:  
 permalink: /2019/08/27/reader-question-what-is-the-hardest-part-of-starting-a-business/
@@ -24,3 +24,6 @@ If your why is 0 or negative, your effort is going to be pretty minimal. But if 
 * * *
 
 Do you have a question I might be able to help out with? [Hit me up and let me know](mailto:nick@ironboundsoftware.com)!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQwNzcxMjE0XX0=
+-->

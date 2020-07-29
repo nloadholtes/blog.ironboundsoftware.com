@@ -2,7 +2,7 @@
 layout:     post
 title:      "Recent experiments"
 date:       2016-07-04 10:47:15
-author:     nick
+author:     nickadmin
 categories: experiments,thinking
 tags:  
 permalink: /2016/07/04/recent-experiments/
@@ -40,3 +40,6 @@ Sometimes I'll have something that isn't a success but also isn't a failure. May
 ## The future!
 
 More experiments to come! The only true failure in my mind is to quit. Even with failures, I still learn lots and have lots of fun. So I predict that my experiments in the future will be more ambitious, and the source of many more blog posts.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODk4MTEyNzYzXX0=
+-->

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Essential desktop Linux productivity hack"
 date:       2016-05-02 10:58:06
-author:     nick
+author:     nickadmin
 categories: programming,software development
 tags:  
 permalink: /2016/05/02/essential-productivity-hacks-linux/
@@ -33,3 +33,6 @@ A lot of these keys can be mapped from one environment to another. For example, 
 ## Wrapping up
 
 The linux desktop has come a long way in the last few years. Each one of these simple productivity hack can help you get the most out of your time at the computer and impress your friends and colleagues with your speed and seemingly effortless productivity. Do you have a favorite productivity hack? Please share it in the comments or send me a tweet! [@nloadholtes](https://twitter.com/nloadholtes)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNDg2NzY1OF19
+-->

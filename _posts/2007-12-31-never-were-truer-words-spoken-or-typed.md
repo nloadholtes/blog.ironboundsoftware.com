@@ -2,7 +2,7 @@
 layout:     post
 title:      "Never were truer words spoken (or typed)"
 date:       2007-12-31 13:56:25
-author:     nick
+author:     nickadmin
 categories: fun,games,programming
 tags:  
 permalink: /2007/12/31/never-were-truer-words-spoken-or-typed/
@@ -13,3 +13,6 @@ The other day I came across this really cool posting talking about [school proje
 
 That pretty much sums up my experience so far with my attempts to make a "simple" RPG. There's a lot going on in a typical RPG, and it takes a lot of effort and attention to detail to pull it off and make it look good and play well. And even then, if you manage to get the mechanics of the game engine working semi-decently, then you have a tall order to fill by creating the contents (scripts, maps, graphics). Needless to say it can quickly become a huge time sink. Which isn't to say it isn't fun, because it is. But when you get overwhelmed on a project like this where you are working for yourself (i.e. not getting paid to work on it) it becomes very difficult to get your motivation back. Personally, I'm hoping to get my motivation back to work on my little project some more. I think what I'll probably wind up doing is working on it in-between other projects.
   *[RPG]: Role Playing Game
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNTA2MzU1MzNdfQ==
+-->

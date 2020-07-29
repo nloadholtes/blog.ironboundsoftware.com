@@ -2,7 +2,7 @@
 layout:     post
 title:      "Linking against Python on the Mac"
 date:       2010-05-29 07:00:12
-author:     nick
+author:     nickadmin
 categories: os x,python
 tags:  
 permalink: /2010/05/29/linking-against-python-on-the-mac/
@@ -30,3 +30,6 @@ So using the example above, the proper incantation to produce a useable shared l
 > gcc myfile.c - **framework python** -shared -o mylib.so
 
 That should produce something useable.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI1MjA1NjQzNF19
+-->

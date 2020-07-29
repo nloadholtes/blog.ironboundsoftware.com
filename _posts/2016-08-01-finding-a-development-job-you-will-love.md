@@ -2,7 +2,7 @@
 layout:     post
 title:      "Finding a development job you will love"
 date:       2016-08-01 09:35:24
-author:     nick
+author:     nickadmin
 categories: programming
 tags:  
 permalink: /2016/08/01/finding-development-job-you-will-love/
@@ -34,3 +34,6 @@ Of course, simply finding the right company is not enough. Sure, they might know
 ## 'Till next time
 
 Use this information to find a development job you will love. Once you do your whole outlook on everything will change for the better. Life is too short to be unhappy for 8 hours a day!  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5NjcyOTEwODBdfQ==
+-->

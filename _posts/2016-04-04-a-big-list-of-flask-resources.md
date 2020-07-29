@@ -2,7 +2,7 @@
 layout:     post
 title:      "A big list of Flask resources"
 date:       2016-04-04 09:43:08
-author:     nick
+author:     nickadmin
 categories: flask,python,web
 tags:  
 permalink: /2016/04/04/a-big-list-of-flask-resources/
@@ -33,3 +33,6 @@ The first option is great if you want try out a plug-and-play option really quic
 ## Wrapping up
 
 I'm a pretty big fan of Flask. It is powerful enough to handle a website that I worked on that got thousands of visitors a day, yet small and lightweight enough to not get in my way as I did my work. These plugins are the secret sauce that makes Flask such a pleasure to work with. Do you know of some great flask resources everyone should know about? Let me know in the comments!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU0MDI5MDExM119
+-->

@@ -2,7 +2,7 @@
 layout:     post
 title:      "The secret to success in programming (and life!)"
 date:       2016-03-07 09:29:05
-author:     nick
+author:     nickadmin
 categories: uncategorized
 tags:  
 permalink: /2016/03/07/secret-success-programming-life/
@@ -21,3 +21,6 @@ A goal is something you want to accomplish. It also has a time frame attached to
 # Do the work, enjoy the success
 
 If you know what your goal is, you should be able to look around and see where you are. Figure out the 1 thing that you could do that would get you closer to the goal as quickly as possible. Then do it. Here's an inspirational video to help motivate you:  Now, you have the secret to success. Go out there and do it.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjM4MzkzNjk5XX0=
+-->

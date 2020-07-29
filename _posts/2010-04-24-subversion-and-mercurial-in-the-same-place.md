@@ -2,7 +2,7 @@
 layout:     post
 title:      "Subversion and Mercurial in the same place"
 date:       2010-04-24 14:35:30
-author:     nick
+author:     nickadmin
 categories: java,python,software development
 tags:  
 permalink: /2010/04/24/subversion-and-mercurial-in-the-same-place/
@@ -36,3 +36,6 @@ According the [Mercurial wiki for working with subversion](http://mercurial.sele
   * You need disciple with branch/directory names. - Make sure you know what that directory is. This goes for most dev activites, but with the wild free for all that hg allows it gets really important. You can get turned around really easy, especially if you have multiple svn checkouts (i.e. different branches, etc.)
 
 ** Overall I really like using hg. Making it work with svn has been a big bonus because now I can get the best of both worlds without having to abandon svn. (That's a big bonus as most day jobs rely on svn!)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjQyNzQwNjY1XX0=
+-->

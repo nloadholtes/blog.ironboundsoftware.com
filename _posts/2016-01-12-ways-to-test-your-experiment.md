@@ -2,7 +2,7 @@
 layout:     post
 title:      "Ways to test your experiment"
 date:       2016-01-12 11:06:35
-author:     nick
+author:     nickadmin
 categories: statistics,web
 tags:  
 permalink: /2016/01/12/ways-test-experiment/
@@ -34,3 +34,6 @@ Using social media (like Facebook, twitter, etc.) is great for generating traffi
 # Wrapping up
 
 In this post we talked a little more about statistics and why its important to get people to visit your site and interact with your experiments. There's lots of choices when it comes to getting people to look at your content. I personally recommend taking a long game approach and building up great content, and then augmenting it with ads periodically to get focused attention to specific experiments. Good luck and let me know in the comments what works best for you!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTY0NTM5ODYzXX0=
+-->

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hiring Hacks: Track your activity"
 date:       2015-04-06 12:32:33
-author:     nick
+author:     nickadmin
 categories: productivity,thinking
 tags:  
 permalink: /2015/04/06/hiring-hacks-track-your-activity/
@@ -32,3 +32,6 @@ Its easy to lose track of time and focus while job hunting. Here's what you need
   * Decide what wasn't important, and do less of that ;)
 
 Using these hacks you can get your brain focused and see the progress you are making, and more importantly get to your goal faster!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjc0NDgxMzg1XX0=
+-->

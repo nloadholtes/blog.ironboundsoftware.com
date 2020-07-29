@@ -2,7 +2,7 @@
 layout:     post
 title:      "Teaching what you know"
 date:       2016-03-28 19:22:46
-author:     nick
+author:     nickadmin
 categories: programming,python,thinking,uncategorized
 tags:  
 permalink: /2016/03/28/teaching-what-you-know/
@@ -22,3 +22,6 @@ I'm glad you asked. In addition to this blog (shameless plug :)) there some real
   * [Peter Norvig](http://norvig.com/) \-- Peter is an extremely smart guy. Anything I say to try and explain why his postings are so awesome will fall far short of doing it justice. I will put it this way: When Peter speaks, you should listen.
 
 I also tend to find a lot of inspiration from other developers that post things (blog posts, tweets, etc.) that just take a few minutes to drop some nugget that they have discovered. Who are your favorite people and spots to learn from? How can they help you learn how to be a better teacher?
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5MjI2OTQ1Nl19
+-->

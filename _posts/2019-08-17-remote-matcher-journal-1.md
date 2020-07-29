@@ -2,7 +2,7 @@
 layout:     post
 title:      "Remote Matcher journal #1"
 date:       2019-08-17 11:14:59
-author:     nick
+author:     nickadmin
 categories: business,entrepreneur,remotematcher
 tags:  
 permalink: /2019/08/17/remote-matcher-journal-1/
@@ -44,3 +44,6 @@ The point of a business is to make money. I have parts and pieces of this but th
   4. Create OKR's for this project.
 
 For #4: I've been reading [Measure What Matters](https://amzn.to/2HcGsVu) and implementing OKR's at the day job. It seems like a really great way to get a project moving, and I'm anxious to see if it can improve my efficiency.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQxNTM3MDUyNV19
+-->

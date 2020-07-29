@@ -2,7 +2,7 @@
 layout:     post
 title:      "Managing projects"
 date:       2016-10-03 10:31:01
-author:     nick
+author:     nickadmin
 categories: software development
 tags:  
 permalink: /2016/10/03/managing-projects/
@@ -30,3 +30,6 @@ That last one is really nice. You can calculate an actual percentage to tell you
 ## In conclusion
 
 When it comes to managing projects, either your own or someone elses, all you need to remember is this: Break big things down. Repeat until things are small. Order small things. Do small things. Get things done. :)  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYwMjE4NzI1NV19
+-->

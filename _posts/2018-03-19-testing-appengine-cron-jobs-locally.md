@@ -2,7 +2,7 @@
 layout:     post
 title:      "Testing AppEngine cron jobs locally"
 date:       2018-03-19 08:30:18
-author:     nick
+author:     nickadmin
 categories: programming,python,software development
 tags:  
 permalink: /2018/03/19/testing-appengine-cron-jobs-locally/
@@ -32,3 +32,6 @@ The admin console is pretty awesome and has lots of other useful tricks up it sl
 * * *
 
 > _If you are curious to see the app I built using AppEngine, check out[RemoteMatcher](https://RemoteMatcher.com)! It is a remote job aggregator that scans a bunch of job sites and only emails you the ones that match your interests. No more scanning tons of boards, instead just check your inbox for the best matches._
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM1NzM3NTQ0OF19
+-->

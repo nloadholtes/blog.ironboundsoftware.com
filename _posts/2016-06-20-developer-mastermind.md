@@ -2,7 +2,7 @@
 layout:     post
 title:      "Developer Mastermind"
 date:       2016-06-20 11:03:29
-author:     nick
+author:     nickadmin
 categories: uncategorized
 tags:  
 permalink: /2016/06/20/developer-mastermind/
@@ -62,3 +62,6 @@ Sadly, no one responded to my email. I learned a lot and that's ok. I learned ho
 ## Next time:
 
 Be sure to let me know if you would like to learn more about this experiment! I'd be happy to share some more knowledge about this experiment, leave a comment or ping me on twitter! (I'm[ @nloadholtes](https://twitter.com/nloadholtes)) I still think a developer mastermind is a great idea, if you agree, let me know! 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAzMzgyMzE5NV19
+-->

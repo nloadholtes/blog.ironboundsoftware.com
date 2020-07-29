@@ -2,7 +2,7 @@
 layout:     post
 title:      "You should do experiments"
 date:       2016-01-05 05:12:50
-author:     nick
+author:     nickadmin
 categories: statistics,web
 tags:  
 permalink: /2016/01/05/you-should-do-experiments/
@@ -25,3 +25,6 @@ The idea here is that you are letting the customers vote with their actions: The
   * **Why not just ask the users?** Directly asking the users might not always be the best way to find out what they really want. What people think they want vs. what they really want are usually two different things. Experiments allow you to discreetly find out what the users really want (or respond to).
 
 This type of testing is the key to success in the field of advertising. Over the last few decades the professional marketers have been using this technique to determine the absolute best copy to use in their sales ads. (If you look closely at ads from different companies you will notice that there are a lot of similarities.) If this is working great for them, then you should definitely be doing it for you app too! Experiments are a great way to peek inside of your user's thought processes. In future posts I'll detail some ways I've used experiments to determine how to best change my apps and sites in order to get better results.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzgyNzgwMDM1XX0=
+-->

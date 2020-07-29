@@ -2,7 +2,7 @@
 layout:     post
 title:      "The ultimate python comprehensions guide"
 date:       2016-04-25 11:09:42
-author:     nick
+author:     nickadmin
 categories: programming,python,software development,uncategorized
 tags:  
 permalink: /2016/04/25/ultimate-python-comprehensions-guide/
@@ -22,3 +22,6 @@ Another downside of reckless comprehension use is using too much memory. Compreh
 ## Wrapping up
 
 Comprehensions are awesome. The article I linked to covers them is really great detail, and while I encourage all python developers to use them, you do need to know the limits. So go look at your code and see if you can use these today!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTUxNTg3ODcwOF19
+-->

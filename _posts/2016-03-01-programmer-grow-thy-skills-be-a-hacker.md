@@ -2,7 +2,7 @@
 layout:     post
 title:      "Programmer, grow thy skills! Be a hacker!"
 date:       2016-03-01 09:40:05
-author:     nick
+author:     nickadmin
 categories: software development
 tags:  
 permalink: /2016/03/01/programmer-grow-thy-skills-be-a-hacker/
@@ -27,3 +27,6 @@ So how do you get this hacker mindset? Be curious.
   * Ask why
 
 Take these thoughts and run with them! See where it takes you!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkwNzkxMTE5Nl19
+-->

@@ -2,7 +2,7 @@
 layout:     post
 title:      "4 signs it is time to take a break to avoid burnout"
 date:       2016-10-24 11:39:21
-author:     nick
+author:     nickadmin
 categories: thinking
 tags:  
 permalink: /2016/10/24/4-signs-time-take-break-avoid-burnout/
@@ -28,3 +28,6 @@ Crunch time happens. It sucks. But it also doesn't last forever. If you find you
 ## Stop burnout now
 
 If these things sound eerily familiar, then you might have a problem. Stop, asses your situation. Walk away if you have to. Seek help. Develop a plan. Things will get better, and the sooner you realize it, the sooner you can act on it. Trust me, I'm speaking from experience on this one.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjEyNjc2Mzg0N119
+-->

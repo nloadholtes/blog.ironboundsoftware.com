@@ -2,7 +2,7 @@
 layout:     post
 title:      "Staying focused"
 date:       2016-09-12 12:35:39
-author:     nick
+author:     nickadmin
 categories: programming,thinking,uncategorized
 tags:  
 permalink: /2016/09/12/staying-focused/
@@ -28,3 +28,6 @@ Here's my secret for staying focused:
   5. DO IT.
 
 [embed]https://www.youtube.com/watch?v=K4eScf6TMaM[/embed] Software developers, follow these steps and you will develop superhuman powers: you will get so much done so quickly. Stay focused! :)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MzU3NjcyMTNdfQ==
+-->

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hacking on Hacktoberfest"
 date:       2018-10-27 15:38:57
-author:     nick
+author:     nickadmin
 categories: programming,software development
 tags:  
 permalink: /2018/10/27/hacking-on-hacktoberfest/
@@ -32,3 +32,6 @@ Here's a good base search to help get you started: [https://github.com/search?q=
 ## Wrapping up
 
 Open Source software is awesome. If you know it or not, you are probably using it right now. Why not try and contribute to it? Its easy, and can be a lot of fun! And winning a free t-shirt is always awesome. :)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyMDg2ODE1OV19
+-->

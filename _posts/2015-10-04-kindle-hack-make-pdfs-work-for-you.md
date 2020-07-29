@@ -2,7 +2,7 @@
 layout:     post
 title:      "Kindle hack: Make PDFs work for you"
 date:       2015-10-04 08:46:25
-author:     nick
+author:     nickadmin
 categories: productivity
 tags:  
 permalink: /2015/10/04/kindle-hack-make-pdfs-work-for-you/
@@ -12,3 +12,6 @@ Here's a really useful kindle hack I bumbled my way into the other day. I love 
 > To: your_special_address@kindle.com Subject: convert
 
 Be sure to attach your PDF. If everything works like it should (assuming you PDF doesn't have any password protections or really odd formatting) then Amazon should deliver a copy of the PDF in kindle format your kindle within a few minutes. If there's any problems with the conversion, you'll probably get an email from Amazon letting you know what happened. This little kindle hack is perfect for taking notes on a document that was "recommended reading" in a class. If the document is only available in PDF format, grab a copy and send it with the "convert" subject line and boom! You've got a kindle version you can take notes on (and look up words with, which is my favorite kindle feature!)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk5MzMxMTEzOF19
+-->

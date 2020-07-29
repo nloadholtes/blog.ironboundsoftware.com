@@ -2,7 +2,7 @@
 layout:     post
 title:      "Example of great documentation in Python"
 date:       2017-12-11 09:04:37
-author:     nick
+author:     nickadmin
 categories: python
 tags:  
 permalink: /2017/12/11/great-documentation-python/
@@ -23,3 +23,6 @@ Make your docs work as hard as your code does. Clear examples will make your cod
   * Links to where you can learn more details
 
 If you can create that for your code, you are doing a great service to us all.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTU5MjM5ODBdfQ==
+-->

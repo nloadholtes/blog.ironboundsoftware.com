@@ -2,7 +2,7 @@
 layout:     post
 title:      "Mosh, tmux, and twitter: Keeping up on the go"
 date:       2015-08-17 05:35:48
-author:     nick
+author:     nickadmin
 categories: organization,productivity,thinking,web
 tags:  
 permalink: /2015/08/17/mosh-tmux-and-twitter-keeping-up-on-the-go/
@@ -52,3 +52,6 @@ Use a lists to get focused on a topic that is important to you, use a command li
   * Me on twitter: <https://twitter.com/nloadholtes>
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY5Mzk1NTU4Nl19
+-->

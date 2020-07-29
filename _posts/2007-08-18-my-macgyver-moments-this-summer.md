@@ -2,7 +2,7 @@
 layout:     post
 title:      "My MacGyver Moments this summer"
 date:       2007-08-18 10:24:26
-author:     nick
+author:     nickadmin
 categories: thinking
 tags:  
 permalink: /2007/08/18/my-macgyver-moments-this-summer/
@@ -14,3 +14,6 @@ I've blogged about [functional fixedness](http://www.ironboundsoftware.com/blog/
   3. **Keeping a tow line out of the prop on a Pontoon boat** \- This summer we went to a friends lake house and went tubing from their pontoon boat. The boat sits pretty high off the water and the only good place to hook up the line was on the pontoon itself. When the boat was stopped, there was a real danger of the line getting wrapped in the propeller. Since the deck was so high up, I was about 3 feet short of being able to reach the line and pull it back in by hand. Looking around the boat I saw a wooden paddle with a T-handle. I grabbed that and a few seconds later I was able hook the line and pull it up out of the water and keep it from propeller (not to mention pull in the tube).
 
 So the point of this post is to say that the next time you have a situation where you need to solve a problem, take a second and observe your surroundings. The tools you need might just be lying around...
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ2NTk1NDM1MF19
+-->

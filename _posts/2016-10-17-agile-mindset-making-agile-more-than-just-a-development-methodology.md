@@ -2,7 +2,7 @@
 layout:     post
 title:      "Agile mindset: Making agile more than just a development methodology"
 date:       2016-10-17 11:55:52
-author:     nick
+author:     nickadmin
 categories: software development,thinking
 tags:  
 permalink: /2016/10/17/agile-isnt-just-development-methodology/
@@ -30,3 +30,6 @@ The next time your boss tells you something that makes you wince, pause. Quickly
   * "We are going to downsize to use less equipment"  _Well Buddha says that attachment is the root of suffering, so maybe this is a chance to be happier with less crap..._
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgwOTI0Mzc5NF19
+-->

@@ -2,7 +2,7 @@
 layout:     post
 title:      "The importance of taking a small break"
 date:       2016-05-16 12:35:42
-author:     nick
+author:     nickadmin
 categories: programming,software development
 tags:  
 permalink: /2016/05/16/importance-taking-small-break/
@@ -25,3 +25,6 @@ Taking action is a good thing. But taking unfocused action is terrible. It sound
 ## Conclusion: small break == better you
 
 When I'm working with new programmers I try to encourage them to take a small break when they are working for too long. At first it will seem like they are being pulled out of the chase, but more times than not the end result is more productivity in less time. And who wouldn't want that? I'm thinking of doing a blog post and screen cast of how I use the Pomodoro Technique in my day to day work. Leave a comment and let me know if you'd be interested in that!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk1MjE5MzMzXX0=
+-->

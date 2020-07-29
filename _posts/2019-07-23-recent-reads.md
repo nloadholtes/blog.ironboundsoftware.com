@@ -2,7 +2,7 @@
 layout:     post
 title:      "Recent reads"
 date:       2019-07-23 22:44:14
-author:     nick
+author:     nickadmin
 categories: entrepreneur,thinking,tools
 tags:  
 permalink: /2019/07/23/recent-reads/
@@ -43,3 +43,6 @@ Here's just some links of things I've run across that just have me star struck.
 ## Wrapping up
 
 One more quick link: I've been working on reading more lately and after seeing a cool site by [Harper](https://twitter.com/harper) I was inspired to make my own page to show off what I've been tracking on Good Reads. Here's my [Reading List](http://reading.ironboundsoftware.com). What cool things should I be reading? Leave a comment or hit me up on [twitter](https://twitter.com/nloadholtes)!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM2NDAxMDcxNl19
+-->

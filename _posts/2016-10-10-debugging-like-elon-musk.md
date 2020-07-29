@@ -2,7 +2,7 @@
 layout:     post
 title:      "Debugging like Elon Musk"
 date:       2016-10-10 10:25:05
-author:     nick
+author:     nickadmin
 categories: productivity,python,software development,thinking
 tags:  
 permalink: /2016/10/10/debugging-like-elon-musk/
@@ -43,3 +43,6 @@ This is also a great way to think about your unit tests for your code: by testin
 ## Wrapping up
 
 Debugging with first principals is a powerful tool to add to your repertoire of skills. Use it to get down to the root of your problems faster!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUyNzQ4ODI2OF19
+-->

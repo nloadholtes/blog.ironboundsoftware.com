@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resources for building software development skills"
 date:       2016-01-26 10:30:35
-author:     nick
+author:     nickadmin
 categories: software development
 tags:  
 permalink: /2016/01/26/resources-building-software-development-skills/
@@ -20,3 +20,6 @@ I'm a huge fan of podcasts. Now when I'm driving around or out for a nice walk, 
 ## More Resources for building software development skills
 
 These have been my top free resource for building software development skills. In a future post I'll point to some more resources that are great values, but do cost a little bit of money. But don't be scared of the cost! Think of it as investment in your self and your future!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NDY1ODAwNjddfQ==
+-->

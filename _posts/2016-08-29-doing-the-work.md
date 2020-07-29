@@ -2,7 +2,7 @@
 layout:     post
 title:      "Doing the work"
 date:       2016-08-29 10:03:32
-author:     nick
+author:     nickadmin
 categories: getting things done,thinking
 tags:  
 permalink: /2016/08/29/doing-the-work/
@@ -12,3 +12,6 @@ Sometimes it is painful. The deadline that is looming closer. The code that just
 ## That's right, do the work.
 
 No matter what the task is, set your resolve to get it done. Then go do it. Now. It might not be pretty, but at the end of the day it will be. And that is more than most people can say about the things they have struggled with and abandoned. Now, I'm going to go and follow my advice and do the work.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzI0MzI0OTY1XX0=
+-->

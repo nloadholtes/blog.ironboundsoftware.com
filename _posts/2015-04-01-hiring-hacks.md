@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hiring Hacks"
 date:       2015-04-01 06:47:49
-author:     nick
+author:     nickadmin
 categories: analytics,data,statistics,thinking,web
 tags:  
 permalink: /2015/04/01/hiring-hacks/
@@ -48,3 +48,6 @@ Once you've shared the link then you can visit your bit.ly account and view the 
 # Measuring the effect
 
 The goal of all this is of course to get a new job. Normally I would just measure my progress by the number of phone calls and interviews that I've had. Now I have an additional data point of knowing where and when my resume has been read. Thanks for reading! If you'd like to talk be to [check out my resume](http://bit.ly/1EGdxOx) or [hit me up on twitter](https://twitter.com/nloadholtes).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ5MTQyNTU2Nl19
+-->

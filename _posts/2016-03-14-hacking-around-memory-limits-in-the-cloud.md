@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hacking around memory limits in the cloud"
 date:       2016-03-14 12:04:09
-author:     Nick
+author:     Nickadmin
 categories: cloud,golang,uncategorized
 tags:  
 permalink: /2016/03/14/hacking-around-memory-limits-cloud/
@@ -26,3 +26,6 @@ I really don't want to #1, just because its a pain to do for 5 minutes. Plus eve
 ## Wrapping up
 
 So, if you are on a cloud machine and things aren't working, look into adding some swap space. A little bit of swap can go a long way!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg4NDU2MTA0Nl19
+-->

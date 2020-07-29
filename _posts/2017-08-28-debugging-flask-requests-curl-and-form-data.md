@@ -2,7 +2,7 @@
 layout:     post
 title:      "Debugging Flask, requests, curl, and form data"
 date:       2017-08-28 10:09:40
-author:     nick
+author:     nickadmin
 categories: debugging,python
 tags:  
 permalink: /2017/08/28/debugging-flask-requests-curl-and-form-data/
@@ -50,3 +50,6 @@ First and foremost, make sure you are sending the data you think you are. :) Oth
   * Debugging flask sometimes means using other tools. Using netcat/nc to dump out the data is an even better way to make sure you are really sending what you think you are sending.
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ5ODcyOTQ1MV19
+-->

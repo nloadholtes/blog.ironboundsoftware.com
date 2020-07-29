@@ -2,7 +2,7 @@
 layout:     post
 title:      "More Experiments: Traffic thoughts"
 date:       2016-08-08 11:08:05
-author:     nick
+author:     nickadmin
 categories: uncategorized
 tags:  
 permalink: /2016/08/08/more-experiments-traffic-thoughts/
@@ -15,3 +15,6 @@ The greatest waste of time ever invented by humankind is sitting in traffic. [![
   * Its an interesting way to pass the time when you are literally sitting in traffic.
 
 Be sure to check out my play list with all of these videos: [Traffic Thoughts](https://www.youtube.com/playlist?list=PL6SNLjgybLH31lJOlqMu8jA2KyliA90yT) [embed]https://www.youtube.com/playlist?list=PL6SNLjgybLH31lJOlqMu8jA2KyliA90yT[/embed]  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyNzk5MzMzMjVdfQ==
+-->

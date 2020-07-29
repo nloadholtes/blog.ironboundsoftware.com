@@ -2,7 +2,7 @@
 layout:     post
 title:      "On moving from Java into Python"
 date:       2016-11-07 10:20:43
-author:     nick
+author:     nickadmin
 categories: python,software development
 tags:  
 permalink: /2016/11/07/on-moving-from-java-into-python/
@@ -32,3 +32,6 @@ Java is ~~strongly~~ statically typed (e.g. you have to declare the type of a v
 ## Further tips on moving from Java into Python
 
 As with most things in life, experience is the best teacher. The more Python code you write, the better you will adapt the Python way of doing things. [![Effective Python](https://ironboundsoftware.com/blog-imgs/uploads/2016/11/51G2L3Ghp5L._SX322_BO1204203200_-e1478379702469.jpg)](http://amzn.to/2gpMy59)A great starting point would be to consult with a book like [Effective Python](http://amzn.to/2gpMy59). I read this book when it first came out and I refer to it often. I have found it to be a well written resource that offers many practical tips. Its amazing how many times this book has been referenced in conversations around the office. Another suggestion: Use [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code) to see examples of how coding problems are solved in Python compared to Java. That is an awesome site that shows problems solved in many different languages. Also, in the spirit of further practice check out [Codewars](https://www.codewars.com/kata). I've been using that site to do some daily warm up exercises before jumping into my regular coding. I've found it is an excellent way to get the brain warmed up and to be reminded of "other" ways to solve problems.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM2NTc0NjU2Nl19
+-->

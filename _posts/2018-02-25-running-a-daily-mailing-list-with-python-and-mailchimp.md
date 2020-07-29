@@ -2,7 +2,7 @@
 layout:     post
 title:      "Running a daily mailing list with Python and MailChimp"
 date:       2018-02-25 16:02:03
-author:     nick
+author:     nickadmin
 categories: python
 tags:  
 permalink: /2018/02/25/daily-email-list-python-mailchimp/
@@ -67,3 +67,6 @@ Considering this is a small list on a very niche topic, and is running on a free
 Another interesting thought: before I used to stress a little about picking the “right” quote for the day. By handing this responsibility to Python’s `random.sample()` function, I no longer worry about this. Instead I too get the pleasant surprise of seeing a random quote every weekday. 
 
 Quick Note: I haven’t done the cronjob YET because I still haven’t fully automated the Facebook script that cross posts these quotes. Once I get that “fixed” the whole process will become hands off.  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU4NTUzNDAyOV19
+-->

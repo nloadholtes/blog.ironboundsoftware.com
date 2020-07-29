@@ -2,7 +2,7 @@
 layout:     post
 title:      "Asking questions to move forward"
 date:       2016-02-22 09:59:56
-author:     nick
+author:     nickadmin
 categories: software development
 tags:  
 permalink: /2016/02/22/asking-questions-to-move-forward/
@@ -25,3 +25,6 @@ A perfect example of this is a question I once asked during a stand up meeting. 
 ## Questioning yourself
 
 Questions also help build your knowledge. More than once I've discovered that I didn't understand something as well as others (or myself) thought I did. The times where I've kept quiet and tried to catch up on my own... well, that didn't work out so well. Raising your hand early in that situation is much better. Most people have no problem answering questions, especially in the beginning of a project. But once things are well underway... It can get a little awkward. But still, ask those questions! Don't just let the holes in your knowledge sit there and potentially grow bigger. A question is an opportunity for you to grow.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMxMzMzMTQxM119
+-->

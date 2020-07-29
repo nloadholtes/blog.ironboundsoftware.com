@@ -2,7 +2,7 @@
 layout:     post
 title:      "Mongo and Flask Performance Tuning: quick and easy"
 date:       2015-09-02 05:30:13
-author:     nick
+author:     nickadmin
 categories: flask,programming,python,web
 tags:  
 permalink: /2015/09/02/mongo-and-flask-performance-tuning-quick-and-easy/
@@ -33,3 +33,6 @@ After adding the select_related() to a few more queries we saw the time it took 
   * Talk with someone else about the problem, a fresh perspective can do wonders.
 
 For this situation at [Vunify](http://www.vunify.com), we had some lazy loading that was going on. This wasn't obvious at first glance, and only by explaining the problem to someone else was I able to get the clarity to examine the code with a fresh perspective.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAyNDkwMDU4Ml19
+-->

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Using functools.partial to refactor repetitive code"
 date:       2018-03-23 17:10:25
-author:     nick
+author:     nickadmin
 categories: python
 tags:  
 permalink: /2018/03/23/using-functools-partial-to-refactor-repetitive-code/
@@ -28,3 +28,6 @@ Clearly things need to change. I have 2 new sources I want to add to the system 
 ## Parting thoughts
 
 Although the total line count didn't go down tremendously in the video, the code in the `views.py` file is on the path to getting more streamlined and having less of business logic laced into it. The root cause of this was me hacking on it to "just get it working". Since I knew I was going to have 2 similar but different data sources I didn't put a lot of thought into "correct" software architecture principals early on. Thankfully I revisited this code before it got too nasty. So, the moral of the story: revisit your code and look for opportunities to simplify and consolidate things. That and Python's `functools` module is pretty awesome! A lot of things like [partials](https://docs.python.org/2/library/functools.html#functools.partial) sound like magic, but when you need them they work perfectly.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI2NTA5Njk5M119
+-->

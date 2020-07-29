@@ -2,7 +2,7 @@
 layout:     post
 title:      "Dev Twitters to follow"
 date:       2010-12-07 20:48:17
-author:     nick
+author:     nickadmin
 categories: programming
 tags:  
 permalink: /2010/12/07/dev-twitters-to-follow/
@@ -15,3 +15,6 @@ In an earlier post, I talk about how [twitter is becoming the new "plan file"](h
   * [Zed Shaw](http://twitter.com/#!/zedshaw) \- An old-school hacker, he's always up to something interesting
 
 There's a ton more out there, go and check it out!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5MjYxMzQxOV19
+-->

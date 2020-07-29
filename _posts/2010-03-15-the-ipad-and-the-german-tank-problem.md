@@ -2,7 +2,7 @@
 layout:     post
 title:      "The iPad and the German Tank Problem"
 date:       2010-03-15 19:06:21
-author:     nick
+author:     nickadmin
 categories: apple,math,probability,statistics
 tags:  
 permalink: /2010/03/15/the-ipad-and-the-german-tank-problem/
@@ -40,3 +40,6 @@ Why? There's two reasons: The main one is that our sample size (of 2 orders) is 
 ## So how many were sold?
 
 That's a really good question. Knowing Apple and how people love their products, I bet they sold a TON of iPads. But based off these rough numbers we see in the news, we can't really draw a good conclusion. We can get a couple of estimates which are better than nothing, but they are so numerically shaky (huge standard deviation and enormously questionable confidence interval) that they strain believability. More data points will help establish a upper bound (i.e. the estimated maximum number sold), but without a lower bound to keep us grounded the numbers will still look really huge.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc3NzM2OTQyN119
+-->

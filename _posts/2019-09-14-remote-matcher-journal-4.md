@@ -2,7 +2,7 @@
 layout:     post
 title:      "Remote Matcher Journal #4"
 date:       2019-09-14 11:28:02
-author:     nick
+author:     nickadmin
 categories: business,remotematcher
 tags:  
 permalink: /2019/09/14/remote-matcher-journal-4/
@@ -48,3 +48,6 @@ This past week there was a goal to write more tweets to feed into twitter. This 
   3. 20 new tweets (recycling this one, AGAIN. It is literally an OKR and is something I should be doing in my spare time.)
 
 Questions? Comments? [Email me](mailto:nick@ironboundsoftware.com) and ask away!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMTUwMjUwNTVdfQ==
+-->

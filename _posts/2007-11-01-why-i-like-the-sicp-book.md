@@ -2,7 +2,7 @@
 layout:     post
 title:      "Why I like the SICP book"
 date:       2007-11-01 19:00:25
-author:     nick
+author:     nickadmin
 categories: lisp,math
 tags:  
 permalink: /2007/11/01/why-i-like-the-sicp-book/
@@ -14,3 +14,6 @@ The [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/
   * [CLMath](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/code/math/clmath/0.html)
 
 Go check them out, they are great resources!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0NjY0NTE0NDJdfQ==
+-->

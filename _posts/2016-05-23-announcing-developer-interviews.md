@@ -2,7 +2,7 @@
 layout:     post
 title:      "Announcing Developer Interviews"
 date:       2016-05-23 09:59:54
-author:     nick
+author:     nickadmin
 categories: programming,thinking
 tags:  
 permalink: /2016/05/23/announcing-developer-interviews/
@@ -20,3 +20,6 @@ The book is available for a very programmer friendly price of $1.28, or if you a
 ## The motivation for Developer Interviews
 
 Too often I feel that interviews "just happen" or are otherwise taken for granted. Especially by those who aren't as intimidated by the whole process. Additionally I've observed that while an interview might seem to go great, or the company might really want you to join them, there are warning signs that you should look out for. If you see one of those, then that might not be the job for you! So if you are looking for advice on what you can do better when interviewing, please check this book out! If you have any questions or comments, please feel free to leave me a comment below.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjEwNjIwMDQ3Nl19
+-->

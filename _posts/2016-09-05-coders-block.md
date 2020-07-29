@@ -2,7 +2,7 @@
 layout:     post
 title:      "Coder's block"
 date:       2016-09-05 12:11:00
-author:     nick
+author:     nickadmin
 categories: programming,thinking
 tags:  
 permalink: /2016/09/05/coders-block/
@@ -27,3 +27,6 @@ Sometimes we just get blocked and we either can't take a long break due to deadl
   * Work in a different physical location -- This is a timeless tip. A new environment will shift your mindset just enough to make you think a little different. Go find a coffee shop or some other location. Even if you get zero code written, just being out and about can help you so much.
 
 What are some of your favorite ways to get around coder's block?
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUwOTU5ODQ5Ml19
+-->

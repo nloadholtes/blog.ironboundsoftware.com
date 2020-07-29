@@ -2,7 +2,7 @@
 layout:     post
 title:      "RemoteMatcher Journal #3"
 date:       2019-09-10 07:34:42
-author:     nick
+author:     nickadmin
 categories: business,remotejournal
 tags:  
 permalink: /2019/09/10/remotematcher-journal-3/
@@ -60,3 +60,6 @@ Making money is a goal, so it makes sense to create a way for this to happen. Th
   3. 20 new tweets (recycling this one, it is easy and needs to be done!)
 
 Questions? Comments? [Email me](mailto:nick@ironboundsoftware.com) and ask away!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjgzMDcyNzc4XX0=
+-->

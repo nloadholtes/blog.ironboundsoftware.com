@@ -2,7 +2,7 @@
 layout:     post
 title:      "Faster Flask: Why you need gunicorn"
 date:       2016-06-27 10:22:33
-author:     nick
+author:     nickadmin
 categories: flask,python,uncategorized,web
 tags:  
 permalink: /2016/06/27/faster-flask-need-gunicorn/
@@ -52,3 +52,6 @@ Flask is awesome. Using gunicorn will make it even more awesome.
 For next level awesomeness, throw it all onto Amazon's ElasticBeanstalk. 
 
 The end result? Faster flask, more traffic.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NzU5Mzc0NDBdfQ==
+-->

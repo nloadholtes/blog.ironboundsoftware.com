@@ -9,7 +9,7 @@ tags: organization
 
 Perfection is a bitch.
 
-It tells us that we aren't doing a good job, that our efforts aren't worth. That what we are doing isn't ready to be seen.
+It tells us that we aren't doing a good job, that our efforts aren't worth it. That what we are doing isn't ready to be seen.
 
 On the other hand we have people telling us "Perfection is the enemy, just make it good enough!" yet when we ask "What does good enough look like?" we are met with silence.
 
@@ -33,7 +33,7 @@ In this situation you have to produce something or else you will get in trouble.
 
 Obviously this is going to really depend on the situation you are in. Some people have no sense of humor, so turning in a cartoon drawing of yourself sleeping might not be the best choice.
 
-I will propose that you spend a few minutes making a plan. This plan involves looking at what needs to be accomplished, and what steps would lead to that. Then doing just a minimum amount of that work... Believe it or not, this is the same approach you should take to make sure you don't go overboard....
+I will propose that you spend a few minutes making a plan. This plan involves looking at what needs to be accomplished, and what steps would lead to that. Then doing just a minimum amount of that work. Believe it or not, this is the same approach you should take to make sure you don't go overboard...
 
 ## Not going too far
 
@@ -51,7 +51,7 @@ If you complete those 2 tasks, someone looking at your work (for that milestone)
 
 BUT... let's examine the other side of that coin. Let's say you completed 2 tasks, and showed them to your boss. The boss looks at the work and says "This isn't what I wanted, I wanted you to do XYZ instead..."
 
-THIS IS A GOOD THING.
+**THIS IS A GOOD THING.**
 
 Imagine if you hadn't done the planning and picked the 2 items to work on. Instead you just went for it and put in a ton of time and effort on the "wrong things". You would have wasted a tremendous amount of time! 
 

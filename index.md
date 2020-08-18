@@ -27,9 +27,9 @@ Here are the latest posts
 {% for post in site.posts limit:10 %}
 <div>
 <h3>{{ post.title }}</h3>
-
+<blockquote>
 {{ post.summary }}
-  
+</blockquote> 
 <i>Published on {{ post.date | date: "%a, %b %d %Y" }}</i><br>
 <a href="{{post.url | prepend:site.baseurl | prepend:site.url}}">Read more...</a>
 </div>

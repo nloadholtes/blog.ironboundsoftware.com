@@ -5,6 +5,7 @@ title:      "The tyranny of good enough"
 date:       2020-07-29
 categories: thinking
 tags: organization
+summary: Figuring out how little you should do, or how to quit doing too much
 ---
 
 Perfection is a bitch.

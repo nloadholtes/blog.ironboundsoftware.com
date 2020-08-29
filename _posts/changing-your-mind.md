@@ -12,6 +12,8 @@ But every day there's new advice on what you should be doing. Some of it is date
 
 This is where I was a few months ago.
 
+---
+
 Try as I might, the project I was most passionate about (remotematcher.com) just wasn't making the progress I wanted. I tried doing a sprint. I tried the 12 week year (which is a great book). I tried getting organized, I tried getting comfortable with shipping things half done so I could "always be hustlin'".
 
 Around this time I started to notice I was drowning in noise. So many commentators giving out so many bits of advice. So many "life hacks" that I needed to start doing every day after I wake up at 4:30am... Eventually I just stopped. I was so unhappy.
@@ -21,6 +23,8 @@ Thankfully there was something else going on in the world that was able to help 
 Now that I've had several months to get off the roller coaster and look around, I'm wondering why I would want to get back on? Ironically one of the last bits of advice I saw from that community was to "blog and learn about the thing that excites you the most, build an audience, then build something to help them!"
 
 That's pretty solid advice for building a business. My interests don't seem to be anything that I think I can build something for, but I have decided that this sounds more fun that what I was doing, so why not give it a try.
+
+---
 
 So for the foreseeable future, I'm going to focus on 2 things I am really interested in, and not worry a bit about "product market fit", or "lead magnet conversion rates", or "does this blog post have enough longtail content and SEO signals" or any of that other bullshit that while important, makes me unhappy.
 

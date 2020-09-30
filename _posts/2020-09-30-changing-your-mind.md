@@ -5,6 +5,7 @@ title:      "It's ok to change your mind"
 date:       2020-09-30
 categories: thinking
 tags: thinking
+summary: At some point, you need to decide what is important.
 ---
 
 While it is good to be persistent, sometimes you are just on the wrong track. When you hit that point, it is important to stop, reassess what you are doing and ask "Is this what I want?"

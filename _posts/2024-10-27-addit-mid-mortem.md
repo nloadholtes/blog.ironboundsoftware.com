@@ -18,7 +18,7 @@ Since I've already started the project, the former is premature, and latter is t
 ## The subject: Addit Pulse
 A few months ago I saw a random tweet asking for what I thought was a great idea: a place to see who is advertising on a subreddit:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">is there any tool that shows who&#39;s advertising on Reddit? like FB ads library. <br><br>I want a list of every advertiser targeting a subreddit</p>&mdash; stetson 🤠 (@stetsblake) <a href="https://twitter.com/stetsblake/status/1779902015960678813?ref_src=twsrc%5Etfw">April 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" align=center><p lang="en" dir="ltr">is there any tool that shows who&#39;s advertising on Reddit? like FB ads library. <br><br>I want a list of every advertiser targeting a subreddit</p>&mdash; stetson 🤠 (@stetsblake) <a href="https://twitter.com/stetsblake/status/1779902015960678813?ref_src=twsrc%5Etfw">April 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This seemed like a fun idea to build out, and something that would be really useful. In other words, a business idea I could make money with!
 

@@ -11,7 +11,7 @@ summary: Using Python to help my son fix his Fortnite gift card
 
 My son got a Fortnite gift card recently, and in his excitement to cash it in he scratched too hard and rubbed off some of the characters. Because it was a gift, we didn't have a receipt so I was concerned that customer support might not be to help us.
 
-![[2024-11-02-pin-redacted.jpg]]
+![[images/2024-11-02-pin-redacted.jpg]]
 
 _I've redacted the whole PIN to help us focus in on the first 4 digits._
 

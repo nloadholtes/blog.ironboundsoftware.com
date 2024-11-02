@@ -61,7 +61,7 @@ possible_b_chars = "JU" # 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 Which is 11 and 2, or 22 possible combinations. Much better than trying 1,296 we could manually try this quickly. I did add a `random.shuffle()` to mix up the numbers a little bit, I was concerned if we looked like we were trying them in order that the system might ban us sooner.
 
-So with my shuffled list of 22 I logged into my son's account and tried them one by one... and on the 18th try it worked!
+So with my shuffled list of 22 I logged into my son's account and tried them one by one... and on the 18th try it worked! That sounds like a big number but it only took me about 3 minutes to get to it. So pretty quick overall!
 
 It turned out the missing characters were `KJ` which now seems obvious when we look at the card, but at the time we didn't see that.
 
@@ -75,7 +75,7 @@ But all he probably cares about at the moment is that he has a bunch of V-Bucks 
 
 ---
 ## So where's the code?
-I'm publishing this code kinda incomplete. I don't want to just hand everyone the complete code because if you try and run through all combinations (e.g. you are trying to get free V-Bucks) **you will get banned.** 
+I'm publishing this code kinda incomplete. I don't want to just hand everyone the complete code because if you try and run through all combinations (e.g. you are trying to get free V-Bucks) **you will get banned.**
 
 So here's a Python function that demonstrates the ideas in this post without actually producing a full pin.
 

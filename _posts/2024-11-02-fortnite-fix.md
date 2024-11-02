@@ -11,7 +11,7 @@ summary: Using Python to help my son fix his Fortnite gift card
 
 My son got a Fortnite gift card recently, and in his excitement to cash it in he scratched too hard and rubbed off some of the characters. Because it was a gift, we didn't have a receipt so I was concerned that customer support might not be to help us.
 
-![[images/2024-11-02-pin-redacted.jpg]]
+![pin image](images/2024-11-02-pin-redacted.jpg)
 
 _I've redacted the whole PIN to help us focus in on the first 4 digits._
 
@@ -44,7 +44,7 @@ They use large numbers like that to help keep people from guessing the code and 
 
 I used my phone and a bright light to zoom in and take a closer look.
 
-![[2024-11-02-first-4-zoom-zoom.jpg]]
+![zoom in of first 4](images/2024-11-02-first-4-zoom-zoom.jpg)
 
 The font that was used on these cards is a huge help: it tries to be unambiguous about what the character is. For example, the 5 and a capital S do not look alike. So because we have some partial marks in the red and blue squares, we can made some educated guesses.
 

@@ -38,8 +38,59 @@ So, how do you reduce the problem space?
 ## Looking harder
 So a pin for these gift cards seems to be the (capital) letters A through Z, and the numbers 0 to 9. And there seems to be 24 characters per pin code. So that is 36 raised to the 24th power which has 38 digits. That's a huge number!
 
-> Side note: There are some letters that might not be in the set of possible letters. For example, it can be hard to tell the capital letter O from the number zero (0). But for this problem even if we eliminated I and O, we would still be looking at 34 different characters per position which is a lot. Especially when we don't know where the "you've tried to many" limit is.
+> Side note: There are some letters that might not be in the set of possible letters. For example, it can be hard to tell the capital letter O from the number zero (0), so it is totally possible that they aren't using those. But for this problem even if we eliminated I and O, we would still be looking at 34 different characters per position which is a lot. Especially when we don't know where the "you've tried to many" limit is.
 
 They use large numbers like that to help keep people from guessing the code and getting free stuff. Thankfully we only need 2 characters. Are there any hints on what these characters could be?
 
 I used my phone and a bright light to zoom in and take a closer look.
+
+![[2024-11-02-first-4-zoom-zoom.jpg]]
+
+The font that was used on these cards is a huge help: it tries to be unambiguous about what the character is. For example, the 5 and a capital S do not look alike. So because we have some partial marks in the red and blue squares, we can made some educated guesses.
+
+Let's start with the easy one, the blue square. It looks like it could be a U, or maybe even a J. In the rest of the pin that I redacted we had some other example of characters that has a similar shape like the number 0. We felt pretty confident we could eliminate a bunch of "impossible" characters and reduce the size of our search space from `36*36` (1,296) down to `36*2` which is only 72. Progress!
+
+The red box was a little more challenging. We were convinced at first that it was a "4". But we had a 4 elsewhere in the pin and saw it had a different shape because it was angled. Also, that horizontal piece looks darker than the other lines, and is angled slightly differently. Could it just be part of the letters that were scratched off? 
+
+We went through the alphabet and numbers and narrowed it down to 11 that we thought it could realistically be based on the shape. This is what we wound up with:
+
+```python
+possible_a_chars = "5BDEFHKLPRU"
+possible_b_chars = "JU" # 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+```
+
+Which is 11 and 2, or 22 possible combinations. Much better than trying 1,296 we could manually try this quickly. I did add a `random.shuffle()` to mix up the numbers a little bit, I was concerned if we looked like we were trying them in order that the system might ban us sooner.
+
+So with my shuffled list of 22 I logged into my son's account and tried them one by one... and on the 18th try it worked!
+
+It turned out the missing characters were `KJ` which now seems obvious when we look at the card, but at the time we didn't see that.
+
+So, in the end my son got to see:
+* How to analyze a problem
+* 2 different unsuccessful approaches to solving it (manually, asking the AI to analyze the image)
+* A simple python program to generate the combinations
+* How to reduce the scope of the problem with a better heuristic rather than brute force guessing
+
+But all he probably cares about at the moment is that he has a bunch of V-Bucks that he can now spend in Fortnite.
+
+---
+## So where's the code?
+I'm publishing this code kinda incomplete. I don't want to just hand everyone the complete code because if you try and run through all combinations (e.g. you are trying to get free V-Bucks) you will get banned. 
+
+So here's just a function that demonstrates the ideas in this post without actually producing a full pin.
+
+If you use this and get banned from your account, that's on you.
+
+```python
+def generate_combinations():
+	# 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    possible_a_chars = "5BDEFHKLPRU"
+    possible_b_chars = "JU" 
+    combinations = []
+    
+    for a in possible_a_chars:
+        for b in possible_b_chars:
+            code = f"7{a}{b}S"
+            combinations.append(code)
+    return combinations
+```

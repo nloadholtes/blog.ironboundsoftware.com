@@ -75,22 +75,41 @@ But all he probably cares about at the moment is that he has a bunch of V-Bucks 
 
 ---
 ## So where's the code?
-I'm publishing this code kinda incomplete. I don't want to just hand everyone the complete code because if you try and run through all combinations (e.g. you are trying to get free V-Bucks) you will get banned. 
+I'm publishing this code kinda incomplete. I don't want to just hand everyone the complete code because if you try and run through all combinations (e.g. you are trying to get free V-Bucks) **you will get banned.** 
 
-So here's just a function that demonstrates the ideas in this post without actually producing a full pin.
+So here's a Python function that demonstrates the ideas in this post without actually producing a full pin.
 
-If you use this and get banned from your account, that's on you.
+If you use this and get banned, that's on you.
 
 ```python
 def generate_combinations():
 	# 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
     possible_a_chars = "5BDEFHKLPRU"
-    possible_b_chars = "JU" 
+    possible_b_chars = "JU"
     combinations = []
-    
+
     for a in possible_a_chars:
         for b in possible_b_chars:
             code = f"7{a}{b}S"
             combinations.append(code)
     return combinations
+
+# Generate and print all combinations
+codes = generate_combinations()
+for i, code in enumerate(codes, 1):
+    print(f"{i}. {code}")
+```
+
+To run this, copy and paste into a file (`gen.py` for example) and then run from your command line:
+
+`python3 gen.py`
+
+And you should see output that looks like this:
+
+```
+1. 75JS
+2. 75US
+3. 7BJS
+4. 7BUS
+5. 7DJS
 ```

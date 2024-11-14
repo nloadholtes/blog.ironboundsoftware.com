@@ -9,6 +9,9 @@ tags:
 summary: Talking about a recent bad experience with a Large Language Model
 ---
 
+> Note: Originally I was writing this up as a journal entry, but decided this would be something worthwhile to share.
+
+
 Large Language Models (LLMs) like ChatGPT are all the rage these days. Some people fear them, some people love them, some people don't know what to think of them. I tend to fall more into the "Love them!" group, but I had an encounter yesterday that has me seething a little bit.
 
 My preferred LLM is [Claude](https://claude.ai). I find it to be very good at producing code which is my main use case for it. I've also found it give really good conversational answers when I ask it non-programming related questions.
@@ -37,6 +40,7 @@ For some reason although I was moving this text all around I never actually **re
 
 I was furious. I had wasted a lot of time (like 2 hours) wrestling with a landing page that wasn't going to even answer the core question we were discussing. I pointed this out to Claude and it was all "Oh yeah, that makes sense. Let's do this instead..."
 
+![Skipping down the road holding hands, who knows where we will wind up](/images/2024-11-14-the-path.jpg)
 ## So what is the lesson here?
 
 When using an LLM to brainstorm or get coaching you need to keep a few things in mind:

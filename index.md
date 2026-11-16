@@ -28,7 +28,7 @@ Here are the latest posts
 <div>
 <h3>{{ post.title }}</h3>
 <blockquote>
-{{ post.summary }}
+{{ post.summary | default: post.excerpt }}
 </blockquote> 
 <i>Published on {{ post.date | date: "%a, %b %d %Y" }}</i><br>
 <a href="{{post.url | prepend:site.baseurl | prepend:site.url}}">Read more...</a>

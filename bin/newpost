@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+# Usage: bin/newpost "My Post Title"
+# Creates _inbox/<slug>.md, opens $EDITOR, then offers to commit and push it.
+set -euo pipefail
+
+cd "$(dirname "$0")/.."
+title="${*:-}"
+if [[ -z "$title" ]]; then
+  read -rp "Title: " title
+fi
+
+slug=$(echo "$title" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g; s/^-+|-+$//g')
+file="_inbox/${slug:-post}.md"
+
+git pull --rebase --quiet || true
+[[ -e "$file" ]] || printf '# %s\n\n' "$title" > "$file"
+"${EDITOR:-vi}" "$file"
+
+read -rp "Publish \"$title\" now? [Y/n] " ans
+if [[ "${ans:-y}" =~ ^[Yy]$ ]]; then
+  git add "$file"
+  git commit -m "New post: $title"
+  git push
+  echo "Pushed. The Action will publish it in a minute or two."
+else
+  echo "Saved to $file (not pushed)."
+fi

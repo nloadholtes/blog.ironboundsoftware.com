@@ -1,0 +1,56 @@
+name: Publish inbox posts
+
+# Drop a plain .md/.txt file into _inbox/ and push. This turns it into a
+# dated post in _posts/ and kicks off a GitHub Pages build.
+on:
+  push:
+    branches: [master]
+    paths: ["_inbox/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: publish-inbox
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      # Timezone used to date posts (so a late-night post gets the right day).
+      TZ: America/New_York
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Move inbox files into _posts
+        id: publish
+        run: |
+          titles=$(python3 .github/scripts/publish_inbox.py)
+          {
+            echo "titles<<EOF"
+            echo "$titles"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push
+        if: steps.publish.outputs.titles != ''
+        env:
+          TITLES: ${{ steps.publish.outputs.titles }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A _inbox _posts
+          git commit -m "Publish: $(echo "$TITLES" | paste -sd ';' - | sed 's/;/; /g')"
+          git push
+
+      # Pushes made with GITHUB_TOKEN don't always trigger a Pages build,
+      # so ask for one explicitly.
+      - name: Request Pages build
+        if: steps.publish.outputs.titles != ''
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"

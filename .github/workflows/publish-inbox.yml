@@ -23,7 +23,7 @@ jobs:
       # Timezone used to date posts (so a late-night post gets the right day).
       TZ: America/New_York
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
       - name: Move inbox files into _posts
         id: publish

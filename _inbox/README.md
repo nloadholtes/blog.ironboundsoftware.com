@@ -4,9 +4,14 @@ Drop a new post here as plain markdown (or .txt) and push to `master`.
 
 ```
 # My Post Title
+Tags: space, robots
+Summary: Optional one-liner for the homepage.
 
 Write whatever you want...
 ```
+
+`Tags:` and `Summary:` are optional, must come right after the title, and are
+removed from the post body. Tags can be comma- or space-separated.
 
 A GitHub Action will:
 

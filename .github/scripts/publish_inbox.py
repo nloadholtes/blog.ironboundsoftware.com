@@ -43,6 +43,28 @@ def split_title(body):
     return None, body
 
 
+META_LINE = re.compile(r"^(tags|summary):\s*(.*)$", re.I)
+
+
+def split_meta(body):
+    """Pull leading 'Tags: a, b' / 'Summary: ...' lines off the top of the body."""
+    lines = body.splitlines()
+    meta = {}
+    i = 0
+    while i < len(lines):
+        if not lines[i].strip() and not meta:
+            i += 1
+            continue
+        m = META_LINE.match(lines[i].strip())
+        if not m:
+            break
+        meta[m.group(1).lower()] = m.group(2).strip()
+        i += 1
+    if not meta:
+        return meta, body
+    return meta, "\n".join(lines[i:]).lstrip("\n")
+
+
 def unique_path(path):
     candidate, n = path, 2
     while candidate.exists():
@@ -66,8 +88,16 @@ def publish(src, today):
         title, body = split_title(text)
         if not title:
             title = re.sub(r"[-_]+", " ", name).strip().title() or "Untitled"
-        front = f"---\ntitle: {json.dumps(title)}\ndate: {date}\n---\n\n"
-        out = front + body.rstrip() + "\n"
+        meta, body = split_meta(body)
+        front = f"---\ntitle: {json.dumps(title)}\ndate: {date}\n"
+        if meta.get("summary"):
+            front += f"summary: {json.dumps(meta['summary'])}\n"
+        raw = meta.get("tags", "")
+        tags = [t.strip().lstrip("#") for t in re.split(r"," if "," in raw else r"\s+", raw)]
+        tags = [t for t in tags if t]
+        if tags:
+            front += "tags:\n" + "".join(f"  - {json.dumps(t)}\n" for t in tags)
+        out = front + "---\n\n" + body.rstrip() + "\n"
 
     dest = unique_path(POSTS / f"{date}-{slugify(name)}.md")
     dest.write_text(out, encoding="utf-8")

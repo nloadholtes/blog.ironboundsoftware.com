@@ -1,5 +1,9 @@
-# Planning, doing
-Tags: thinking
+---
+title: "Planning, doing"
+date: 2026-11-17
+tags:
+  - "thinking"
+---
 
 Part of this "write every day" challenge is help me learn to plan things out a little bit better.
 
@@ -15,4 +19,3 @@ So for this project I:
 A fairly simple plan. If I can't accomplish this... yikes I probably have bigger problems.
 
 So in the coming days expect to see more about: Space exploration, software and AI thoughts, taking action, and other aspirational topics.
-

@@ -1,4 +1,7 @@
-# Green eyed monsters
+---
+title: "Green eyed monsters"
+date: 2026-11-18
+---
 
 With the catch of the starship this weekend the predictable happened yet again: tons of criticism of what is an obvious engineering success. 
 
@@ -10,4 +13,4 @@ I personally am thrilled to be alive and see these amazing fears feats being acc
 
 Go out and build. Strive. Archive. 
 
-Leave those critics where they belong, in the shadows to be forgotten when the sun comes out. 
+Leave those critics where they belong, in the shadows to be forgotten when the sun comes out.

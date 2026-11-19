@@ -1,5 +1,10 @@
-# The transformation of software development
-Tags: AI, software dev 
+---
+title: "The transformation of software development"
+date: 2026-11-19
+tags:
+  - "AI"
+  - "software dev"
+---
 
 Compared to what I was doing 2 years ago, being a Software Developer has completely changed with the introduction of LLMs.
 
@@ -21,4 +26,3 @@ I find myself very concerned about "verification" of what we are building. And I
 And that's probably one of the biggest internal shifts for me. In a short period of time I have become a Project Manager instead of a Project Builder. Sure I could invest the time and learn a new language, but what does that buy me? The returns I get from better planning and then guiding the machine seem to far outweigh the joy I got from building toy programs as I learned something new.
 
 Its a strange new world. I like it, but I'm still adjusting to it.
-

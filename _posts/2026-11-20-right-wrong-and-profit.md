@@ -1,5 +1,9 @@
-# Right, wrong, and profit
-Tags: thinking
+---
+title: "Right, wrong, and profit"
+date: 2026-11-20
+tags:
+  - "thinking"
+---
 
 I am conflicted. The "I stand with Jensen" petitions seem like an idea I agree with. I think this rapid removal from Nvida was... premature. But I can't bring myself to sign on with that particular petition.
 

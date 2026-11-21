@@ -1,5 +1,10 @@
-# Results > efforts
-Tags: software development
+---
+title: "Results > efforts"
+date: 2026-11-21
+tags:
+  - "software"
+  - "development"
+---
 
 At work one of the biggest shifts I think I'm seeing is around Pull Requests (PRs). In the past a PR was a good proxy for where our effort was going.
 
@@ -14,4 +19,3 @@ So we are quickly getting to the point where everyone involved needs to care dee
 But now that the machine can spit out near-perfect features... we have to spend more time juding the results. As in we need to define our rubrics around the results of the work.
 
 This is quite a shift. I am and will struggle with this for a while.
-

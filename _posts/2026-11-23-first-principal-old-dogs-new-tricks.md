@@ -1,4 +1,7 @@
-# First principal: Old dogs, new tricks
+---
+title: "First principal: Old dogs, new tricks"
+date: 2026-11-23
+---
 
 While it looks like AI is transforming the profession of Software Development, this weekend I had a minor revelation: It is actually stripping away the cruft.
 
@@ -21,6 +24,3 @@ Ask if the latency introduced by a design is worth the tradeoffs.
 Ask if we've optimized the general case, or some edge cade.
 
 Basically all the things so few of us asked about before, are now probably the main things we should be thinking about and working towards.
-
-
-

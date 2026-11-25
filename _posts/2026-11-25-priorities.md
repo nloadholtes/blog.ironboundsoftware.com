@@ -1,4 +1,7 @@
-# Priorities
+---
+title: "Priorities"
+date: 2026-11-25
+---
 
 A little while back I heard something to the effect of "Never say you didn't have time, say it wasn't a priority."
 
@@ -11,4 +14,3 @@ And you you can't answer yes to that question, then you have to look in the mirr
 Pick your priorities. And then show the world you mean it.
 
 And if time runs out? You are probably spending it on things that aren't priorities.
-
